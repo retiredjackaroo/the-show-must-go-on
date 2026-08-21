@@ -16,6 +16,8 @@ publish: true
 
 # Ordrin Emberkeg
 
+![[Assets/Ordrin Emberkeg.png]]
+
 The party's war cleric served as quartermaster for [[The Company That Wouldn't Die]], keeping its soldiers armed, supplied and—when circumstances allowed—properly lubricated. A capable smith and brewer, Ordrin understood that an army marched on sound equipment, full stores and something worth drinking at the end of the day.
 
 During an early battle, officers abandoned the field and left the company surrounded by the dying. In the midst of the slaughter, Ordrin experienced a revelation from a god of war and emerged able to heal wounds, rally broken fighters and deliver divine judgment.
