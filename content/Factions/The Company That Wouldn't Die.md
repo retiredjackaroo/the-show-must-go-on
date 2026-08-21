@@ -42,8 +42,6 @@ The three travel as deserters, mutineers and—whether they know it or not—wan
 
 When innocent people are threatened, their old instincts return: Thud reaches for his hammer, the cleric hears the voice of his god, and Lucian draws his blade with a smile.
 
-> “The show must go on.”
-
 ## Unanswered Questions
 
 - Did any members of the old company survive, and do they view the trio as heroes or traitors?
