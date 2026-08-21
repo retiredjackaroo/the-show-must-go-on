@@ -16,7 +16,9 @@ publish: true
 
 # Ordrin Emberkeg
 
-The party's war cleric began as an ordinary soldier. During an early battle, officers abandoned the field and left the company surrounded by the dying. In the midst of the slaughter, the soldier experienced a revelation from a god of war and emerged able to heal wounds, rally broken fighters and deliver divine judgment.
+The party's war cleric served as quartermaster for [[The Company That Wouldn't Die]], keeping its soldiers armed, supplied and—when circumstances allowed—properly lubricated. A capable smith and brewer, Ordrin understood that an army marched on sound equipment, full stores and something worth drinking at the end of the day.
+
+During an early battle, officers abandoned the field and left the company surrounded by the dying. In the midst of the slaughter, Ordrin experienced a revelation from a god of war and emerged able to heal wounds, rally broken fighters and deliver divine judgment.
 
 After several campaigns beside [[Thud]] and [[Lucian Vale]], the cleric's loyalty rested more with those comrades than with the crown. The cleric joined their mutiny against [[Lord-Captain Edric Vane]] and fled rather than participate in a suicidal assault on a dragon-held fortress.
 
@@ -88,8 +90,9 @@ Other skill bonuses: Acrobatics +1, Animal Handling +4, Arcana +0, Athletics +2,
 
 ## Character Details
 
-- **Former occupation:** Soldier
-- **Military role:** Healer, battle cleric and rallying presence
+- **Military role:** Company quartermaster, healer, battle cleric and rallying presence
+- **Trades:** Smith and brewer
+- **Quartermaster duties:** Arms, equipment, stores and supplies
 
 ## Relationships
 

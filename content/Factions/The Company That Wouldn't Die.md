@@ -24,9 +24,9 @@ Thud was taken from his farm during a conscription sweep. He lacked polish but b
 
 Lucian joined from a prison cell after being offered a choice between military service and completing his sentence. He entertained soldiers on the march, talked supplies out of suspicious villagers and dealt efficiently with anyone foolish enough to turn their back on him.
 
-Their third companion was already a soldier. Abandoned by fleeing officers amid an early battle, he received a revelation from a god of war. He emerged as a battle cleric who could close wounds, rally broken fighters and deliver divine judgment.
+Ordrin served as the company's quartermaster. A smith and brewer by trade, he kept its weapons serviceable, its stores accounted for and its soldiers supplied. Abandoned by fleeing officers amid an early battle, he received a revelation from a god of war and emerged as a battle cleric who could close wounds, rally broken fighters and deliver divine judgment.
 
-Thud kept enemies away from the others. The cleric kept them alive when strength failed. Lucian kept them laughing—and occasionally kept them fed through methods the others learned not to question.
+Thud kept enemies away from the others. Ordrin kept them equipped, provisioned and alive when strength failed. Lucian kept them laughing—and occasionally acquired supplies through methods the quartermaster learned not to question.
 
 ## The Mutiny
 
