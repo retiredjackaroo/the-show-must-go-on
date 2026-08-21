@@ -19,7 +19,7 @@ publish: true
 
 Lucian Vale is a charming, respectable-seeming con artist whose introduced name may or may not be his legal one. A bard, charlatan and former prisoner, he served as the face and entertainer of [[The Company That Wouldn't Die]]—and as a dangerous opponent whenever someone turned their back on him.
 
-Lucian joined the army after being offered a choice between military service and completing his prison sentence. He survived several campaigns beside [[Thud]] and the [[Unnamed War Cleric]], acquiring supplies through questionable means and keeping the soldiers entertained on long marches.
+Lucian joined the army after being offered a choice between military service and completing his prison sentence. He survived several campaigns beside [[Thud]] and [[Ordrin Emberkeg]], acquiring supplies through questionable means and keeping the soldiers entertained on long marches.
 
 When the company mutinied against [[Lord-Captain Edric Vane]], Lucian secretly returned to the captain's tent and slit the unconscious officer's throat. He stole the company payroll and squandered most of it during a spectacular celebration. His companions know about the money; they do not yet know about the murder.
 
@@ -94,5 +94,5 @@ His true name remains unresolved. “Lucian Vale” may be genuine, an establish
 ## Relationships
 
 - **[[Thud]]:** The front-line muscle who kept Lucian alive through several campaigns. Thud now carries [[Vane's Warhammer]], which Lucian took from the captain's campaign chest.
-- **[[Unnamed War Cleric]]:** Former comrade, healer and moral counterweight. Lucian trusts the cleric in battle but has concealed the truth of the captain's death.
+- **[[Ordrin Emberkeg]]:** Former comrade, healer and moral counterweight. Lucian trusts the cleric in battle but has concealed the truth of the captain's death.
 - **[[Lord-Captain Edric Vane]]:** Former commander and Lucian's secret murder victim. Vane's death remains Lucian's most dangerous secret.

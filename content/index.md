@@ -18,7 +18,7 @@ publish: true
 
 ## Where We Are Now
 
-The campaign has not begun. [[The Company That Wouldn't Die|Three former soldiers]]—[[Lucian Vale]], [[Thud]] and an [[Unnamed War Cleric|unnamed war cleric]]—have just arrived together in a small town. They are looking for work, anonymity and enough coin to replace the army payroll Lucian squandered after their mutiny.
+The campaign has not begun. [[The Company That Wouldn't Die|Three former soldiers]]—[[Lucian Vale]], [[Thud]] and [[Ordrin Emberkeg]], a war cleric—have just arrived together in a small town. They are looking for work, anonymity and enough coin to replace the army payroll Lucian squandered after their mutiny.
 
 They tell themselves their soldiering days are over. Their instincts suggest otherwise.
 
@@ -34,7 +34,7 @@ Thud knocked the captain unconscious, the company fractured in mutiny and the th
 
 - [[Lucian Vale]] — bard, charlatan and dangerous man to turn your back on
 - [[Thud]] — farmer, conscript and dependable front-line muscle
-- [[Unnamed War Cleric]] — soldier, healer and chosen servant of a war god
+- [[Ordrin Emberkeg]] — soldier, healer and chosen servant of a war god
 
 ## People and Powers
 
