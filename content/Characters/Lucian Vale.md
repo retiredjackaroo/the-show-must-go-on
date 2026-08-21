@@ -15,6 +15,8 @@ publish: true
 
 # Lucian Vale
 
+![[Assets/Lucian Vale.png]]
+
 Lucian Vale is a charming, respectable-seeming con artist whose introduced name may or may not be his legal one. A bard, charlatan and former prisoner, he served as the face and entertainer of [[The Company That Wouldn't Die]]—and as a dangerous opponent whenever someone turned their back on him.
 
 Lucian joined the army after being offered a choice between military service and completing his prison sentence. He survived several campaigns beside [[Thud]] and the [[Unnamed War Cleric]], acquiring supplies through questionable means and keeping the soldiers entertained on long marches.
