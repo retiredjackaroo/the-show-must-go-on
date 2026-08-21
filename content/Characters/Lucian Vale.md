@@ -25,15 +25,65 @@ When the company mutinied against [[Lord-Captain Edric Vale]], Lucian secretly r
 
 ## Character Build
 
-| Field      | Selection        |
-| ---------- | ---------------- |
-| Rules      | 2024 / 5.5e      |
-| Level      | 3                |
-| Species    | Human            |
-| Class      | Bard             |
-| Subclass   | College of Valor |
-| Background | Charlatan        |
-| Alignment  | Chaotic Good     |
+| Field             | Selection        |
+| ----------------- | ---------------- |
+| Rules             | 2024 / 5.5e      |
+| Level             | 3                |
+| Species           | Human            |
+| Class             | Bard             |
+| Subclass          | College of Valor |
+| Background        | Charlatan        |
+| Alignment         | Chaotic Good     |
+| Hit Points        | 24               |
+| Armor Class       | 13               |
+| Speed             | 30 feet          |
+| Proficiency Bonus | +2               |
+| Initiative        | +3               |
+
+### Ability Scores
+
+| Ability      | Score |
+| ------------ | ----: |
+| Strength     |     8 |
+| Dexterity    |    16 |
+| Constitution |    14 |
+| Intelligence |     8 |
+| Wisdom       |    10 |
+| Charisma     |    17 |
+
+### Saving Throws and Senses
+
+- **Saving throw proficiencies:** Dexterity +5 and Charisma +5
+- **Other saving throws:** Strength −1, Constitution +2, Intelligence −1 and Wisdom +0
+- **Passive Perception:** 12
+- **Passive Investigation:** 10
+- **Passive Insight:** 11
+
+### Skills
+
+| Skill           | Bonus | Training   |
+| --------------- | ----: | ---------- |
+| Deception       |    +7 | Expertise  |
+| Persuasion      |    +7 | Expertise  |
+| Sleight of Hand |    +5 | Proficient |
+| Stealth         |    +5 | Proficient |
+| Perception      |    +2 | Proficient |
+
+Other skill bonuses: Acrobatics +4, Animal Handling +1, Arcana +0, Athletics +0, History +0, Insight +1, Intimidation +4, Investigation +0, Medicine +1, Nature +0, Performance +4, Religion +0 and Survival +1.
+
+### Proficiencies and Languages
+
+- **Armor:** Light armor, medium armor and shields
+- **Weapons:** Martial weapons and simple weapons
+- **Tools and instruments:** Drum, fiddle, flute, forgery kit and thieves' tools
+- **Languages:** Common, Common Sign Language and Elvish
+
+### Combat Features
+
+- **Bardic Inspiration:** 1d6, three uses
+- **Fighting style:** Two-Weapon Fighting
+- **Unarmed Strike:** +1 to hit; damage, grapple or shove
+- **Visible prepared spell:** Healing Word
 
 ## Personality
 
