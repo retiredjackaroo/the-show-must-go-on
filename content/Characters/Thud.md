@@ -21,9 +21,9 @@ publish: true
 
 Thud was a farmer before being taken in a military conscription sweep. A simple man with a talent for solving complicated problems by hitting them very hard, he became the front-line muscle of [[The Company That Wouldn't Die]].
 
-He survived several campaigns beside [[Lucian Vale]] and the [[Unnamed War Cleric]]. During the company's final mutiny, Thud knocked [[Lord-Captain Edric Vale]] unconscious rather than kill him. He does not know Lucian later returned and slit the captain's throat.
+He survived several campaigns beside [[Lucian Vale]] and the [[Unnamed War Cleric]]. During the company's final mutiny, Thud knocked [[Lord-Captain Edric Vane]] unconscious rather than kill him. He does not know Lucian later returned and slit the captain's throat.
 
-Thud now carries [[Vale's Warhammer]], taken from the captain's campaign chest. Whether the weapon is merely well made or something more remains unknown.
+Thud now carries [[Vane's Warhammer]], taken from the captain's campaign chest. Whether the weapon is merely well made or something more remains unknown.
 
 ## Character Build
 
@@ -123,6 +123,6 @@ Thud is not the brightest axe—no, hammer—in the shed, but what he lacks in s
 
 ## Relationships
 
-- **[[Lucian Vale]]:** Entertainer, scoundrel and trusted former comrade. Thud does not know the full truth of Vale's death.
+- **[[Lucian Vale]]:** Entertainer, scoundrel and trusted former comrade. Thud does not know the full truth of Vane's death.
 - **[[Unnamed War Cleric]]:** Fellow veteran whose healing repeatedly kept Thud alive.
-- **[[Lord-Captain Edric Vale]]:** Former commander whom Thud struck unconscious during the mutiny.
+- **[[Lord-Captain Edric Vane]]:** Former commander whom Thud struck unconscious during the mutiny.

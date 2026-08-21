@@ -24,9 +24,9 @@ They tell themselves their soldiering days are over. Their instincts suggest oth
 
 ## The Story So Far
 
-The three survived several military campaigns together before [[Lord-Captain Edric Vale]] ordered their battered company to assault a ruined fortress reportedly occupied by a dragon. They refused.
+The three survived several military campaigns together before [[Lord-Captain Edric Vane]] ordered their battered company to assault a ruined fortress reportedly occupied by a dragon. They refused.
 
-Thud knocked the captain unconscious, the company fractured in mutiny and the three fled. Lucian later returned alone, killed Vale and stole the company payroll. Most of the money disappeared during a legendary celebration, leaving behind only [[Vale's Warhammer]] and a growing collection of dangerous questions.
+Thud knocked the captain unconscious, the company fractured in mutiny and the three fled. Lucian later returned alone, killed Vane and stole the company payroll. Most of the money disappeared during a legendary celebration, leaving behind only [[Vane's Warhammer]] and a growing collection of dangerous questions.
 
 ➡️ [[The Company That Wouldn't Die|Read the complete shared backstory]]
 
@@ -38,12 +38,12 @@ Thud knocked the captain unconscious, the company fractured in mutiny and the th
 
 ## People and Powers
 
-- [[Lord-Captain Edric Vale]] — the commander whose final order triggered the mutiny
+- [[Lord-Captain Edric Vane]] — the commander whose final order triggered the mutiny
 - [[The Company That Wouldn't Die]] — the comrades forged by several brutal campaigns
 
 ## Notable Items
 
-- [[Vale's Warhammer]] — a beautifully made hammer with an uncertain history
+- [[Vane's Warhammer]] — a beautifully made hammer with an uncertain history
 
 ## Sessions
 

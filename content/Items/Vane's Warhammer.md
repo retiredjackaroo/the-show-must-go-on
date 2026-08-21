@@ -1,6 +1,6 @@
 ---
 type: item
-title: Vale's Warhammer
+title: Vane's Warhammer
 aliases:
   - Thud's Hammer
 tags:
@@ -13,9 +13,9 @@ dg-publish: true
 publish: true
 ---
 
-# Vale's Warhammer
+# Vane's Warhammer
 
-A beautifully made one-handed warhammer taken from [[Lord-Captain Edric Vale|Lord-Captain Vale's]] campaign chest during the mutiny of [[The Company That Wouldn't Die]]. [[Lucian Vale]] took it; [[Thud]] now carries it.
+A beautifully made one-handed warhammer taken from [[Lord-Captain Edric Vane|Lord-Captain Vane's]] campaign chest during the mutiny of [[The Company That Wouldn't Die]]. [[Lucian Vale]] took it; [[Thud]] now carries it.
 
 Its value, history and possible magical properties are unknown. Lucian's account of how he acquired it changes whenever he is asked.
 

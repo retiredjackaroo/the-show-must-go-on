@@ -30,11 +30,11 @@ Thud kept enemies away from the others. The cleric kept them alive when strength
 
 ## The Mutiny
 
-Their commander, [[Lord-Captain Edric Vale]], ordered the battered company to assault a ruined fortress reportedly occupied by a dragon. There would be no reinforcements and no retreat. The soldiers believed Vale intended to sacrifice them to win glory or conceal his own failures.
+Their commander, [[Lord-Captain Edric Vane]], ordered the battered company to assault a ruined fortress reportedly occupied by a dragon. There would be no reinforcements and no retreat. The soldiers believed Vane intended to sacrifice them to win glory or conceal his own failures.
 
-They refused. During the mutiny, Thud knocked Vale unconscious and the three fled before loyalist troops could restore order.
+They refused. During the mutiny, Thud knocked Vane unconscious and the three fled before loyalist troops could restore order.
 
-Unknown to his companions, Lucian returned to Vale's tent, slit the captain's throat and stole the company payroll. He spent most of the money during a spectacular celebration in the first distant town they reached. The only lasting prize was [[Vale's Warhammer]], now carried by Thud.
+Unknown to his companions, Lucian returned to Vane's tent, slit the captain's throat and stole the company payroll. He spent most of the money during a spectacular celebration in the first distant town they reached. The only lasting prize was [[Vane's Warhammer]], now carried by Thud.
 
 ## Present Day
 
@@ -49,5 +49,5 @@ When innocent people are threatened, their old instincts return: Thud reaches fo
 - Did any members of the old company survive, and do they view the trio as heroes or traitors?
 - Was the dragon real, and what objective did the fortress conceal?
 - Did the cleric's god command or merely approve the mutiny?
-- Why was [[Vale's Warhammer]] in the captain's campaign chest?
-- Does the crown know Lucian murdered Vale, or is the stolen payroll simply its public justification for the hunt?
+- Why was [[Vane's Warhammer]] in the captain's campaign chest?
+- Does the crown know Lucian murdered Vane, or is the stolen payroll simply its public justification for the hunt?

@@ -17,7 +17,7 @@ publish: true
 
 The party's war cleric began as an ordinary soldier. During an early battle, officers abandoned the field and left the company surrounded by the dying. In the midst of the slaughter, the soldier experienced a revelation from a god of war and emerged able to heal wounds, rally broken fighters and deliver divine judgment.
 
-After several campaigns beside [[Thud]] and [[Lucian Vale]], the cleric's loyalty rested more with those comrades than with the crown. The cleric joined their mutiny against [[Lord-Captain Edric Vale]] and fled rather than participate in a suicidal assault on a dragon-held fortress.
+After several campaigns beside [[Thud]] and [[Lucian Vale]], the cleric's loyalty rested more with those comrades than with the crown. The cleric joined their mutiny against [[Lord-Captain Edric Vane]] and fled rather than participate in a suicidal assault on a dragon-held fortress.
 
 ## Character Details
 
@@ -31,4 +31,4 @@ After several campaigns beside [[Thud]] and [[Lucian Vale]], the cleric's loyalt
 
 - **[[Thud]]:** The shield and muscle of the old company; a comrade the cleric has healed many times.
 - **[[Lucian Vale]]:** Entertainer and useful rogue whose deeper secrets remain hidden.
-- **[[Lord-Captain Edric Vale]]:** Former commander whose final order may have violated the cleric's faith.
+- **[[Lord-Captain Edric Vane]]:** Former commander whose final order may have violated the cleric's faith.
