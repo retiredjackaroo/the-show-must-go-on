@@ -2,7 +2,9 @@
 type: item
 title: Vane's Warhammer
 aliases:
+  - Vane's Hammer
   - Thud's Hammer
+  - Adamantine Light Hammer
 tags:
   - item
   - mystery
@@ -15,11 +17,27 @@ publish: true
 
 # Vane's Warhammer
 
-A beautifully made one-handed warhammer taken from [[Lord-Captain Edric Vane|Lord-Captain Vane's]] campaign chest during the mutiny of [[The Company That Wouldn't Die]]. [[Lucian Vale]] took it; [[Thud]] now carries it.
+A beautifully made adamantine light hammer taken from [[Lord-Captain Edric Vane|Lord-Captain Vane's]] campaign chest during the mutiny of [[The Company That Wouldn't Die]]. [[Lucian Vale]] took it; [[Thud]] now carries and wields it.
 
-Its value, history and possible magical properties are unknown. Lucian's account of how he acquired it changes whenever he is asked.
+Despite the name the company gave it, the weapon is mechanically a light hammer rather than a warhammer. Its adamantine head is exceptionally hard: a hit against an object is a critical hit.
 
 **Current bearer:** [[Thud]]
+
+## Weapon Profile
+
+| Field | Detail |
+| --- | --- |
+| Weapon | Adamantine light hammer |
+| Rarity | Uncommon |
+| Attack type | Melee |
+| Reach | 5 feet |
+| Thrown range | 20/60 feet |
+| Damage | 1d4+3 bludgeoning when wielded by Thud |
+| Weight | 2 lb. |
+| Properties | Light, Thrown, Nick |
+| Special property | Hits against objects are critical hits |
+
+The `+3` damage modifier reflects Thud's current Strength; the weapon's base damage die is `1d4`.
 
 ## Unanswered Questions
 
