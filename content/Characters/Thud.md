@@ -15,7 +15,7 @@ publish: true
 
 # Thud Firebelly
 
-![[Assets/Thud Firebelly.jpeg]]
+![[Assets/Thud Firebelly Portrait.png]]
 
 > “Hurt good. Burn better.”
 
@@ -27,26 +27,68 @@ Thud now carries [[Vale's Warhammer]], taken from the captain's campaign chest. 
 
 ## Character Build
 
-| Field      | Selection             |
-| ---------- | --------------------- |
-| Level      | 3                     |
-| Species    | Human                 |
-| Class      | Barbarian             |
-| Subclass   | Path of the Berserker |
-| Background | Outlander             |
-| Alignment  | Chaotic Neutral       |
-| Hit Points | 34                    |
+| Field              | Selection             |
+| ------------------ | --------------------- |
+| Level              | 3                     |
+| Species            | Human                 |
+| Class              | Barbarian             |
+| Subclass           | Path of the Berserker |
+| Background         | Outlander             |
+| Alignment          | Chaotic Neutral       |
+| Hit Points         | 38                    |
+| Armor Class        | 15                    |
+| Speed              | 30 feet               |
+| Proficiency Bonus  | +2                    |
+| Initiative         | +1                    |
+| Heroic Inspiration | Yes                   |
 
 ### Ability Scores
 
 | Ability      | Score |
 | ------------ | ----: |
-| Strength     |    18 |
-| Dexterity    |    14 |
-| Constitution |    16 |
+| Strength     |    16 |
+| Dexterity    |    12 |
+| Constitution |    14 |
 | Intelligence |     8 |
-| Wisdom       |    10 |
-| Charisma     |    10 |
+| Wisdom       |    16 |
+| Charisma     |     8 |
+
+### Saving Throws and Senses
+
+- **Saving throw proficiencies:** Strength +5 and Constitution +4
+- **Other saving throws:** Dexterity +1, Intelligence −1, Wisdom +3 and Charisma −1
+- **Passive Perception:** 13
+- **Passive Investigation:** 9
+- **Passive Insight:** 13
+
+### Skill Proficiencies
+
+| Skill        | Bonus |
+| ------------ | ----: |
+| Athletics    |    +5 |
+| Intimidation |    +1 |
+| Nature       |    +1 |
+| Stealth      |    +3 |
+| Survival     |    +5 |
+
+Other skill bonuses: Acrobatics +1, Animal Handling +5, Arcana −1, Deception −1, History −1, Insight +3, Investigation −1, Medicine +3, Perception +3, Performance −1, Persuasion −1, Religion −1 and Sleight of Hand +1.
+
+### Proficiencies and Languages
+
+- **Armor:** Light armor, medium armor and shields
+- **Weapons:** Martial weapons and simple weapons
+- **Tools:** Carpenter's tools
+- **Languages:** Common, Common Sign Language and Dwarvish
+
+### Attacks and Weapon Mastery
+
+| Attack                  |     Range | To Hit |            Damage | Properties                          |
+| ----------------------- | --------: | -----: | ----------------: | ----------------------------------- |
+| Adamantine Light Hammer | 20/60 ft. |     +5 | 1d4+3 bludgeoning | Simple, Light, Thrown; Nick mastery |
+| Light Hammer            | 20/60 ft. |     +5 | 1d4+3 bludgeoning | Simple, Light, Thrown; Nick mastery |
+| Unarmed Strike          |     5 ft. |     +5 |     4 bludgeoning | Damage, grapple or shove            |
+
+Thud also has the **Topple** mastery for a maul: a hit can force a Constitution saving throw or knock the target prone.
 
 ## Character Details
 
