@@ -14,6 +14,8 @@ publish: true
 
 # Session 1: Bells in the Marsh
 
+![[Assets/Greyfen Causeway.jpg|banner]]
+
 ## The Road to Greyfen
 
 The road away from military service had narrowed into a raised strip of mud through a fog-bound marsh. [[Lucian Vale]], [[Thud]] and [[Ordrin Emberkeg]] had put considerable distance between themselves and the camp they had abandoned, but distance was not yet safety. To continue in the same direction they needed the ferry at [[Greyfen]], an old military settlement somewhere beyond the reeds.
@@ -48,8 +50,6 @@ The others reminded him—with some force—that he had started it.
 Once tempers cooled, the party made the dead frogs useful. Ordrin harvested two silver pieces' worth of medicinal ingredients. Thud recovered another four silver pieces' worth of edible or trade goods and considered the culinary potential of roast frog. Lucian expended powerful healing magic to repair the damage he had taken. When Ordrin leaned toward the water looking for earlier victims, he instead found a large crocodile staring back from only a few feet away. For once, the party chose not to start another fight.
 
 ## A Town Behind a Chain
-
-![[Assets/Greyfen Causeway.jpg]]
 
 _The marsh causeway leading toward Greyfen._
 

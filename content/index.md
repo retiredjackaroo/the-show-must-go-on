@@ -14,7 +14,7 @@ publish: true
 
 # The Show Must Go On
 
-![[Assets/Greyfen.jpg]]
+![[Assets/Greyfen.jpg|banner]]
 
 ![[Assets/The Show Must Go On - Party Portrait.png]]
 

@@ -15,7 +15,7 @@ publish: true
 
 # Session 1: Notes
 
-![[Assets/Greyfen.jpg]]
+![[Assets/Greyfen.jpg|banner]]
 
 The party travelled through the marsh to [[Greyfen]], where Acting Administrator [[Maelin Voss]] had blocked a medicine barge while trying to contain an unidentified military runaway ahead of an inspection. The three forced the supplies to be unloaded, helped the clinic and followed [[Corrin Pike]] through the north marsh to reach the sick fugitive [[Tavia Rel]]. After escaping crocodiles, a corpse-light and the Fen Mother, they revealed their own military background to Tavia. She invited them into her hunting blind as dawn broke.
 
