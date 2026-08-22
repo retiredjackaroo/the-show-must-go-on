@@ -34,7 +34,10 @@ Thud flew into a rage and charged the nearest creature with his hammer. His firs
 
 Ordrin waded into the melee. With Lucian's Combat Inspiration behind the strike, the cleric smashed the frog holding Thud and followed with a War Priest attack that left the creature flattened in the mud. Thud then drove another frog from the fight with enough force to send its corpse skidding across the marsh.
 
-The last frog wrapped its tongue around Lucian and refused to let go. Ordrin attempted to free him, lost his footing and struck Lucian instead. The frog released its grip to snap at the cleric, missed, and exposed itself to Lucian's rapier. A final thrust ended the fight.
+The last frog wrapped its tongue around Lucian and refused to let go. Ordrin attempted to free him, lost his footing and brought his weapon down squarely on Lucian's foot instead. The critical fumble dealt 2 damage to the very companion he was trying to rescue. The frog released its grip to snap at the cleric, missed, and exposed itself to Lucian's rapier. A final thrust ended the fight.
+
+> [!failure] Session's Biggest Mistake
+> Ordrin tried to save Lucian from the bell frog and hit Lucian in the foot instead. The friendly-fire critical fumble—and its perfect timing—made it the session's standout mistake.
 
 Covered in mud and frog saliva, Lucian rounded on his companions.
 

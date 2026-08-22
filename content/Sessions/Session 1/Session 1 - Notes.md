@@ -57,7 +57,7 @@ The private source transcript is preserved in this folder with all publishing fl
 - One frog grappled Thud; another later grappled Lucian.
 - Lucian granted Combat Inspiration to Ordrin and Bardic Inspiration to Thud.
 - Ordrin killed the frog holding Thud with a normal strike followed by a War Priest bonus attack.
-- Ordrin critically missed while trying to free Lucian and dealt 2 damage to him instead.
+- **Biggest mistake:** Ordrin critically missed while trying to free Lucian, struck Lucian in the foot and dealt 2 damage to him instead.
 - Lucian finished the final frog with his rapier.
 - The party killed all three frogs and continued without a long rest.
 

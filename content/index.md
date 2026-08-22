@@ -71,9 +71,9 @@ Thud knocked the captain unconscious, the company fractured in mutiny and the th
 
 ## Hall of Fame
 
-| Session | Biggest Success                                                | Funniest Mistake                                                                              |
-| ------- | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| 1       | Forcing Voss to unload the medicine before more townsfolk died | Lucian started a three-frog battle with an insult, then blamed everyone else for the violence |
+| Session | Biggest Success                                                | Biggest Mistake                                                                       |
+| ------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| 1       | Forcing Voss to unload the medicine before more townsfolk died | Ordrin tried to free Lucian from a frog and critically struck him in the foot instead |
 
 ## Full Archive
 
