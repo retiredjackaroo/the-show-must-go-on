@@ -343,12 +343,30 @@ export function renderPage(
     componentData.ctx.argv.serve || !cfg.baseUrl
       ? ""
       : new URL(`https://${cfg.baseUrl}`).pathname.replace(/\/$/, "")
+  const banner = componentData.fileData.frontmatter?.banner
+  const bannerPath = typeof banner === "string" ? banner : undefined
+  const bannerUrl = bannerPath
+    ? bannerPath.startsWith("/")
+      ? `${basePath}${bannerPath}`
+      : joinSegments(basePath, bannerPath)
+    : undefined
   const doc = (
     <html lang={lang} dir={direction}>
       <Head {...componentData} />
       <body data-slug={slug} data-basepath={basePath}>
         {frame.css && <style dangerouslySetInnerHTML={{ __html: frame.css }} />}
-        <div id="quartz-root" class="page" data-frame={frame.name}>
+        <div
+          id="quartz-root"
+          class={`page${bannerUrl ? " has-banner" : ""}`}
+          data-frame={frame.name}
+        >
+          {bannerUrl && (
+            <div
+              class="page-banner"
+              role="presentation"
+              style={{ backgroundImage: `url("${bannerUrl}")` }}
+            />
+          )}
           <Body {...componentData}>
             {[
               frame.render({

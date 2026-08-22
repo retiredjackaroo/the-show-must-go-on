@@ -10,11 +10,10 @@ tags:
 draft: false
 dg-publish: true
 publish: true
+banner: /assets/party-banner.png
 ---
 
 # Session 1: Bells in the Marsh
-
-![[Assets/Greyfen Causeway.jpg|banner]]
 
 ## The Road to Greyfen
 

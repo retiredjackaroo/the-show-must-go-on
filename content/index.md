@@ -10,13 +10,10 @@ tags:
 draft: false
 dg-publish: true
 publish: true
+banner: /assets/party-banner.png
 ---
 
 # The Show Must Go On
-
-![[Assets/Greyfen.jpg|banner]]
-
-![[Assets/The Show Must Go On - Party Portrait.png]]
 
 > _Three deserters. One stolen payroll. A dead commander. What could possibly go wrong?_
 

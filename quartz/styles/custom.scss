@@ -182,20 +182,42 @@ img {
   border-radius: 6px;
 }
 
-/* Wide editorial banners used at the head of campaign and session pages. */
-article img[alt="banner"] {
-  display: block;
-  width: calc(100% + 12rem);
-  max-width: none;
-  height: clamp(240px, 34vw, 360px);
-  margin: 0.5rem 0 2rem -6rem;
-  object-fit: cover;
-  object-position: center;
-  border: 1px solid color-mix(in srgb, var(--gray) 55%, transparent);
-  border-radius: 12px;
-  box-shadow:
-    0 18px 50px rgb(0 0 0 / 28%),
-    inset 0 0 0 1px rgb(255 255 255 / 5%);
+/* Full-viewport campaign art behind the page header, navigation, and title. */
+.page.has-banner {
+  position: relative;
+}
+
+.page-banner {
+  position: absolute;
+  z-index: 0;
+  top: 0;
+  left: 50%;
+  width: 100vw;
+  height: 280px;
+  transform: translateX(-50%);
+  background-position: center 28%;
+  background-size: cover;
+  pointer-events: none;
+}
+
+.page-banner::after {
+  position: absolute;
+  inset: 0;
+  content: "";
+  background:
+    linear-gradient(
+      90deg,
+      rgb(8 10 11 / 24%),
+      transparent 30%,
+      transparent 70%,
+      rgb(8 10 11 / 24%)
+    ),
+    linear-gradient(180deg, rgb(8 10 11 / 10%) 0%, var(--light) 100%);
+}
+
+.page.has-banner > #quartz-body {
+  position: relative;
+  z-index: 1;
 }
 
 /* ==========================================================================
@@ -217,10 +239,8 @@ footer {
     font-size: 1rem;
   }
 
-  article img[alt="banner"] {
-    width: 100%;
-    height: clamp(190px, 52vw, 290px);
-    margin-left: 0;
-    border-radius: 8px;
+  .page-banner {
+    height: 230px;
+    background-position: center 24%;
   }
 }
