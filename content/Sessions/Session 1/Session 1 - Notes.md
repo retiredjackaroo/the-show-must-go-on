@@ -163,12 +163,12 @@ The private source transcript is preserved in this folder with all publishing fl
 ![[Assets/Session 1 - Fen Mother Combat.png]]
 
 - Lucian entered deep water and two crocodiles approached.
-- Lucian cast Faerie Fire, outlining the crocodiles and unintentionally exposing the Fen Mother.
+- **Tactical masterstroke:** Lucian cast Faerie Fire to outline the crocodiles and expose the hidden Fen Mother to the approaching corpse-light.
 - Corrin panicked and attempted to flee; Thud grappled him to preserve the party's guide.
 - Ordrin cast Toll the Dead against a crocodile, dealing 8 necrotic damage.
 - Thud hit one crocodile for 7 damage; Lucian struck the other for 5 piercing damage.
 - The blinking light was identified as a will-o'-wisp or “Corpse Light.”
-- The will-o'-wisp attacked the Fen Mother, drawing the larger predator away from the party.
+- The will-o'-wisp—which would itself have severely threatened the party—attacked the illuminated Fen Mother instead, turning the two dangers against one another.
 - The Fen Mother appeared effectively unharmed and destroyed the wisp with an 18-damage bite.
 - The party disengaged rather than attempt to kill the Fen Mother.
 - Lucian cast Command on a giant toad, ordering it to halt as a diversion. The DM ruled that this toad understood the command.
@@ -197,7 +197,7 @@ The private source transcript is preserved in this folder with all publishing fl
 - Used Bardic and Combat Inspiration during the fight.
 - Acted as the party's principal negotiator with Voss.
 - Built the Sebastian Vale merchant cover and used the authority badge at the wharf.
-- Cast Faerie Fire during the crocodile encounter and Command during the escape.
+- Used Faerie Fire to reveal the hidden Fen Mother and redirect the dangerous corpse-light into attacking it, then used Command during the escape.
 - Used an old company song and his recognisable voice to gain Tavia's trust.
 
 ### Thud Firebelly

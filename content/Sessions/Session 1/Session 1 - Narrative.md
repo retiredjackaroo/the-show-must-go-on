@@ -128,9 +128,12 @@ _The black water churns as something immense moves beneath it._
 
 _The party caught between crocodiles, giant amphibians, the Corpse Light and the Fen Mother._
 
-He dragged himself toward land and cast Faerie Fire across the swamp. Violet light outlined both crocodiles—and something far larger beneath the water. Corrin tried to abandon the party. Thud caught and grappled him, refusing to lose their only guide while Ordrin answered a crocodile's advance with Toll the Dead.
+He dragged himself toward land and cast Faerie Fire across the swamp. Violet light outlined both crocodiles—and something far larger beneath the water. Lucian had exposed the hidden Fen Mother at precisely the moment the corpse-light was closing on them. Corrin tried to abandon the party. Thud caught and grappled him, refusing to lose their only guide while Ordrin answered a crocodile's advance with Toll the Dead.
 
-The blinking light entered the fight and revealed itself as a will-o'-wisp, a corpse-light hunting in the fog. It attacked the vast shape under the water. The Fen Mother rose in answer.
+The blinking light entered the fight and revealed itself as a will-o'-wisp, a corpse-light that would have posed a severe threat to the party in its own right. Drawn to the newly illuminated predator, it attacked the vast shape under the water instead. The Fen Mother rose in answer.
+
+> [!success] Tactical Masterstroke
+> Lucian's Faerie Fire turned two concealed threats into visible enemies and diverted the will-o'-wisp away from the party. By highlighting the Fen Mother, he induced the corpse-light to attack the marsh's apex predator; the Fen Mother then spent its attention destroying the wisp while the party escaped.
 
 The creature was not merely a large crocodile but the dominant force of the marsh. Even the wisp's lightning left it looking unharmed. Thud struck at the nearer crocodile, Lucian drove his rapier into the other, and Ordrin coordinated their movement between the scraps of solid ground. The party did not try to defeat the Fen Mother. Their victory would be leaving alive.
 
