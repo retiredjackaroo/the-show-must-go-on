@@ -152,7 +152,7 @@ The private source transcript is preserved in this folder with all publishing fl
 - Lucian entered deep water and two crocodiles approached.
 - Lucian cast Faerie Fire, outlining the crocodiles and unintentionally exposing the Fen Mother.
 - Corrin panicked and attempted to flee; Thud grappled him to preserve the party's guide.
-- Ordrin used the necrotic cantrip transcribed as “All the Dead” against a crocodile; exact spell name remains to be confirmed.
+- Ordrin cast Toll the Dead against a crocodile, dealing 8 necrotic damage.
 - Thud hit one crocodile for 7 damage; Lucian struck the other for 5 piercing damage.
 - The blinking light was identified as a will-o'-wisp or “Corpse Light.”
 - The will-o'-wisp attacked the Fen Mother, drawing the larger predator away from the party.

@@ -89,6 +89,7 @@ Other skill bonuses: Acrobatics +1, Animal Handling +4, Arcana +0, Athletics +2,
 - **Channel Divinity:** Two uses; regain one after a Short Rest and all after a Long Rest
 - **Divine Spark:** Within 30 feet, restore 1d8+4 HP or force a DC 14 Constitution save against 1d8+4 necrotic or radiant damage, with half damage on a success
 - **Turn Undead:** Undead within 30 feet make a DC 14 Wisdom save or become Frightened and Incapacitated for up to 1 minute
+- **Toll the Dead:** Confirmed cantrip; used against a crocodile during Session 1
 
 ## Character Details
 
