@@ -344,7 +344,7 @@ export function renderPage(
       ? ""
       : new URL(`https://${cfg.baseUrl}`).pathname.replace(/\/$/, "")
   const banner = componentData.fileData.frontmatter?.banner
-  const bannerPath = typeof banner === "string" ? banner : undefined
+  const bannerPath = typeof banner === "string" ? banner : "/assets/party-banner.png"
   const bannerUrl = bannerPath
     ? bannerPath.startsWith("/")
       ? `${basePath}${bannerPath}`
