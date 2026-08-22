@@ -12,7 +12,7 @@ publish: true
 
 An abandoned military fort being converted into a marsh settlement. Its old parade ground, watchtower, mess hall and medical redoubt remain visible beneath the town's improvised civilian life.
 
-In Session 1, Acting Administrator [[Malin Voss]] chained the ferry landing shut to contain a military fugitive while sickness spread and a medicine barge waited offshore. The party forced her to unload the supplies before heading into the north marsh.
+In Session 1, Acting Administrator [[Maelin Voss]] chained the ferry landing shut to contain a military fugitive while sickness spread and a medicine barge waited offshore. The party forced her to unload the supplies before heading into the north marsh.
 
 ## Notable Places
 

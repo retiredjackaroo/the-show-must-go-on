@@ -15,7 +15,7 @@ publish: true
 
 # Session 1: Notes
 
-The party travelled through the marsh to [[Greyfen]], where Acting Administrator [[Malin Voss]] had blocked a medicine barge while trying to contain an unidentified military runaway ahead of an inspection. The three forced the supplies to be unloaded, helped the clinic and followed [[Corrin Pike]] through the north marsh to reach the sick fugitive [[Tavia Rel]]. After escaping crocodiles, a corpse-light and the Fen Mother, they revealed their own military background to Tavia. She invited them into her hunting blind as dawn broke.
+The party travelled through the marsh to [[Greyfen]], where Acting Administrator [[Maelin Voss]] had blocked a medicine barge while trying to contain an unidentified military runaway ahead of an inspection. The three forced the supplies to be unloaded, helped the clinic and followed [[Corrin Pike]] through the north marsh to reach the sick fugitive [[Tavia Rel]]. After escaping crocodiles, a corpse-light and the Fen Mother, they revealed their own military background to Tavia. She invited them into her hunting blind as dawn broke.
 
 ## Session Documents
 
@@ -85,7 +85,7 @@ The private source transcript is preserved in this folder with all publishing fl
 - Healing magic could relieve symptoms but not cure the underlying sickness.
 - Ordrin cast Healing Word, temporarily restoring Sarah's strength.
 
-### 6. First meeting with Malin Voss
+### 6. First meeting with Maelin Voss
 
 - The party entered the [[Old Standard Inn]], a former military mess hall.
 - A dock worker coughed blood onto a table, demonstrating the outbreak's severity.
@@ -206,7 +206,7 @@ The private source transcript is preserved in this folder with all publishing fl
 
 ## NPC Intelligence
 
-### Malin Voss
+### Maelin Voss
 
 - Wants the inspection to pass without a riot and its target to remain unfound.
 - Values control and local stability, but accepted civilian suffering as the price of maintaining the closed wharf.

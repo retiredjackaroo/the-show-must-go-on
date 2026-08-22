@@ -129,4 +129,4 @@ Thud is not the brightest axe—no, hammer—in the shed, but what he lacks in s
 
 ## Session History
 
-- **Session 1 — [[Session 1 - Narrative|Bells in the Marsh]]:** Raged through three bell frogs, scavenged their remains, helped intimidate [[Malin Voss]] into unloading the medicine and restrained a panicking [[Corrin Pike]] long enough for the party to escape the Fen Mother.
+- **Session 1 — [[Session 1 - Narrative|Bells in the Marsh]]:** Raged through three bell frogs, scavenged their remains, helped intimidate [[Maelin Voss]] into unloading the medicine and restrained a panicking [[Corrin Pike]] long enough for the party to escape the Fen Mother.

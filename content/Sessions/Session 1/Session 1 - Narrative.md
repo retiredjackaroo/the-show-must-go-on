@@ -48,7 +48,7 @@ Once tempers cooled, the party made the dead frogs useful. Ordrin harvested two 
 
 They reached Greyfen around four in the afternoon. The settlement had grown within the bones of an abandoned fort: an old parade ground, a distant watchtower, military buildings turned toward civilian purposes and a ferry landing crowded with frightened residents.
 
-A heavy chain sealed the wharf. Guards held the crowd back while a barge loaded with medical supplies waited offshore in the fog. Rumour blamed Acting Administrator [[Malin Voss]], who was supposedly preventing someone from escaping the town. Whatever her reasoning, the cost was visible in the streets.
+A heavy chain sealed the wharf. Guards held the crowd back while a barge loaded with medical supplies waited offshore in the fog. Rumour blamed Acting Administrator [[Maelin Voss]], who was supposedly preventing someone from escaping the town. Whatever her reasoning, the cost was visible in the streets.
 
 A coughing child collapsed near the party. Her mother called her [[Little Sarah]] and explained that the clinic was full, Brother Sen was overwhelmed and supplies were almost gone. Roughly a dozen people were already in the clinic, with more becoming ill across Greyfen.
 

@@ -1,6 +1,8 @@
 ---
 type: npc
-title: Malin Voss
+title: Maelin Voss
+aliases:
+  - Malin Voss
 tags: [npc, greyfen, campaign/the-show-must-go-on]
 status: Acting administrator of Greyfen
 draft: false
@@ -8,7 +10,7 @@ dg-publish: true
 publish: true
 ---
 
-# Malin Voss
+# Maelin Voss
 
 Greyfen's precise, restrained and exhausted acting administrator. Expecting military inspectors to search for a runaway, she closed the ferry landing even while a medicine barge waited offshore and sickness spread through town.
 

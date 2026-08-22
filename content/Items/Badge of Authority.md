@@ -10,6 +10,6 @@ publish: true
 
 # Badge of Authority
 
-A badge issued by [[Malin Voss]] authorising the party to act during Greyfen's inspection crisis. [[Lucian Vale]] used it to question guards at the wharf.
+A badge issued by [[Maelin Voss]] authorising the party to act during Greyfen's inspection crisis. [[Lucian Vale]] used it to question guards at the wharf.
 
 Its authority may expire when the military inspection begins at midday.

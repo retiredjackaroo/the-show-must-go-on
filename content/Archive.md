@@ -30,7 +30,7 @@ The permanent cumulative record for the campaign. Unlike [[index|the campaign ho
 - [[Lord-Captain Edric Vane]]
 - [[Tavia Rel]]
 - [[Corrin Pike]]
-- [[Malin Voss]]
+- [[Maelin Voss]]
 - [[Answer Vale]]
 - [[Little Sarah]]
 - [[Mara]]

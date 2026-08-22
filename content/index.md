@@ -44,7 +44,7 @@ Thud knocked the captain unconscious, the company fractured in mutiny and the th
 - [[The Company That Wouldn't Die]] — the comrades forged by several brutal campaigns
 - [[Tavia Rel]] — sick military runaway hiding in the north marsh
 - [[Corrin Pike]] — wary guide through Greyfen's marshes
-- [[Malin Voss]] — acting administrator awaiting a dangerous inspection
+- [[Maelin Voss]] — acting administrator awaiting a dangerous inspection
 - [[Answer Vale]] — retired field medic treating Greyfen's outbreak
 - [[Little Sarah]] — sick child aided by Ordrin
 - [[Mara]] — bartender at the Old Standard Inn

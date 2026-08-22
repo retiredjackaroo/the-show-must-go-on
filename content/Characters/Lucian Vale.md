@@ -99,4 +99,4 @@ His true name remains unresolved. “Lucian Vale” may be genuine, an establish
 
 ## Session History
 
-- **Session 1 — [[Session 1 - Narrative|Bells in the Marsh]]:** Provoked three bell frogs with Vicious Mockery, negotiated Greyfen's medicine loose from [[Malin Voss]], operated under the alias Sebastian Vale, exposed marsh predators with Faerie Fire and won [[Tavia Rel]]'s trust with an old company song.
+- **Session 1 — [[Session 1 - Narrative|Bells in the Marsh]]:** Provoked three bell frogs with Vicious Mockery, negotiated Greyfen's medicine loose from [[Maelin Voss]], operated under the alias Sebastian Vale, exposed marsh predators with Faerie Fire and won [[Tavia Rel]]'s trust with an old company song.
