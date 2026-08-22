@@ -46,7 +46,15 @@ Once tempers cooled, the party made the dead frogs useful. Ordrin harvested two 
 
 ## A Town Behind a Chain
 
+![[Assets/Greyfen Causeway.jpg]]
+
+_The marsh causeway leading toward Greyfen._
+
 They reached Greyfen around four in the afternoon. The settlement had grown within the bones of an abandoned fort: an old parade ground, a distant watchtower, military buildings turned toward civilian purposes and a ferry landing crowded with frightened residents.
+
+![[Assets/Greyfen Wharf.jpg]]
+
+_Guards hold the chained landing while the medicine barge waits offshore._
 
 A heavy chain sealed the wharf. Guards held the crowd back while a barge loaded with medical supplies waited offshore in the fog. Rumour blamed Acting Administrator [[Maelin Voss]], who was supposedly preventing someone from escaping the town. Whatever her reasoning, the cost was visible in the streets.
 
@@ -80,6 +88,10 @@ This time Voss yielded. The chain withdrew. Guards began hauling crates from the
 
 ## The Last Patient
 
+![[Assets/Greyfen Clinic.jpg]]
+
+_The old redoubt pressed into service as Greyfen's overcrowded clinic._
+
 It was after midnight when the party reached the [[Greyfen Clinic]], a medical ward built into the old redoubt. Earthworks held back the wind but not the smell of fever. Eleven patients filled what had once been a powder room, and three did not look toward the door when the newcomers entered.
 
 [[Answer Vale]], a grey-haired retired field medic, worked with her sleeves rolled above the elbows. She noticed blood, breathing and dirty hands before introductions. Ordrin presented himself as a cleric and immediately began helping distribute treatment. Thud remained near the doorway, deeply suspicious of contagion. Lucian stayed outside; sickness was one performance he had no desire to join.
@@ -92,6 +104,10 @@ Thud argued for daylight. The others pointed to the soldiers arriving at noon an
 
 ## Through the North Marsh
 
+![[Assets/North Marsh.jpg]]
+
+_The flooded route north of Greyfen._
+
 Corrin Pike appeared relaxed only because every exit was already in his peripheral vision. Rope tar and marsh water stained his hands. He rarely said no; he described the likely consequence and waited to see whether the listener understood.
 
 For one gold piece, he agreed to guide them to Tavia. He also revealed that two military forward scouts had already entered the marsh and gone the wrong way. Ordrin judged that Corrin was not lying, although fear and omission sat close beneath his calm.
@@ -101,6 +117,10 @@ The party entered the fog by torchlight. Giant frog craters scarred the mud and 
 Then a white light began blinking through the fog behind them.
 
 Corrin did not recognise it. It might have been the military scouts; it might have been something worse. The party kept moving across broken islands of mud and water until one crossing collapsed into chaos. Lucian ended up flailing in the water as two crocodiles closed.
+
+![[Assets/Fen Mother Waters.jpg]]
+
+_The black water churns as something immense moves beneath it._
 
 ![[Assets/Session 1 - Fen Mother Combat.png]]
 
@@ -117,6 +137,10 @@ Thud released Corrin once the guide regained enough control to lead them. The wi
 No one suffered a serious wound. Corrin warned that they would not be returning by the same route.
 
 ## The Hunting Blind
+
+![[Assets/North Marsh Hunting Blind.jpg]]
+
+_Tavia waits feverish and armed while lights approach through the reeds._
 
 Dawn began to dilute the fog as the [[North Marsh Hunting Blind]] appeared above a dark pool. Its supporting legs bowed with age. The ladder had split at the third rung, and oilcloth covered one window. Inside lay a cold meal, a military blanket and a young woman holding a light crossbow correctly despite hands trembling with fever.
 

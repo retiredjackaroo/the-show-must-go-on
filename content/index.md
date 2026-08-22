@@ -14,6 +14,8 @@ publish: true
 
 # The Show Must Go On
 
+![[Assets/Greyfen.jpg]]
+
 ![[Assets/The Show Must Go On - Party Portrait.png]]
 
 > _Three deserters. One stolen payroll. A dead commander. What could possibly go wrong?_

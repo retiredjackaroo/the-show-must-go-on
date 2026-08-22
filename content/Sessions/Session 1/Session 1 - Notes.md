@@ -15,6 +15,8 @@ publish: true
 
 # Session 1: Notes
 
+![[Assets/Greyfen.jpg]]
+
 The party travelled through the marsh to [[Greyfen]], where Acting Administrator [[Maelin Voss]] had blocked a medicine barge while trying to contain an unidentified military runaway ahead of an inspection. The three forced the supplies to be unloaded, helped the clinic and followed [[Corrin Pike]] through the north marsh to reach the sick fugitive [[Tavia Rel]]. After escaping crocodiles, a corpse-light and the Fen Mother, they revealed their own military background to Tavia. She invited them into her hunting blind as dawn broke.
 
 ## Session Documents
@@ -70,6 +72,8 @@ The private source transcript is preserved in this folder with all publishing fl
 
 ### 4. Arrival in Greyfen
 
+![[Assets/Greyfen Causeway.jpg]]
+
 - Arrival was around 4 p.m.
 - Greyfen is an abandoned military fort being repurposed as a settlement.
 - A heavy chain blocked the ferry landing.
@@ -110,6 +114,8 @@ The private source transcript is preserved in this folder with all publishing fl
 
 ### 8. Second confrontation and unloading
 
+![[Assets/Greyfen Wharf.jpg]]
+
 - Voss attempted to redefine the agreement as requiring the party to bring her the fugitive.
 - Lucian maintained that the agreement required only that the inspectors fail to find the person.
 - Ordrin argued that withholding medicine made cooperation and trust impossible.
@@ -118,6 +124,8 @@ The private source transcript is preserved in this folder with all publishing fl
 - Ordrin selected the supplies required to treat the illness.
 
 ### 9. Greyfen Clinic
+
+![[Assets/Greyfen Clinic.jpg]]
 
 - The party reached the clinic after midnight.
 - Eleven patients occupied the old powder room; three were too ill to look toward the door.
@@ -140,6 +148,8 @@ The private source transcript is preserved in this folder with all publishing fl
 
 ### 11. North-marsh approach
 
+![[Assets/North Marsh.jpg]]
+
 - Corrin warned of giant frogs, giant toads, crocodiles and the Fen Mother.
 - The party saw giant-frog depressions and movement in the water.
 - Torchlight improved footing but risked attracting bell frogs.
@@ -148,6 +158,8 @@ The private source transcript is preserved in this folder with all publishing fl
 - The group chose movement over confrontation and continued toward the blind.
 
 ### 12. Crocodiles, corpse-light and Fen Mother
+
+![[Assets/Fen Mother Waters.jpg]]
 
 ![[Assets/Session 1 - Fen Mother Combat.png]]
 
@@ -164,6 +176,8 @@ The private source transcript is preserved in this folder with all publishing fl
 - Corrin led the party off the encounter map; no party member suffered serious damage in the escape.
 
 ### 13. Tavia Rel
+
+![[Assets/North Marsh Hunting Blind.jpg]]
 
 - The blind stood above a dark pool on bowing supports with a split ladder and oilcloth-covered window.
 - Tavia held a light crossbow with correct form but lacked long-practised ease.
