@@ -149,6 +149,8 @@ The private source transcript is preserved in this folder with all publishing fl
 
 ### 12. Crocodiles, corpse-light and Fen Mother
 
+![[Assets/Session 1 - Fen Mother Combat.png]]
+
 - Lucian entered deep water and two crocodiles approached.
 - Lucian cast Faerie Fire, outlining the crocodiles and unintentionally exposing the Fen Mother.
 - Corrin panicked and attempted to flee; Thud grappled him to preserve the party's guide.

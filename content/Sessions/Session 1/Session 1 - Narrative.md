@@ -102,6 +102,10 @@ Then a white light began blinking through the fog behind them.
 
 Corrin did not recognise it. It might have been the military scouts; it might have been something worse. The party kept moving across broken islands of mud and water until one crossing collapsed into chaos. Lucian ended up flailing in the water as two crocodiles closed.
 
+![[Assets/Session 1 - Fen Mother Combat.png]]
+
+_The party caught between crocodiles, giant amphibians, the Corpse Light and the Fen Mother._
+
 He dragged himself toward land and cast Faerie Fire across the swamp. Violet light outlined both crocodiles—and something far larger beneath the water. Corrin tried to abandon the party. Thud caught and grappled him, refusing to lose their only guide while Ordrin answered a crocodile's advance with Toll the Dead.
 
 The blinking light entered the fight and revealed itself as a will-o'-wisp, a corpse-light hunting in the fog. It attacked the vast shape under the water. The Fen Mother rose in answer.
