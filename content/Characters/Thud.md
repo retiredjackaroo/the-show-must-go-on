@@ -126,3 +126,7 @@ Thud is not the brightest axe—no, hammer—in the shed, but what he lacks in s
 - **[[Lucian Vale]]:** Entertainer, scoundrel and trusted former comrade. Thud does not know the full truth of Vane's death.
 - **[[Ordrin Emberkeg]]:** Fellow veteran whose healing repeatedly kept Thud alive.
 - **[[Lord-Captain Edric Vane]]:** Former commander whom Thud struck unconscious during the mutiny.
+
+## Session History
+
+- **Session 1 — [[Session 1 - Narrative|Bells in the Marsh]]:** Raged through three bell frogs, scavenged their remains, helped intimidate [[Malin Voss]] into unloading the medicine and restrained a panicking [[Corrin Pike]] long enough for the party to escape the Fen Mother.

@@ -20,9 +20,9 @@ publish: true
 
 ## Where We Are Now
 
-The campaign has not begun. [[The Company That Wouldn't Die|Three former soldiers]]—[[Lucian Vale]], [[Thud]] and [[Ordrin Emberkeg]], a war cleric—have just arrived together in a small town. They are looking for work, anonymity and enough coin to replace the army payroll Lucian squandered after their mutiny.
+Shortly after dawn, [[Lucian Vale]], [[Thud]] and [[Ordrin Emberkeg]] have entered the [[North Marsh Hunting Blind]] with the feverish military runaway [[Tavia Rel]]. The soldiers hunting her will reach [[Greyfen]] at midday.
 
-They tell themselves their soldiering days are over. Their instincts suggest otherwise.
+The party must learn why Tavia fled, decide whether to protect or surrender her, and return through a marsh still dominated by the Fen Mother. Greyfen's medicine has finally been unloaded, but its ferry remains detained until after the inspection.
 
 ## The Story So Far
 
@@ -42,11 +42,37 @@ Thud knocked the captain unconscious, the company fractured in mutiny and the th
 
 - [[Lord-Captain Edric Vane]] — the commander whose final order triggered the mutiny
 - [[The Company That Wouldn't Die]] — the comrades forged by several brutal campaigns
+- [[Tavia Rel]] — sick military runaway hiding in the north marsh
+- [[Corrin Pike]] — wary guide through Greyfen's marshes
+- [[Malin Voss]] — acting administrator awaiting a dangerous inspection
+- [[Answer Vale]] — retired field medic treating Greyfen's outbreak
+- [[Little Sarah]] — sick child aided by Ordrin
+- [[Mara]] — bartender at the Old Standard Inn
+- [[Brother Sen]] — overwhelmed healer in Greyfen
+
+## Current Locations
+
+- [[Greyfen]] — former fort, ferry settlement and site of the coming inspection
+- [[Old Standard Inn]] — lodging and Voss's temporary headquarters
+- [[Greyfen Clinic]] — overcrowded fever ward
+- [[North Marsh Hunting Blind]] — Tavia's hiding place and the party's current location
 
 ## Notable Items
 
 - [[Vane's Warhammer]] — a beautifully made hammer with an uncertain history
+- [[Badge of Authority]] — temporary authority granted by Voss
 
 ## Sessions
 
-- No sessions recorded yet.
+- [[Session 1 - Narrative|Session 1: Bells in the Marsh]]
+- [[Session 1 - Notes|Session 1: Notes]]
+
+## Hall of Fame
+
+| Session | Biggest Success                                                | Funniest Mistake                                                                              |
+| ------- | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| 1       | Forcing Voss to unload the medicine before more townsfolk died | Lucian started a three-frog battle with an insult, then blamed everyone else for the violence |
+
+## Full Archive
+
+The permanent campaign record is maintained in [[Archive]].

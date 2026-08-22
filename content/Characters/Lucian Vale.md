@@ -96,3 +96,7 @@ His true name remains unresolved. “Lucian Vale” may be genuine, an establish
 - **[[Thud]]:** The front-line muscle who kept Lucian alive through several campaigns. Thud now carries [[Vane's Warhammer]], which Lucian took from the captain's campaign chest.
 - **[[Ordrin Emberkeg]]:** Former comrade, healer and moral counterweight. Lucian trusts the cleric in battle but has concealed the truth of the captain's death.
 - **[[Lord-Captain Edric Vane]]:** Former commander and Lucian's secret murder victim. Vane's death remains Lucian's most dangerous secret.
+
+## Session History
+
+- **Session 1 — [[Session 1 - Narrative|Bells in the Marsh]]:** Provoked three bell frogs with Vicious Mockery, negotiated Greyfen's medicine loose from [[Malin Voss]], operated under the alias Sebastian Vale, exposed marsh predators with Faerie Fire and won [[Tavia Rel]]'s trust with an old company song.

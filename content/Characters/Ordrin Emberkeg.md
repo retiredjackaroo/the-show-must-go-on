@@ -101,3 +101,7 @@ Other skill bonuses: Acrobatics +1, Animal Handling +4, Arcana +0, Athletics +2,
 - **[[Thud]]:** The shield and muscle of the old company; a comrade the cleric has healed many times.
 - **[[Lucian Vale]]:** Entertainer and useful rogue whose deeper secrets remain hidden.
 - **[[Lord-Captain Edric Vane]]:** Former commander whose final order may have violated the cleric's faith.
+
+## Session History
+
+- **Session 1 — [[Session 1 - Narrative|Bells in the Marsh]]:** Kept Thud alive in the bell-frog fight, diagnosed and aided [[Little Sarah]], forced the release of Greyfen's medicine, treated patients at the [[Greyfen Clinic]] and carried medicine through the marsh to [[Tavia Rel]].
