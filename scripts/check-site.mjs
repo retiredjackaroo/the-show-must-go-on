@@ -1,5 +1,5 @@
 import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
-import { join, relative } from "node:path"
+import { dirname, join, relative } from "node:path"
 
 const output = process.argv[2] ?? "public"
 const root = join(process.cwd(), output)
@@ -24,7 +24,7 @@ for (const file of walk(root).filter((entry) => entry.endsWith(".html"))) {
     )
   )
     failures.push(`${display}: /index metadata URL`)
-  for (const href of html.matchAll(/href="([^"#?]+)"/g)) {
+  for (const href of html.matchAll(/<a\b[^>]*href="([^"#?]+)"/gi)) {
     const target = href[1]
     if (
       target.startsWith("http") ||
@@ -32,10 +32,15 @@ for (const file of walk(root).filter((entry) => entry.endsWith(".html"))) {
       target.startsWith("javascript:")
     )
       continue
-    if (target.startsWith("/") && !target.startsWith(basePath) && !target.startsWith("/static/"))
+    if (
+      display !== "404.html" &&
+      target.startsWith("/") &&
+      !target.startsWith(basePath) &&
+      !target.startsWith("/static/")
+    )
       failures.push(`${display}: invalid base-path link ${target}`)
     if (!target.startsWith("/")) {
-      const local = join(file, "..", target)
+      const local = join(dirname(file), target)
       if (
         !existsSync(local) &&
         !existsSync(`${local}.html`) &&

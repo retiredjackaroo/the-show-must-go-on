@@ -7,4 +7,5 @@ draft: false
 dg-publish: true
 publish: true
 ---
+
 A military forward scout assigned to locate [[Tavia Rel]] and her stolen records. Wounded at Greyfen's watchtower, Jon surrendered and accepted [[Lucian Vale]]'s account of corruption under [[Lord-Captain Edric Vane]]. He joined the party and travelled onward aboard the ferry.

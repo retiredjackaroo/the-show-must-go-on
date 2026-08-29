@@ -20,15 +20,15 @@ The private source transcript is preserved in this folder with publishing disabl
 
 ## End State
 
-| Field | State at session end |
-| --- | --- |
-| Date and time | Morning after the Greyfen hearing |
-| Party location | Aboard the ferry, leaving Greyfen across open marsh water |
-| Travelling party | Lucian, Thud, Ordrin, Tavia, Arlen Marr, Jon and Sebastian |
-| Greyfen leadership | Brother Sen remains to lead; Maelin Voss remains in town |
-| Corrin Pike | Stayed in Greyfen |
-| Evidence | Altered Dispatch Ledger retained and read publicly; Field Recovery Order recovered |
-| Fen Mother | Killed while attacking the ferry; carcass hauled aboard and harvested |
+| Field              | State at session end                                                               |
+| ------------------ | ---------------------------------------------------------------------------------- |
+| Date and time      | Morning after the Greyfen hearing                                                  |
+| Party location     | Aboard the ferry, leaving Greyfen across open marsh water                          |
+| Travelling party   | Lucian, Thud, Ordrin, Tavia, Arlen Marr, Jon and Sebastian                         |
+| Greyfen leadership | Brother Sen remains to lead; Maelin Voss remains in town                           |
+| Corrin Pike        | Stayed in Greyfen                                                                  |
+| Evidence           | Altered Dispatch Ledger retained and read publicly; Field Recovery Order recovered |
+| Fen Mother         | Killed while attacking the ferry; carcass hauled aboard and harvested              |
 
 ## Timeline
 

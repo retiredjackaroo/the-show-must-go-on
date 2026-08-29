@@ -7,4 +7,5 @@ draft: false
 dg-publish: true
 publish: true
 ---
+
 A Priority Grey military order recovered from scout [[Jon]]. It directs the inspection to locate [[Tavia Rel]], retrieve every copy of the [[Altered Dispatch Ledger]], identify all who accessed it, avoid magistrate review and prevent public assembly. Reports were due to [[Arlen Marr]] before the Greyfen inspection.

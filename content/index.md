@@ -85,9 +85,9 @@ Thud knocked the captain unconscious, the company fractured in mutiny and the th
 
 ## Hall of Fame
 
-| Session | Biggest Success                                                | Tactical Masterstroke                                                            | Biggest Mistake                                                                       |
-| ------- | -------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| 1       | Forcing Voss to unload the medicine before more townsfolk died | Lucian revealed the Fen Mother and redirected the corpse-light into attacking it | Ordrin tried to free Lucian from a frog and critically struck him in the foot instead |
+| Session | Biggest Success                                                                                                   | Tactical Masterstroke                                                                             | Biggest Mistake                                                                             |
+| ------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| 1       | Forcing Voss to unload the medicine before more townsfolk died                                                    | Lucian revealed the Fen Mother and redirected the corpse-light into attacking it                  | Ordrin tried to free Lucian from a frog and critically struck him in the foot instead       |
 | 2       | Lucian dismantled the inspection, exposed the ledger and carried the party through Greyfen without a major battle | Lucian turned Marr into an ally; Marr then delivered the killing blow against the CR 5 Fen Mother | Thud's failed watchtower ambush shattered Lucian's deception and started an avoidable fight |
 
 ## Full Archive

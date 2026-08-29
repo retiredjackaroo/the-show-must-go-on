@@ -8,6 +8,7 @@ draft: false
 dg-publish: true
 publish: true
 ---
+
 ![[Assets/Arlen Marr.png|Lieutenant Arlen Marr in military dress.]]
 
 A lieutenant sent to command the Greyfen inspection and recover [[Tavia Rel]] and the [[Altered Dispatch Ledger]]. Marr served under [[Lord-Captain Edric Vane]] and expected Vane to punish him if he returned empty-handed.

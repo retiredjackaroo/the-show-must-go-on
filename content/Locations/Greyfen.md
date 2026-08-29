@@ -7,6 +7,7 @@ draft: false
 dg-publish: true
 publish: true
 ---
+
 ![[Assets/Greyfen.jpg|Greyfen, the marsh settlement and former fort.]]
 
 An abandoned military fort being converted into a marsh settlement. Its old parade ground, watchtower, mess hall and medical redoubt remain visible beneath the town's improvised civilian life.

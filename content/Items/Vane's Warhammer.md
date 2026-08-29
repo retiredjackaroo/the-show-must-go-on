@@ -23,16 +23,16 @@ Despite the name the company gave it, the weapon is mechanically a light hammer 
 
 ## Weapon Profile
 
-| Field | Detail |
-| --- | --- |
-| Weapon | Adamantine light hammer |
-| Rarity | Uncommon |
-| Attack type | Melee |
-| Reach | 5 feet |
-| Thrown range | 20/60 feet |
-| Damage | 1d4+3 bludgeoning when wielded by Thud |
-| Weight | 2 lb. |
-| Properties | Light, Thrown, Nick |
+| Field            | Detail                                 |
+| ---------------- | -------------------------------------- |
+| Weapon           | Adamantine light hammer                |
+| Rarity           | Uncommon                               |
+| Attack type      | Melee                                  |
+| Reach            | 5 feet                                 |
+| Thrown range     | 20/60 feet                             |
+| Damage           | 1d4+3 bludgeoning when wielded by Thud |
+| Weight           | 2 lb.                                  |
+| Properties       | Light, Thrown, Nick                    |
 | Special property | Hits against objects are critical hits |
 
 The `+3` damage modifier reflects Thud's current Strength; the weapon's base damage die is `1d4`.
