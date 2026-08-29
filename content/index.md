@@ -19,9 +19,9 @@ banner: /assets/party-banner.png
 
 ## Where We Are Now
 
-Shortly after dawn, [[Lucian Vale]], [[Thud]] and [[Ordrin Emberkeg]] have entered the [[North Marsh Hunting Blind]] with the feverish military runaway [[Tavia Rel]]. The soldiers hunting her will reach [[Greyfen]] at midday.
+The party has left [[Greyfen]] by ferry with [[Tavia Rel]], Lieutenant [[Arlen Marr]] and scout [[Jon]]. Tavia's [[Altered Dispatch Ledger]] was read publicly, the inspection force fractured and [[Brother Sen]] replaced [[Maelin Voss]] as Greyfen's civic leader.
 
-The party must learn why Tavia fled, decide whether to protect or surrender her, and return through a marsh still dominated by the Fen Mother. Greyfen's medicine has finally been unloaded, but its ferry remains detained until after the inspection.
+The Fen Mother attacked the departing ferry and was killed. Its carcass now lies aboard as the party's prize while they carry evidence against senior military officers—and the unresolved report that [[Lord-Captain Edric Vane]] is alive and issuing orders.
 
 ## The Story So Far
 
@@ -41,36 +41,51 @@ Thud knocked the captain unconscious, the company fractured in mutiny and the th
 
 - [[Lord-Captain Edric Vane]] — the commander whose final order triggered the mutiny
 - [[The Company That Wouldn't Die]] — the comrades forged by several brutal campaigns
-- [[Tavia Rel]] — sick military runaway hiding in the north marsh
-- [[Corrin Pike]] — wary guide through Greyfen's marshes
-- [[Maelin Voss]] — acting administrator awaiting a dangerous inspection
+- [[Tavia Rel]] — former military clerk travelling with the party and her evidence
+- [[Arlen Marr]] — inspection commander who abandoned Vane's recovery mission
+- [[Jon]] — military scout who joined the party at Greyfen
+- [[Captain Oda Merrick]] — captain of the ferry carrying the party onward
+- [[Corrin Pike]] — wary marsh guide who remained in Greyfen
+- [[Maelin Voss]] — former acting administrator of Greyfen
 - [[Answer Vale]] — retired field medic treating Greyfen's outbreak
 - [[Little Sarah]] — sick child aided by Ordrin
 - [[Mara]] — bartender at the Old Standard Inn
-- [[Brother Sen]] — overwhelmed healer in Greyfen
+- [[Brother Sen]] — shrine keeper and new civic leader of Greyfen
 
 ## Current Locations
 
-- [[Greyfen]] — former fort, ferry settlement and site of the coming inspection
+- [[Greyfen]] — former fort where Tavia's evidence broke the military inspection
 - [[Old Standard Inn]] — lodging and Voss's temporary headquarters
 - [[Greyfen Clinic]] — overcrowded fever ward
-- [[North Marsh Hunting Blind]] — Tavia's hiding place and the party's current location
+- [[North Marsh Hunting Blind]] — Tavia's former hiding place
+- [[Greyfen Shrine]] — Brother Sen's sanctuary and seat of authority
+- [[Greyfen Watchtower]] — hiding place of Tavia's altered ledger
 
 ## Notable Items
 
 - [[Vane's Warhammer]] — a beautifully made hammer with an uncertain history
 - [[Badge of Authority]] — temporary authority granted by Voss
+- [[Altered Dispatch Ledger]] — proof of falsified casualties and diverted supplies
+- [[Field Recovery Order]] — orders to recover Tavia and evade civil review
 
 ## Sessions
 
 - [[Session 1 - Narrative|Session 1: Bells in the Marsh]]
 - [[Session 1 - Notes|Session 1: Notes]]
+- [[Session 2 - Narrative|Session 2: The Greyfen Reckoning]]
+- [[Session 2 - Notes|Session 2: Notes]]
+
+## Mystery Interlude
+
+- [[Mystery Interlude - Narrative|Mystery Interlude]]
+- [[Mystery Interlude - Notes|Mystery Interlude: Notes]]
 
 ## Hall of Fame
 
 | Session | Biggest Success                                                | Tactical Masterstroke                                                            | Biggest Mistake                                                                       |
 | ------- | -------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | 1       | Forcing Voss to unload the medicine before more townsfolk died | Lucian revealed the Fen Mother and redirected the corpse-light into attacking it | Ordrin tried to free Lucian from a frog and critically struck him in the foot instead |
+| 2       | Exposing the altered ledger in public and breaking the inspection force's unity | Turning Brother Sen, Voss and the soldiers into witnesses the army could not quietly suppress | Thud's failed watchtower ambush shattered Lucian's deception and started an avoidable fight |
 
 ## Full Archive
 
