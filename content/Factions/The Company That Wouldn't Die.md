@@ -14,8 +14,6 @@ dg-publish: true
 publish: true
 ---
 
-# The Company That Wouldn't Die
-
 [[Lucian Vale]], [[Thud]] and [[Ordrin Emberkeg]] are former comrades from a military company that survived several brutal campaigns. They entered the army for different reasons, but repeated battles shifted their loyalty away from the crown and toward one another.
 
 ## Shared History

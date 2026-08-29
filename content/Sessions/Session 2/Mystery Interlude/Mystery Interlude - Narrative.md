@@ -10,9 +10,7 @@ publish: true
 banner: /assets/Session 2 - Mystery Interlude.jpg
 ---
 
-# Mystery Interlude
-
-![[Assets/Session 2 - Mystery Interlude.jpg]]
+![[Assets/Session 2 - Mystery Interlude.jpg|A polished talk-show studio with circular lights, chairs and a host's desk.]]
 
 The hunting blind vanished.
 

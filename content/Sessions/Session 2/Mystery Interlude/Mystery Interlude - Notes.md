@@ -10,12 +10,10 @@ publish: true
 banner: /assets/Session 2 - Mystery Interlude.jpg
 ---
 
-# Mystery Interlude: Notes
-
 > [!warning] Isolated continuity
 > This record is structurally separate from the Session 2 notes and narrative. Its host, set, audience, apparent rules and implications must not populate ordinary campaign characters, locations, factions, items or lore unless later play explicitly establishes a connection.
 
-![[Assets/Session 2 - Mystery Interlude.jpg]]
+![[Assets/Session 2 - Mystery Interlude.jpg|A polished talk-show studio with circular lights, chairs and a host's desk.]]
 
 ## Summary
 
@@ -69,4 +67,4 @@ Lucian's player compared the event to _Dungeon Crawler Carl_ and suspects the pa
 
 ## Source
 
-The private source is preserved separately as [[Mystery Interlude - Transcript]].
+The private source transcript is retained in the campaign vault and is not published.

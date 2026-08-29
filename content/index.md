@@ -1,6 +1,7 @@
 ---
 type: index
 title: The Show Must Go On
+description: A Dungeons & Dragons campaign archive following Lucian Vale, Thud Firebelly and Ordrin Emberkeg after their company's mutiny.
 aliases:
   - The Show Must Go On Campaign Homepage
 tags:
@@ -10,10 +11,8 @@ tags:
 draft: false
 dg-publish: true
 publish: true
-banner: /assets/party-banner.png
+banner: /assets/Party Banner.webp
 ---
-
-# The Show Must Go On
 
 > _Three deserters. One stolen payroll. A dead commander. What could possibly go wrong?_
 
@@ -23,7 +22,7 @@ The party has left [[Greyfen]] by ferry with [[Tavia Rel]], Lieutenant [[Arlen M
 
 The Fen Mother attacked the departing ferry and was killed. Its carcass now lies aboard as the party's prize while they carry evidence against senior military officers—and the unresolved report that [[Lord-Captain Edric Vane]] is alive and issuing orders.
 
-![[Assets/Session 2 - Fen Mother Prize.png]]
+![[Assets/Session 2 - Fen Mother Prize.png|The Fen Mother's body hauled aboard the ferry after the final fight.]]
 
 _The final fight ends with the Fen Mother hauled aboard as the party's prize._
 

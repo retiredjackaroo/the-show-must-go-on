@@ -57,7 +57,7 @@ article h3 {
 
 .content-meta,
 .note-properties {
-  opacity: 0.65;
+  opacity: 1;
   font-size: 0.88rem;
 }
 
@@ -66,7 +66,7 @@ article h3 {
    ========================================================================== */
 
 .breadcrumb-container {
-  opacity: 0.65;
+  opacity: 1;
   font-size: 0.9rem;
 }
 
@@ -103,13 +103,44 @@ a:hover {
   margin-bottom: 1rem;
 }
 
+.search > .search-container {
+  background: rgb(8 10 11 / 72%);
+  backdrop-filter: blur(6px);
+}
+
+.search > .search-container > .search-space {
+  width: min(720px, calc(100vw - 32px));
+}
+
+.search > .search-container > .search-space > *:not(.ghost-text):not(.tag-suggestions) {
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  box-shadow: 0 18px 60px rgb(0 0 0 / 38%);
+}
+
+.search > .search-container > .search-space > .search-layout {
+  max-height: 70dvh;
+  overflow: hidden;
+}
+
+.search > .search-container > .search-space > .search-layout > .results-container {
+  max-height: 70dvh;
+}
+
+.search > .search-container > .search-space > .search-layout > .results-container .result-card > p {
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+}
+
 /* ==========================================================================
    Sidebar Balance
    ========================================================================== */
 
 .left.sidebar,
 .right.sidebar {
-  opacity: 0.92;
+  opacity: 1;
 }
 
 /* ==========================================================================
@@ -118,7 +149,7 @@ a:hover {
 
 .backlinks {
   font-size: 0.92rem;
-  opacity: 0.82;
+  opacity: 1;
 }
 
 /* ==========================================================================
@@ -126,7 +157,7 @@ a:hover {
    ========================================================================== */
 
 .graph {
-  opacity: 0.55;
+  opacity: 0.8;
   transition: opacity 0.2s ease;
 }
 
@@ -180,6 +211,8 @@ th {
 
 img {
   border-radius: 6px;
+  max-width: 100%;
+  height: auto;
 }
 
 /* Full-viewport campaign art behind the page header, navigation, and title. */
@@ -207,12 +240,12 @@ img {
   background:
     linear-gradient(
       90deg,
-      rgb(8 10 11 / 24%),
-      transparent 30%,
-      transparent 70%,
-      rgb(8 10 11 / 24%)
+      rgb(8 10 11 / 58%),
+      rgb(8 10 11 / 18%) 30%,
+      rgb(8 10 11 / 18%) 70%,
+      rgb(8 10 11 / 58%)
     ),
-    linear-gradient(180deg, rgb(8 10 11 / 10%) 0%, var(--light) 100%);
+    linear-gradient(180deg, rgb(8 10 11 / 50%) 0%, var(--light) 100%);
 }
 
 .page.has-banner > #quartz-body {
@@ -225,7 +258,7 @@ img {
    ========================================================================== */
 
 footer {
-  opacity: 0.7;
+  opacity: 1;
   font-size: 0.85rem;
 }
 
@@ -242,5 +275,100 @@ footer {
   .page-banner {
     height: 230px;
     background-position: center 24%;
+  }
+
+  .search > .search-button,
+  .darkmode,
+  .reader-mode,
+  .global-graph-icon,
+  .mobile-explorer {
+    min-width: 44px;
+    min-height: 44px;
+  }
+
+  .search > .search-button {
+    width: 44px;
+    padding: 0;
+    justify-content: center;
+  }
+
+  .search > .search-button > p {
+    display: none;
+  }
+
+  .search > .search-button svg {
+    margin: 0;
+  }
+
+  .flex-component {
+    gap: 8px;
+  }
+
+  .explorer-content {
+    background: var(--light);
+    border: 1px solid var(--lightgray);
+    border-radius: 8px;
+    box-shadow: 0 14px 40px rgb(0 0 0 / 25%);
+  }
+
+  .explorer-content a {
+    padding-block: 0.5rem;
+  }
+
+  article table {
+    display: block;
+    max-width: 100%;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+
+  article table::before {
+    content: "Scroll horizontally to compare all columns";
+    display: block;
+    padding: 0.35rem 0;
+    color: var(--darkgray);
+    font-size: 0.9rem;
+    white-space: normal;
+  }
+
+  article th,
+  article td {
+    padding: 0.65rem;
+    line-height: 1.45;
+  }
+}
+
+:focus-visible {
+  outline: 3px solid var(--tertiary);
+  outline-offset: 3px;
+}
+
+.not-found {
+  min-height: 55vh;
+  display: grid;
+  place-items: center;
+}
+
+.not-found-surface {
+  max-width: 38rem;
+  padding: 2rem;
+  color: var(--dark);
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 10px;
+  box-shadow: 0 16px 48px rgb(0 0 0 / 28%);
+}
+
+.not-found-surface nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
   }
 }

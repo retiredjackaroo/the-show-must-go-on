@@ -13,8 +13,6 @@ publish: true
 banner: /assets/party-banner.png
 ---
 
-# Session 1: Bells in the Marsh
-
 ## The Road to Greyfen
 
 The road away from military service had narrowed into a raised strip of mud through a fog-bound marsh. [[Lucian Vale]], [[Thud]] and [[Ordrin Emberkeg]] had put considerable distance between themselves and the camp they had abandoned, but distance was not yet safety. To continue in the same direction they needed the ferry at [[Greyfen]], an old military settlement somewhere beyond the reeds.
@@ -54,7 +52,7 @@ _The marsh causeway leading toward Greyfen._
 
 They reached Greyfen around four in the afternoon. The settlement had grown within the bones of an abandoned fort: an old parade ground, a distant watchtower, military buildings turned toward civilian purposes and a ferry landing crowded with frightened residents.
 
-![[Assets/Greyfen Wharf.jpg]]
+![[Assets/Greyfen Wharf.jpg|The wharf at Greyfen.]]
 
 _Guards hold the chained landing while the medicine barge waits offshore._
 
@@ -90,7 +88,7 @@ This time Voss yielded. The chain withdrew. Guards began hauling crates from the
 
 ## The Last Patient
 
-![[Assets/Greyfen Clinic.jpg]]
+![[Assets/Greyfen Clinic.jpg|The crowded Greyfen Clinic.]]
 
 _The old redoubt pressed into service as Greyfen's overcrowded clinic._
 
@@ -106,7 +104,7 @@ Thud argued for daylight. The others pointed to the soldiers arriving at noon an
 
 ## Through the North Marsh
 
-![[Assets/North Marsh.jpg]]
+![[Assets/North Marsh.jpg|The North Marsh around Greyfen.]]
 
 _The flooded route north of Greyfen._
 
@@ -120,11 +118,11 @@ Then a white light began blinking through the fog behind them.
 
 Corrin did not recognise it. It might have been the military scouts; it might have been something worse. The party kept moving across broken islands of mud and water until one crossing collapsed into chaos. Lucian ended up flailing in the water as two crocodiles closed.
 
-![[Assets/Fen Mother Waters.jpg]]
+![[Assets/Fen Mother Waters.jpg|The Fen Mother in the marsh waters.]]
 
 _The black water churns as something immense moves beneath it._
 
-![[Assets/Session 1 - Fen Mother Combat.png]]
+![[Assets/Session 1 - Fen Mother Combat.png|The party fighting the Fen Mother during Session 1.]]
 
 _The party caught between crocodiles, giant amphibians, the Corpse Light and the Fen Mother._
 
@@ -143,7 +141,7 @@ No one suffered a serious wound. Corrin warned that they would not be returning 
 
 ## The Hunting Blind
 
-![[Assets/North Marsh Hunting Blind.jpg]]
+![[Assets/North Marsh Hunting Blind.jpg|The hunting blind in the North Marsh.]]
 
 _Tavia waits feverish and armed while lights approach through the reeds._
 

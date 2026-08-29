@@ -13,9 +13,7 @@ dg-publish: true
 publish: true
 ---
 
-# Lucian Vale
-
-![[Assets/Lucian Vale.png]]
+![[Assets/Lucian Vale.webp|Lucian Vale, the party's human bard.]]
 
 Lucian Vale is a charming, respectable-seeming con artist whose introduced name may or may not be his legal one. A bard, charlatan and former prisoner, he served as the face and entertainer of [[The Company That Wouldn't Die]]—and as a dangerous opponent whenever someone turned their back on him.
 

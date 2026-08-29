@@ -1,7 +1,7 @@
 import { i18n } from "../i18n"
 import { FullSlug, getFileExtension, joinSegments, pathToRoot } from "../util/path"
 import { CSSResourceToStyleElement, JSResourceToScriptElement } from "../util/resources"
-import { googleFontHref, googleFontSubsetHref } from "../util/theme"
+import { googleFontHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { unescapeHTML } from "../util/escape"
 import { CustomOgImagesEmitterName } from "../../.quartz/plugins"
@@ -22,14 +22,17 @@ export default (() => {
 
     const { css, js, additionalHead } = externalResources
 
-    const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
+    const url = new URL(`https://${cfg.baseUrl ?? "example.com"}/`)
     const path = url.pathname as FullSlug
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
     const iconPath = joinSegments(baseDir, "static/icon.png")
 
     // Url of current page
     const socialUrl =
-      fileData.slug === "404" ? url.toString() : joinSegments(url.toString(), fileData.slug!)
+      fileData.slug === "404"
+        ? url.toString()
+        : joinSegments(url.toString(), fileData.slug!).replace(/\/index$/, "/")
+    const canonicalUrl = fileData.slug === "index" ? url.toString() : socialUrl
 
     const usesCustomOgImage = ctx.cfg.plugins.emitters.some(
       (e) => e.name === CustomOgImagesEmitterName,
@@ -54,9 +57,6 @@ export default (() => {
             <link rel="preconnect" href="https://fonts.googleapis.com" />
             <link rel="preconnect" href="https://fonts.gstatic.com" />
             <link rel="stylesheet" href={googleFontHref(cfg.theme)} />
-            {cfg.theme.typography.title && (
-              <link rel="stylesheet" href={googleFontSubsetHref(cfg.theme, cfg.pageTitle)} />
-            )}
           </>
         )}
         <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossOrigin="anonymous" />
@@ -86,14 +86,29 @@ export default (() => {
         {cfg.baseUrl && (
           <>
             <meta property="twitter:domain" content={cfg.baseUrl}></meta>
-            <meta property="og:url" content={socialUrl}></meta>
-            <meta property="twitter:url" content={socialUrl}></meta>
+            <link rel="canonical" href={canonicalUrl} />
+            <meta property="og:url" content={canonicalUrl}></meta>
+            <meta property="twitter:url" content={canonicalUrl}></meta>
           </>
         )}
 
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              const syncThemeLabel = () => {
+                const isDark = document.documentElement.getAttribute("saved-theme") === "dark";
+                document.querySelectorAll(".darkmode").forEach((button) =>
+                  button.setAttribute("aria-label", isDark ? "Switch to light mode" : "Switch to dark mode"),
+                );
+              };
+              document.addEventListener("render", syncThemeLabel);
+              document.addEventListener("themechange", syncThemeLabel);
+            `,
+          }}
+        />
 
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js

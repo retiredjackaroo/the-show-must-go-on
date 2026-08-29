@@ -10,8 +10,6 @@ publish: true
 banner: /assets/party-banner.png
 ---
 
-# Session 2: The Greyfen Reckoning
-
 ## The Clerk in the Blind
 
 Tavia had not deserted merely to save herself. She had served as a clerk close enough to military dispatches to watch numbers change after the ink dried. Casualties shrank before civil copies were made. Civilian dead disappeared. A relief convoy redirected under command seal became a delay caused by flooding. Orders demanded that unofficial copies be destroyed and witnesses kept away from magistrates.
@@ -26,7 +24,7 @@ The party chose a harder plan: recover the ledger, bring it before Brother Sen a
 
 Corrin would not return by the Fen Mother's path, so he led them through open marsh. A pale signal answered through the reeds. The first forward scout died before he could carry warning back: Ordrin's Guiding Bolt tore into him and Lucian's arrow finished the work. Lucian took two gold pieces, fed the body to the marsh and declared that they had never been there. Thud shouldered the dead man's longbow.
 
-![[Assets/Greyfen Return.jpg]]
+![[Assets/Greyfen Return.jpg|The party's return to Greyfen.]]
 
 At the ruined watchtower, the second scout had enlisted a Greyfen guard named Greg to search the rooms. Lucian walked openly beneath Voss's badge and introduced himself as Sebastian. Thud and Ordrin attempted to become inconspicuous bodyguards. Thud fell over loudly enough to settle the question.
 
@@ -46,13 +44,13 @@ Jon's recovery order made the purpose plain. Tavia Rel was to be found alive unl
 
 The party hurried to the shrine.
 
-![[Assets/Greyfen Shrine.jpg]]
+![[Assets/Greyfen Shrine.jpg|Greyfen Shrine, Brother Sen's sanctuary.]]
 
 Brother Sen stood beside an ancient green bell among the settlement's sick and displaced families. He heard Tavia's account, read the records and rang the bell. Residents began moving toward the parade ground. Sen healed Jon despite the man's uniform, healed Thud as well, and announced that the evidence would be heard in public.
 
 ## The Greyfen Hearing
 
-![[Assets/Session 2 - Public Hearing.jpg]]
+![[Assets/Session 2 - Public Hearing.jpg|The public hearing in Greyfen during Session 2.]]
 
 Arlen Marr arrived at midday demanding Tavia, the ledger and every copy. Voss admitted she had found none of them. Then Brother Sen brought the town into the open and accused both Voss and the army of abusing Greyfen.
 
@@ -79,7 +77,7 @@ Brother Sen remained to lead Greyfen. Voss paid the party under the combined wei
 
 The group rested in Greyfen and departed the following morning. Thud reclaimed Vane's Warhammer. Corrin chose home over another crossing. Captain Oda Merrick took the enlarged company aboard her ferry and pushed out into the open marsh.
 
-![[Assets/Greyfen Ferry Departure.jpg]]
+![[Assets/Greyfen Ferry Departure.jpg|The ferry departing Greyfen with the party aboard.]]
 
 The Fen Mother rose behind them.
 
@@ -89,7 +87,7 @@ Marr's heavy crossbow struck with disciplined force. His final shot killed the C
 
 Thud refused to let the carcass sink. He hurled the anchor, caught the Fen Mother and dragged it behind the moving boat until the others helped haul it aboard. The captain stared as Ordrin and Thud began turning the marsh's apex predator into leather, meat, alchemical organs and one enormous trophy head.
 
-![[Assets/Session 2 - Fen Mother Prize.png]]
+![[Assets/Session 2 - Fen Mother Prize.png|The Fen Mother's body hauled aboard the ferry after the final fight.]]
 
 _The victors gather around the Fen Mother, hauled onto the ferry as their prize._
 

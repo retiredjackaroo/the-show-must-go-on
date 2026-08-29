@@ -14,9 +14,7 @@ dg-publish: true
 publish: true
 ---
 
-# Ordrin Emberkeg
-
-![[Assets/Ordrin Emberkeg.png]]
+![[Assets/Ordrin Emberkeg.webp|Ordrin Emberkeg, the party's dwarf war cleric.]]
 
 The party's war cleric served as quartermaster for [[The Company That Wouldn't Die]], keeping its soldiers armed, supplied and—when circumstances allowed—properly lubricated. A capable smith and brewer, Ordrin understood that an army marched on sound equipment, full stores and something worth drinking at the end of the day.
 

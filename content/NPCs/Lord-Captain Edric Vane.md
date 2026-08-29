@@ -13,8 +13,6 @@ draft: false
 dg-publish: true
 publish: true
 ---
-# Lord-Captain Edric Vane
-
 Lord-Captain Edric Vane commanded [[The Company That Wouldn't Die]]. After several campaigns, he ordered the battered company to assault a ruined fortress reportedly occupied by a dragon, without reinforcements or the possibility of retreat.
 
 The company refused. [[Thud]] knocked Vane unconscious during the resulting mutiny. [[Lucian Vale]] later returned in secret, slit the captain's throat and stole the company payroll.

@@ -8,6 +8,4 @@ dg-publish: true
 publish: true
 ---
 
-# Mara
-
 The bartender at the [[Old Standard Inn]], serving sour ale and military rations while Greyfen's closed landing strained food, rooms and tempers.

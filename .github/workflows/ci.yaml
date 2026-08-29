@@ -11,13 +11,9 @@ on:
 
 jobs:
   build-and-test:
-    if: ${{ github.repository == 'jackyzha0/quartz' }}
-    strategy:
-      matrix:
-        os: [windows-latest, macos-latest, ubuntu-latest]
-    runs-on: ${{ matrix.os }}
+    runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: read
     steps:
       - uses: actions/checkout@v6
         with:
@@ -47,7 +43,7 @@ jobs:
       - run: npm ci
 
       - name: Install Quartz plugins
-        run: npx quartz plugin install
+        run: npm run install-plugins
 
       - name: Check types and style
         run: npm run check
@@ -55,8 +51,10 @@ jobs:
       - name: Test
         run: npm test
 
-      - name: Ensure Quartz builds, check bundle info
-        run: npx quartz build --bundleInfo -d docs
+      - name: Build production site
+        run: npx quartz build
+      - name: Validate public links and transcript exclusion
+        run: npm run check:site
 
   publish-tag:
     if: ${{ github.repository == 'jackyzha0/quartz' && github.ref == 'refs/heads/v5' }}

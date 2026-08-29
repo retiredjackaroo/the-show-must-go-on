@@ -10,8 +10,6 @@ dg-publish: true
 publish: true
 ---
 
-# The Show Must Go On — Full Archive
-
 The permanent cumulative record for the campaign. Unlike [[index|the campaign homepage]], this page grows over time and is never pruned back to the latest session.
 
 ## All Sessions

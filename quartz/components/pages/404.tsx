@@ -5,11 +5,19 @@ const NotFound: QuartzComponent = ({ cfg, ctx }: QuartzComponentProps) => {
   const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
   const baseDir = ctx.argv.serve ? "/" : url.pathname
 
+  const campaignRoot = baseDir.endsWith("/") ? baseDir : `${baseDir}/`
   return (
-    <article class="popover-hint">
-      <h1>404</h1>
-      <p>{i18n(cfg.locale).pages.error.notFound}</p>
-      <a href={baseDir}>{i18n(cfg.locale).pages.error.home}</a>
+    <article class="popover-hint not-found">
+      <div class="not-found-surface">
+        <h1>Page not found</h1>
+        <p>This page could not be found.</p>
+        <nav aria-label="Helpful links">
+          <a href={campaignRoot}>{i18n(cfg.locale).pages.error.home}</a>
+          <a href={`${campaignRoot}Sessions/`}>Sessions</a>
+          <a href={`${campaignRoot}Characters/`}>Characters</a>
+          <a href={`${campaignRoot}Archive/`}>Full Archive</a>
+        </nav>
+      </div>
       <script
         dangerouslySetInnerHTML={{
           __html: `

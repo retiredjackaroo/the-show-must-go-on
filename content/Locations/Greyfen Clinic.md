@@ -8,9 +8,7 @@ dg-publish: true
 publish: true
 ---
 
-# Greyfen Clinic
-
-![[Assets/Greyfen Clinic.jpg]]
+![[Assets/Greyfen Clinic.jpg|The crowded Greyfen Clinic.]]
 
 A repurposed military medical ward inside Greyfen's old redoubt. Eleven patients crowded the former powder room during Session 1 while [[Answer Vale]] and [[Brother Sen]] worked without enough supplies.
 

@@ -15,8 +15,6 @@ dg-publish: true
 publish: true
 ---
 
-# Vane's Warhammer
-
 A beautifully made adamantine light hammer taken from [[Lord-Captain Edric Vane|Lord-Captain Vane's]] campaign chest during the mutiny of [[The Company That Wouldn't Die]]. [[Lucian Vale]] took it; [[Thud]] now carries and wields it.
 
 Despite the name the company gave it, the weapon is mechanically a light hammer rather than a warhammer. Its adamantine head is exceptionally hard: a hit against an object is a critical hit.

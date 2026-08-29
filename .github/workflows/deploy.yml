@@ -41,7 +41,11 @@ jobs:
       - name: Install Dependencies
         run: npm ci
       - name: Install Quartz plugins
-        run: npx quartz plugin install
+        run: npm run install-plugins
+      - name: Check types and style
+        run: npm run check
+      - name: Test
+        run: npm test
       - name: Build Quartz
         run: npx quartz build
       - name: Version social preview images

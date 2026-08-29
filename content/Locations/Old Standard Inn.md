@@ -8,8 +8,6 @@ dg-publish: true
 publish: true
 ---
 
-# Old Standard Inn
-
-![[Assets/Old Standard Inn.jpg]]
+![[Assets/Old Standard Inn.jpg|The Old Standard Inn in Greyfen.]]
 
 Greyfen's former military mess hall, now an inn with long tables, a low hearth, damp walls and rooms scarce enough to command inflated prices. [[Mara]] tends the bar. [[Maelin Voss]] maintains a basement office beneath it.

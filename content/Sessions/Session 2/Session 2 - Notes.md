@@ -10,8 +10,6 @@ publish: true
 banner: /assets/party-banner.png
 ---
 
-# Session 2: Notes
-
 The party learned why [[Tavia Rel]] was being hunted, recovered her [[Altered Dispatch Ledger]], and brought both witness and evidence before [[Brother Sen]] in Greyfen. A public hearing broke the inspection force's unity. [[Arlen Marr]], scout [[Jon]] and soldier [[Sebastian (Soldier)|Sebastian]] joined the group, while Sen assumed civic leadership and [[Maelin Voss]] remained in Greyfen. After resting, the enlarged company boarded [[Captain Oda Merrick]]'s ferry. The Fen Mother attacked; the passengers killed it and hauled the carcass aboard.
 
 ## Session Documents
@@ -50,7 +48,7 @@ The private source transcript is preserved in this folder with publishing disabl
 
 ### 3. The watchtower
 
-![[Assets/Greyfen Return.jpg]]
+![[Assets/Greyfen Return.jpg|The party's return to Greyfen.]]
 
 - At the watchtower, a second scout and local guard Greg were already searching.
 - Lucian used the name Sebastian and Voss's badge to claim authority, then tried to isolate the scout.
@@ -68,7 +66,7 @@ The private source transcript is preserved in this folder with publishing disabl
 
 ### 5. Brother Sen and the public hearing
 
-![[Assets/Greyfen Shrine.jpg]]
+![[Assets/Greyfen Shrine.jpg|Greyfen Shrine, Brother Sen's sanctuary.]]
 
 - Brother Sen rang the shrine bell and mobilised residents toward the parade ground.
 - He accepted Tavia and the records as credible, healed wounded Jon and Thud, and demanded a public hearing.
@@ -85,7 +83,7 @@ The private source transcript is preserved in this folder with publishing disabl
 
 ### 6. Departure and the Fen Mother
 
-![[Assets/Greyfen Ferry Departure.jpg]]
+![[Assets/Greyfen Ferry Departure.jpg|The ferry departing Greyfen with the party aboard.]]
 
 - The party rested overnight and shopped the following morning. Thud recovered [[Vane's Warhammer]] from the inn.
 - Corrin remained behind. Captain Oda Merrick took the party and its new allies aboard the ferry.
@@ -94,7 +92,7 @@ The private source transcript is preserved in this folder with publishing disabl
 - Sebastian was killed by the Fen Mother's tail during the fight.
 - Thud anchored the corpse and the group hauled it aboard.
 
-![[Assets/Session 2 - Fen Mother Prize.png]]
+![[Assets/Session 2 - Fen Mother Prize.png|The Fen Mother's body hauled aboard the ferry after the final fight.]]
 
 _The final combat ended with the slain Fen Mother sprawled across the ferry deck as the party's prize._
 

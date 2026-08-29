@@ -13,9 +13,7 @@ dg-publish: true
 publish: true
 ---
 
-# Thud Firebelly
-
-![[Assets/Thud Firebelly Portrait.png]]
+![[Assets/Thud Firebelly Portrait.webp|Thud Firebelly, the party's human barbarian.]]
 
 > “Hurt good. Burn better.”
 
