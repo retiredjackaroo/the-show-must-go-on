@@ -10,7 +10,7 @@ publish: true
 banner: /assets/party-banner.png
 ---
 
-The party learned why [[Tavia Rel]] was being hunted, recovered her [[Altered Dispatch Ledger]], and brought both witness and evidence before [[Brother Sen]] in Greyfen. A public hearing broke the inspection force's unity. [[Arlen Marr]], scout [[Jon]] and soldier [[Sebastian (Soldier)|Sebastian]] joined the group, while Sen assumed civic leadership and [[Maelin Voss]] remained in Greyfen. After resting, the enlarged company boarded [[Captain Oda Merrick]]'s ferry. The Fen Mother attacked; the passengers killed it and hauled the carcass aboard.
+The party learned why [[Tavia Rel]] was being hunted, recovered her [[Altered Dispatch Ledger]], and brought both witness and evidence before [[Brother Sen]] in Greyfen. A public hearing broke the inspection force's unity. [[Arlen Marr]], scout [[NPCs/Jon Hay|Jon Hay]] and soldier [[Sebastian (Soldier)|Sebastian]] joined the group, while Sen assumed civic leadership and [[Maelin Voss]] remained in Greyfen. After resting, the enlarged company boarded [[Captain Oda Merrick]]'s ferry. The Fen Mother attacked; the passengers killed it and hauled the carcass aboard.
 
 ## Session Documents
 
@@ -24,7 +24,7 @@ The private source transcript is preserved in this folder with publishing disabl
 | ------------------ | ---------------------------------------------------------------------------------- |
 | Date and time      | Morning after the Greyfen hearing                                                  |
 | Party location     | Aboard the ferry, leaving Greyfen across open marsh water                          |
-| Travelling party   | Lucian, Thud, Ordrin, Tavia, Arlen Marr, Jon and Sebastian                         |
+| Travelling party   | Lucian, Thud, Ordrin, Tavia, Arlen Marr, Jon Hay and Sebastian                     |
 | Greyfen leadership | Brother Sen remains to lead; Maelin Voss remains in town                           |
 | Corrin Pike        | Stayed in Greyfen                                                                  |
 | Evidence           | Altered Dispatch Ledger retained and read publicly; Field Recovery Order recovered |
@@ -54,8 +54,8 @@ The private source transcript is preserved in this folder with publishing disabl
 - Lucian used the name Sebastian and Voss's badge to claim authority, then tried to isolate the scout.
 - Thud's attempted ambush failed, but the wounded scout surrendered.
 - Ordrin persuaded Greg that the inspection threatened Greyfen; Greg changed sides without further violence.
-- The scout, Jon, accepted the evidence of Vane's corruption and joined the party.
-- Tavia retrieved the Altered Dispatch Ledger. The party also took Jon's Field Recovery Order.
+- The scout, Jon Hay, accepted the evidence of Vane's corruption and joined the party.
+- Tavia retrieved the Altered Dispatch Ledger. The party also took Jon Hay's Field Recovery Order.
 
 ### 4. The ledger and recovery order
 
@@ -69,13 +69,13 @@ The private source transcript is preserved in this folder with publishing disabl
 ![[Assets/Greyfen Shrine.jpg|Greyfen Shrine, Brother Sen's sanctuary.]]
 
 - Brother Sen rang the shrine bell and mobilised residents toward the parade ground.
-- He accepted Tavia and the records as credible, healed wounded Jon and Thud, and demanded a public hearing.
+- He accepted Tavia and the records as credible, healed wounded Jon Hay and Thud, and demanded a public hearing.
 - Lucian convinced Voss to support the hearing rather than allow violence.
 - Ordrin persuaded Marr's soldiers to remain and hear the evidence instead of searching for Tavia.
 - Sen read the ledger before the settlement. Tavia discarded Lucian's disguise and authenticated it publicly.
 - Marr recognised the party as former soldiers, but accepted Lucian's forged retirement papers.
 - The evidence shook the inspection soldiers' loyalty. Marr admitted Vane would punish him if he returned without Tavia and the ledger.
-- Marr, Jon and one soldier, Sebastian, chose to leave with the party. Greg stayed in Greyfen with his children. The remaining inspection troops did not join.
+- Marr, Jon Hay and one soldier, Sebastian, chose to leave with the party. Greg stayed in Greyfen with his children. The remaining inspection troops did not join.
 - Sen became Greyfen's new civic leader. Voss paid the party after pressure from Sen and the party; the precise final amount should be confirmed against character sheets.
 
 > [!success] Tactical Masterstroke — Turning Marr
@@ -88,7 +88,7 @@ The private source transcript is preserved in this folder with publishing disabl
 - The party rested overnight and shopped the following morning. Thud recovered [[Vane's Warhammer]] from the inn.
 - Corrin remained behind. Captain Oda Merrick took the party and its new allies aboard the ferry.
 - The Fen Mother surfaced in open water and attacked the vessel, tearing into its hull.
-- Tavia, Jon, Sebastian, Marr and the three heroes fought from the deck. Marr's heavy crossbow dealt the killing blow against the CR 5 Fen Mother—turning Lucian's social victory at Greyfen directly into the party's combat victory.
+- Tavia, Jon Hay, Sebastian, Marr and the three heroes fought from the deck. Marr's heavy crossbow dealt the killing blow against the CR 5 Fen Mother—turning Lucian's social victory at Greyfen directly into the party's combat victory.
 - Sebastian was killed by the Fen Mother's tail during the fight.
 - Thud anchored the corpse and the group hauled it aboard.
 
@@ -103,7 +103,7 @@ _The final combat ended with the slain Fen Mother sprawled across the ferry deck
 ### Lucian Vale
 
 - Planned the watchtower deception and used Voss's badge under the Sebastian identity.
-- Killed the first marsh scout, then persuaded wounded Jon to abandon Vane's orders.
+- Killed the first marsh scout, then persuaded wounded Jon Hay to abandon Vane's orders.
 - Presented the ledger, won Voss's support for a hearing and used a forged retirement paper to deflect Marr's accusation of desertion.
 - Turned the hearing toward the inspection soldiers and offered Marr a path away from Vane.
 - Recruited Marr, whose heavy crossbow delivered the killing blow against the CR 5 Fen Mother. Lucian's social strategy supplied the decisive combat asset in the following encounter.
@@ -111,7 +111,7 @@ _The final combat ended with the slain Fen Mother sprawled across the ferry deck
 ### Thud Firebelly
 
 - Took the first scout's longbow and arrows.
-- Tried to isolate and ambush Jon, then helped force his surrender.
+- Tried to isolate and ambush Jon Hay, then helped force his surrender.
 - Guarded the public reading and intimidated Marr at the decisive moment.
 - Fought the Fen Mother, anchored its corpse and claimed its head as a trophy.
 
@@ -135,5 +135,5 @@ _The final combat ended with the slain Fen Mother sprawled across the ferry deck
 
 - How is Vane alive, and is the man issuing orders truly Edric Vane?
 - What larger authority can act on Tavia's evidence?
-- What consequences follow Marr, Jon and the party leaving with the ledger?
+- What consequences follow Marr, Jon Hay and the party leaving with the ledger?
 - What damaged the Southern Relief Convoy's intended recipients when it was redirected?

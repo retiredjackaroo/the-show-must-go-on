@@ -32,7 +32,7 @@ The deception survived just long enough for Lucian to split the scout from Greg.
 
 “That guy was a cunt anyway,” Greg decided.
 
-Outside, Lucian and Thud battered the scout into surrender. His name was Jon. When Lucian explained that the stolen documents proved Vane's officers had erased dead soldiers and abandoned civilians to protect themselves, the wounded man agreed to help seek justice for them.
+Outside, Lucian and Thud battered the scout into surrender. His name was Jon Hay. When Lucian explained that the stolen documents proved Vane's officers had erased dead soldiers and abandoned civilians to protect themselves, the wounded man agreed to help seek justice for them.
 
 Tavia entered the tower and retrieved the oilcloth bundle.
 
@@ -40,13 +40,13 @@ Tavia entered the tower and retrieved the oilcloth bundle.
 
 The dispatch ledger contained its own prosecution. One casualty return originally recorded forty-three soldiers and nineteen civilians missing; its replacement admitted only twelve soldiers and no civilians. Another entry hid the deliberate diversion of a Southern Relief Convoy. A third ordered clerk copies recovered, magistrates bypassed and anyone capable of authenticating the first entries secured.
 
-Jon's recovery order made the purpose plain. Tavia Rel was to be found alive unless she resisted. Every ledger, abstract and copy was to be recovered. No civil detention. No magistrate review. Lieutenant Arlen Marr expected a report before the inspection reached Greyfen.
+Jon Hay's recovery order made the purpose plain. Tavia Rel was to be found alive unless she resisted. Every ledger, abstract and copy was to be recovered. No civil detention. No magistrate review. Lieutenant Arlen Marr expected a report before the inspection reached Greyfen.
 
 The party hurried to the shrine.
 
 ![[Assets/Greyfen Shrine.jpg|Greyfen Shrine, Brother Sen's sanctuary.]]
 
-Brother Sen stood beside an ancient green bell among the settlement's sick and displaced families. He heard Tavia's account, read the records and rang the bell. Residents began moving toward the parade ground. Sen healed Jon despite the man's uniform, healed Thud as well, and announced that the evidence would be heard in public.
+Brother Sen stood beside an ancient green bell among the settlement's sick and displaced families. He heard Tavia's account, read the records and rang the bell. Residents began moving toward the parade ground. Sen healed Jon Hay despite the man's uniform, healed Thud as well, and announced that the evidence would be heard in public.
 
 ## The Greyfen Hearing
 
@@ -66,7 +66,7 @@ The lieutenant finally admitted the shape of his trap. If he returned without Ta
 
 Lucian offered a choice: help carry the evidence to a higher authority, or remain with an army that would erase them next. Thud stood close enough to make the alternatives tangible. Marr stepped back, then laughed at one of Lucian's jokes. He would not order his soldiers to desert, but neither would he stop them choosing.
 
-Jon joined. A soldier named Sebastian joined. Greg stayed with his children. Marr joined them himself.
+Jon Hay joined. A soldier named Sebastian joined. Greg stayed with his children. Marr joined them himself.
 
 > [!success] Tactical Masterstroke — Turning Marr
 > Lucian had dismantled the inspection without a major battle and converted its commander into an ally. The value of that victory became immediate: Marr's heavy crossbow would deliver the killing blow against the CR 5 Fen Mother during the very next encounter.
@@ -81,7 +81,7 @@ The group rested in Greyfen and departed the following morning. Thud reclaimed V
 
 The Fen Mother rose behind them.
 
-Its first bite tore into the vessel. Its tail opened more of the hull. Lucian tried to drive it away with Command, Ordrin summoned a spectral warhammer, and Tavia and Jon loosed bolts and arrows from the deck. Sebastian closed with a spear and died beneath the creature's tail.
+Its first bite tore into the vessel. Its tail opened more of the hull. Lucian tried to drive it away with Command, Ordrin summoned a spectral warhammer, and Tavia and Jon Hay loosed bolts and arrows from the deck. Sebastian closed with a spear and died beneath the creature's tail.
 
 Marr's heavy crossbow struck with disciplined force. His final shot killed the CR 5 monster before it could break the ferry apart. Lucian's triumph at Greyfen had crossed directly into the battle: the officer he persuaded to defect became the ally who secured the kill.
 

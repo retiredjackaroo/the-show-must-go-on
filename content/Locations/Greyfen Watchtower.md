@@ -8,4 +8,4 @@ dg-publish: true
 publish: true
 ---
 
-A partially ruined military watchtower in Greyfen. [[Tavia Rel]] hid the [[Altered Dispatch Ledger]] on its lower level. The party recovered it after confronting forward scout [[Jon]] and winning local guard Greg to their side.
+A partially ruined military watchtower in Greyfen. [[Tavia Rel]] hid the [[Altered Dispatch Ledger]] on its lower level. The party recovered it after confronting forward scout [[NPCs/Jon Hay|Jon Hay]] and winning local guard Greg to their side.

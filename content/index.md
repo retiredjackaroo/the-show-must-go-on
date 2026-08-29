@@ -18,7 +18,7 @@ banner: /assets/party-banner.webp
 
 ## Where We Are Now
 
-The party has left [[Greyfen]] by ferry with [[Tavia Rel]], Lieutenant [[Arlen Marr]] and scout [[Jon]]. Tavia's [[Altered Dispatch Ledger]] was read publicly, the inspection force fractured and [[Brother Sen]] replaced [[Maelin Voss]] as Greyfen's civic leader.
+The party has left [[Greyfen]] by ferry with [[Tavia Rel]], Lieutenant [[Arlen Marr]] and scout [[NPCs/Jon Hay|Jon Hay]]. Tavia's [[Altered Dispatch Ledger]] was read publicly, the inspection force fractured and [[Brother Sen]] replaced [[Maelin Voss]] as Greyfen's civic leader.
 
 The Fen Mother attacked the departing ferry and was killed. Its carcass now lies aboard as the party's prize while they carry evidence against senior military officers—and the unresolved report that [[Lord-Captain Edric Vane]] is alive and issuing orders.
 
@@ -46,7 +46,7 @@ Thud knocked the captain unconscious, the company fractured in mutiny and the th
 - [[The Company That Wouldn't Die]] — the comrades forged by several brutal campaigns
 - [[Tavia Rel]] — former military clerk travelling with the party and her evidence
 - [[Arlen Marr]] — inspection commander who abandoned Vane's recovery mission
-- [[Jon]] — military scout who joined the party at Greyfen
+- [[NPCs/Jon Hay|Jon Hay]] — military scout who joined the party at Greyfen
 - [[Captain Oda Merrick]] — captain of the ferry carrying the party onward
 - [[Corrin Pike]] — wary marsh guide who remained in Greyfen
 - [[Maelin Voss]] — former acting administrator of Greyfen

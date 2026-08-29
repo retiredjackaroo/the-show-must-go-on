@@ -8,6 +8,8 @@ dg-publish: true
 publish: true
 ---
 
+![[Assets/Tavia Rel.png|Tavia Rel, former military clerk.]]
+
 A young former military clerk with black hair, a long cloak and military clothing. She fled [[Greyfen]] after hearing that soldiers would arrive for an inspection and hid in the [[North Marsh Hunting Blind]].
 
 Tavia held the party at crossbow point until [[Lucian Vale]] played a familiar company song and [[Ordrin Emberkeg]] explained that they carried medicine. Recognising them as former soldiers, she invited them inside.

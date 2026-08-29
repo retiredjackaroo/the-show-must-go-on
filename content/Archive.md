@@ -41,7 +41,7 @@ The permanent cumulative record for the campaign. Unlike [[index|the campaign ho
 - [[Mara]]
 - [[Brother Sen]]
 - [[Arlen Marr]]
-- [[Jon]]
+- [[NPCs/Jon Hay|Jon Hay]]
 - [[Captain Oda Merrick]]
 - [[Sebastian (Soldier)|Sebastian]]
 
