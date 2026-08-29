@@ -47,8 +47,24 @@ article h3 {
    ========================================================================== */
 
 .page-title {
+  width: fit-content;
   font-weight: 700;
   letter-spacing: -0.02em;
+}
+
+.page-title::before {
+  display: none;
+}
+
+.page-title > a {
+  display: grid;
+  width: 15rem;
+  height: 15rem;
+  place-items: center;
+  color: transparent;
+  background: url("./assets/campaign-sigil.png") center / contain no-repeat;
+  filter: drop-shadow(0 5px 12px rgb(0 0 0 / 40%));
+  text-shadow: none;
 }
 
 /* ==========================================================================
@@ -275,6 +291,16 @@ footer {
   .page-banner {
     height: 230px;
     background-position: center 24%;
+  }
+
+  .page-title {
+    width: fit-content;
+  }
+
+  .page-title > a {
+    width: 6rem;
+    height: 6rem;
+    background-size: 6rem;
   }
 
   .search > .search-button,
