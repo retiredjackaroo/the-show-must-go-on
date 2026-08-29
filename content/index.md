@@ -23,6 +23,10 @@ The party has left [[Greyfen]] by ferry with [[Tavia Rel]], Lieutenant [[Arlen M
 
 The Fen Mother attacked the departing ferry and was killed. Its carcass now lies aboard as the party's prize while they carry evidence against senior military officers—and the unresolved report that [[Lord-Captain Edric Vane]] is alive and issuing orders.
 
+![[Assets/Session 2 - Fen Mother Prize.png]]
+
+_The final fight ends with the Fen Mother hauled aboard as the party's prize._
+
 ## The Story So Far
 
 The three survived several military campaigns together before [[Lord-Captain Edric Vane]] ordered their battered company to assault a ruined fortress reportedly occupied by a dragon. They refused.
