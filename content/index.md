@@ -11,7 +11,7 @@ tags:
 draft: false
 dg-publish: true
 publish: true
-banner: /assets/Party Banner.webp
+banner: /assets/party-banner.webp
 ---
 
 > _Three deserters. One stolen payroll. A dead commander. What could possibly go wrong?_
