@@ -70,6 +70,9 @@ Lucian offered a choice: help carry the evidence to a higher authority, or remai
 
 Jon joined. A soldier named Sebastian joined. Greg stayed with his children. Marr joined them himself.
 
+> [!success] Tactical Masterstroke — Turning Marr
+> Lucian had dismantled the inspection without a major battle and converted its commander into an ally. The value of that victory became immediate: Marr's heavy crossbow would deliver the killing blow against the CR 5 Fen Mother during the very next encounter.
+
 Brother Sen remained to lead Greyfen. Voss paid the party under the combined weight of Sen's new authority and three expectant adventurers. The inspection had arrived to take control; instead it had dissolved in public.
 
 ## The Mother in the Water
@@ -82,7 +85,7 @@ The Fen Mother rose behind them.
 
 Its first bite tore into the vessel. Its tail opened more of the hull. Lucian tried to drive it away with Command, Ordrin summoned a spectral warhammer, and Tavia and Jon loosed bolts and arrows from the deck. Sebastian closed with a spear and died beneath the creature's tail.
 
-Marr's heavy crossbow struck with disciplined force. His final shot killed the monster before it could break the ferry apart.
+Marr's heavy crossbow struck with disciplined force. His final shot killed the CR 5 monster before it could break the ferry apart. Lucian's triumph at Greyfen had crossed directly into the battle: the officer he persuaded to defect became the ally who secured the kill.
 
 Thud refused to let the carcass sink. He hurled the anchor, caught the Fen Mother and dragged it behind the moving boat until the others helped haul it aboard. The captain stared as Ordrin and Thud began turning the marsh's apex predator into leather, meat, alchemical organs and one enormous trophy head.
 

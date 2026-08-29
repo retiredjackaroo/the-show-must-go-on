@@ -100,3 +100,4 @@ His true name remains unresolved. “Lucian Vale” may be genuine, an establish
 ## Session History
 
 - **Session 1 — [[Session 1 - Narrative|Bells in the Marsh]]:** Provoked three bell frogs with Vicious Mockery, negotiated Greyfen's medicine loose from [[Maelin Voss]], operated under the alias Sebastian Vale, exposed marsh predators with Faerie Fire and won [[Tavia Rel]]'s trust with an old company song.
+- **Session 2 — [[Session 2 - Narrative|The Greyfen Reckoning]]:** Orchestrated the public hearing, won Voss's support, survived [[Arlen Marr]]'s scrutiny with forged retirement papers and persuaded the inspection commander to defect. Marr then delivered the killing blow against the CR 5 Fen Mother, making Lucian's social victory the decisive combat advantage of the next encounter.

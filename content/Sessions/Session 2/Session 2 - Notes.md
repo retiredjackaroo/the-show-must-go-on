@@ -80,6 +80,9 @@ The private source transcript is preserved in this folder with publishing disabl
 - Marr, Jon and one soldier, Sebastian, chose to leave with the party. Greg stayed in Greyfen with his children. The remaining inspection troops did not join.
 - Sen became Greyfen's new civic leader. Voss paid the party after pressure from Sen and the party; the precise final amount should be confirmed against character sheets.
 
+> [!success] Tactical Masterstroke — Turning Marr
+> Lucian did more than defuse the inspection. He engineered Marr's defection through the public hearing, the forged retirement papers and a direct appeal to the soldiers Vane was prepared to sacrifice. That recruited the heavy-crossbow firepower which immediately proved decisive: Marr delivered the killing blow against the CR 5 Fen Mother during the ferry attack.
+
 ### 6. Departure and the Fen Mother
 
 ![[Assets/Greyfen Ferry Departure.jpg]]
@@ -87,7 +90,7 @@ The private source transcript is preserved in this folder with publishing disabl
 - The party rested overnight and shopped the following morning. Thud recovered [[Vane's Warhammer]] from the inn.
 - Corrin remained behind. Captain Oda Merrick took the party and its new allies aboard the ferry.
 - The Fen Mother surfaced in open water and attacked the vessel, tearing into its hull.
-- Tavia, Jon, Sebastian, Marr and the three heroes fought from the deck. Marr's heavy crossbow dealt the killing blow.
+- Tavia, Jon, Sebastian, Marr and the three heroes fought from the deck. Marr's heavy crossbow dealt the killing blow against the CR 5 Fen Mother—turning Lucian's social victory at Greyfen directly into the party's combat victory.
 - Sebastian was killed by the Fen Mother's tail during the fight.
 - Thud anchored the corpse and the group hauled it aboard.
 
@@ -105,6 +108,7 @@ _The final combat ended with the slain Fen Mother sprawled across the ferry deck
 - Killed the first marsh scout, then persuaded wounded Jon to abandon Vane's orders.
 - Presented the ledger, won Voss's support for a hearing and used a forged retirement paper to deflect Marr's accusation of desertion.
 - Turned the hearing toward the inspection soldiers and offered Marr a path away from Vane.
+- Recruited Marr, whose heavy crossbow delivered the killing blow against the CR 5 Fen Mother. Lucian's social strategy supplied the decisive combat asset in the following encounter.
 
 ### Thud Firebelly
 
