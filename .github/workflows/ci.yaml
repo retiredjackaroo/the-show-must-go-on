@@ -43,7 +43,7 @@ jobs:
       - run: npm ci
 
       - name: Install Quartz plugins
-        run: npm run install-plugins
+        run: npx quartz plugin install
 
       - name: Check types and style
         run: npm run check
