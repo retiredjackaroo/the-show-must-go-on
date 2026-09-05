@@ -14,6 +14,9 @@ The permanent cumulative record for the campaign. Unlike [[index|the campaign ho
 
 ## All Sessions
 
+- [[Session 3 - Narrative|Session 3: The Names We Keep]]
+- [[Session 3 - Notes|Session 3: Notes]]
+
 - [[Session 1 - Narrative|Session 1: Bells in the Marsh]]
 - [[Session 1 - Notes|Session 1: Notes]]
 - [[Session 2 - Narrative|Session 2: The Greyfen Reckoning]]
@@ -26,11 +29,17 @@ The permanent cumulative record for the campaign. Unlike [[index|the campaign ho
 
 ## Player Characters
 
+- [[Nova]]
+
 - [[Lucian Vale]]
 - [[Thud]]
 - [[Ordrin Emberkeg]]
 
 ## All NPCs
+
+- [[Mara (Harbourmaster)]]
+- [[Pell]]
+- [[Karad Ren]]
 
 - [[Lord-Captain Edric Vane]]
 - [[Tavia Rel]]
@@ -47,6 +56,9 @@ The permanent cumulative record for the campaign. Unlike [[index|the campaign ho
 
 ## All Locations
 
+- [[Belhaven]]
+- [[Belhaven Open Bell Sanctuary]]
+
 - [[Greyfen]]
 - [[Old Standard Inn]]
 - [[Greyfen Clinic]]
@@ -56,9 +68,14 @@ The permanent cumulative record for the campaign. Unlike [[index|the campaign ho
 
 ## All Factions
 
+- [[Belhaven Hunt]]
+- [[Copperpot and Company]]
+
 - [[The Company That Wouldn't Die]]
 
 ## All Items
+
+- [[Grandmother's Grasp]]
 
 - [[Vane's Warhammer]]
 - [[Badge of Authority]]

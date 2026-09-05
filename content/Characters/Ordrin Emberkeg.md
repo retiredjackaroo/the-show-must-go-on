@@ -104,3 +104,7 @@ Other skill bonuses: Acrobatics +1, Animal Handling +4, Arcana +0, Athletics +2,
 ## Session History
 
 - **Session 1 — [[Session 1 - Narrative|Bells in the Marsh]]:** Kept Thud alive in the bell-frog fight, diagnosed and aided [[Little Sarah]], forced the release of Greyfen's medicine, treated patients at the [[Greyfen Clinic]] and carried medicine through the marsh to [[Tavia Rel]].
+
+## Session 3 — Belhaven
+
+Mended the barge brace, helped fight the prowlers and tried to spare captured creatures. His deity condemned Sebastian's erasure; his remembrance restored Sebastian to Thud's memory. Demanded the hammer's destruction and helped explain it to [[Karad Ren]]. Comforted Sebastian's widow. Registered as Bram Copperpot, later spoken as Brom. Session-end XP: 6,200, level 4; no unconfirmed sheet statistics have been recalculated.

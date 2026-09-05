@@ -20,3 +20,7 @@ Tavia stole the [[Altered Dispatch Ledger]], which proves that senior officers f
 
 - Which authority can act on her evidence without being silenced?
 - What retaliation will follow the public reading of the ledger?
+
+## Session 3 — Belhaven
+
+Registered as Nessa Finch after initially objecting that false names could undermine the evidence. Sought shelter with [[Arlen Marr]] at the [[Belhaven Open Bell Sanctuary]]. The next day she and the party presented the records to [[Karad Ren]]. No permanent transfer of the ledger was explicitly recorded.

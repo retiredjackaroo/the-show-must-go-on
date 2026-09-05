@@ -99,3 +99,7 @@ His true name remains unresolved. “Lucian Vale” may be genuine, an establish
 
 - **Session 1 — [[Session 1 - Narrative|Bells in the Marsh]]:** Provoked three bell frogs with Vicious Mockery, negotiated Greyfen's medicine loose from [[Maelin Voss]], operated under the alias Sebastian Vale, exposed marsh predators with Faerie Fire and won [[Tavia Rel]]'s trust with an old company song.
 - **Session 2 — [[Session 2 - Narrative|The Greyfen Reckoning]]:** Orchestrated the public hearing, won Voss's support, survived [[Arlen Marr]]'s scrutiny with forged retirement papers and persuaded the inspection commander to defect. Marr then delivered the killing blow against the CR 5 Fen Mother, making Lucian's social victory the decisive combat advantage of the next encounter.
+
+## Session 3 — Belhaven
+
+Registered the group under [[Copperpot and Company]], helped defeat the market creatures, welcomed [[Nova]] cautiously and performed for the Hunt. Used Friends to get Thud to place the hammer in Nova's bag. Presented the military evidence to [[Karad Ren]] and sang Sebastian back into the memories of those who had known him. Bought studded leather with Ordrin's discount. Session-end XP: 6,200, level 4; older creation statistics above are not a current sheet. The death of the juvenile prowler was his Dissonant Whispers, not Thud's doing.

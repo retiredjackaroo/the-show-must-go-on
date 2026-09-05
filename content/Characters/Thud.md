@@ -128,3 +128,7 @@ Thud is not the brightest axe—no, hammer—in the shed, but what he lacks in s
 ## Session History
 
 - **Session 1 — [[Session 1 - Narrative|Bells in the Marsh]]:** Raged through three bell frogs, scavenged their remains, helped intimidate [[Maelin Voss]] into unloading the medicine and restrained a panicking [[Corrin Pike]] long enough for the party to escape the Fen Mother.
+
+## Session 3 — Belhaven
+
+Tried to free the juvenile prowler and retained one scale after the fight. Killed the surviving unconscious bellfrog with [[Vane's Warhammer]], receiving one sixteenth of the power required for his own resurrection while others forgot the victim. Eventually placed the weapon into [[Nova]]'s bag under Lucian's Friends spell. Bought a +1 maul for 275 gp of party salvage and paid 100 gp plus the Fen Mother skull to commission [[Grandmother's Grasp]]. The latter is not yet delivered. Registered as Hobb Miller. Session-end XP: 6,200, level 4.

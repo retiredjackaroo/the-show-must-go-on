@@ -25,3 +25,7 @@ In Session 2, [[Tavia Rel]]'s evidence was recovered from the [[Greyfen Watchtow
 - [[Greyfen Shrine]]
 - [[Greyfen Watchtower]]
 - Parade ground, site of the public hearing
+
+## Session 3 — Belhaven
+
+The supply barge is impounded for repairs in [[Belhaven]]. At the end of [[Session 3 - Notes]], Greyfen was described as having missed two days of supplies; a replacement arrangement was not established.

@@ -18,13 +18,13 @@ banner: /assets/party-banner.webp
 
 ## Where We Are Now
 
-The party has left [[Greyfen]] by ferry with [[Tavia Rel]], Lieutenant [[Arlen Marr]] and scout [[NPCs/Jon Hay|Jon Hay]]. Tavia's [[Altered Dispatch Ledger]] was read publicly, the inspection force fractured and [[Brother Sen]] replaced [[Maelin Voss]] as Greyfen's civic leader.
+The party is in [[Belhaven]] with new ally [[Nova]]. [[Karad Ren]] has sheltered [[Tavia Rel]] and [[Arlen Marr]] and pledged support after examining the military evidence and seeing [[Vane's Warhammer]]. A representative of Vane has offered a meeting; its location and outcome remain unresolved.
 
-The Fen Mother attacked the departing ferry and was killed. Its carcass now lies aboard as the party's prize while they carry evidence against senior military officers—and the unresolved report that [[Lord-Captain Edric Vane]] is alive and issuing orders.
+The hammer consumes souls and erases memories. It was carried in Nova's bag and then revealed at the sanctuary. Lucian's song restored remembrance of [[Sebastian (Soldier)|Sebastian]], including to his widow. His body has been found aboard the damaged barge.
 
-![[Assets/Session 2 - Fen Mother Prize.png|The Fen Mother's body hauled aboard the ferry after the final fight.]]
+Thud has a +1 maul while the [[Belhaven Hunt]] crafts [[Grandmother's Grasp]]. The barge remains under repair, disrupting Greyfen's supplies. See [[Session 3 - Notes]] for custody, purchases and open threads.
 
-_The final fight ends with the Fen Mother hauled aboard as the party's prize._
+![[Assets/Session 3 - Belhaven Arrival.jpg|The party's damaged barge arriving at Belhaven with the Fen Mother's skull.]]
 
 ## The Story So Far
 
@@ -35,6 +35,8 @@ Thud knocked the captain unconscious, the company fractured in mutiny and the th
 ➡️ [[The Company That Wouldn't Die|Read the complete shared backstory]]
 
 ## Player Characters
+
+- [[Nova]] — former company artillerist, now seeking answers alongside the party
 
 - [[Lucian Vale]] — bard, charlatan and dangerous man to turn your back on
 - [[Thud]] — farmer, conscript and dependable front-line muscle
@@ -72,6 +74,9 @@ Thud knocked the captain unconscious, the company fractured in mutiny and the th
 - [[Field Recovery Order]] — orders to recover Tavia and evade civil review
 
 ## Sessions
+
+- [[Session 3 - Narrative|Session 3: The Names We Keep]]
+- [[Session 3 - Notes|Session 3: Notes]]
 
 - [[Session 1 - Narrative|Session 1: Bells in the Marsh]]
 - [[Session 1 - Notes|Session 1: Notes]]

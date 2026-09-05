@@ -33,3 +33,7 @@ In Session 2, [[Tavia Rel]]'s evidence implicated senior military leadership in 
 - Who among Vane's allies might seek revenge?
 - Who knows how Vane actually died?
 - Who or what is issuing orders under Vane's identity?
+
+## Session 3 — Belhaven
+
+Nova reports that Vane died, but acknowledges hazy memories. His representative in Belhaven offered a clerical-error explanation for the altered records and requested a meeting, ultimately under a roof the party chooses. The hammer's self-resurrection power offers a possible explanation for Vane's apparent survival, not proof that he used it. The meeting has not occurred.
