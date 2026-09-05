@@ -57,6 +57,8 @@ Lucian's welcome came with questions. Thud's came with praise for the shooting a
 
 Inside, the Hunt offered beds, food, crafting contacts and stories of other quarry. Thud favoured the plated beast troubling the northern quarry road. Ordrin sought reassurance through Augury and received a calming answer: their church business could wait until morning. Lucian gave the hall a song about the Fen Mother, and the audience gave him its enthusiasm.
 
+The performance was [[Lucian Wins the Battle]], a three-part ballad claiming that Lucian had won the fight before it began by recruiting Arlen Marr. The song gives Tavia, Jon, Oda, Ordrin, Thud and Sebastian their parts in the tale, with Marr's decisive crossbow shot as the final proof of Lucian's strategy.
+
 ![[Assets/Session 3 - Belhaven Hunt Hall.jpg|The trophy-filled common hall of the Belhaven Hunt.]]
 
 Then the conversation turned to Sebastian, and Thud did not know whom they meant.

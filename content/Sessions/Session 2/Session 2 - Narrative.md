@@ -91,4 +91,6 @@ Thud refused to let the carcass sink. He hurled the anchor, caught the Fen Mothe
 
 _The victors gather around the Fen Mother, hauled onto the ferry as their prize._
 
+The later retelling of this victory is preserved in [[Lucian Wins the Battle]], Lucian's swaggering Fen Mother ballad.
+
 Greyfen receded behind them. Ahead waited a larger town, a ledger capable of ruining commanders, a captain who should have been dead, and whatever justice could survive the crossing.
