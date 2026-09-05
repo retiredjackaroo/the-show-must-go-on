@@ -22,11 +22,6 @@ The permanent cumulative record for the campaign. Unlike [[index|the campaign ho
 - [[Session 2 - Narrative|Session 2: The Greyfen Reckoning]]
 - [[Session 2 - Notes|Session 2: Notes]]
 
-## Mystery Interludes
-
-- [[Mystery Interlude - Narrative|Mystery Interlude]]
-- [[Mystery Interlude - Notes|Mystery Interlude: Notes]]
-
 ## Player Characters
 
 - [[Nova]]
