@@ -83,6 +83,11 @@ Thud knocked the captain unconscious, the company fractured in mutiny and the th
 - [[Session 2 - Narrative|Session 2: The Greyfen Reckoning]]
 - [[Session 2 - Notes|Session 2: Notes]]
 
+## Mystery Interlude
+
+- [[Mystery Interlude - Narrative|Mystery Interlude]]
+- [[Mystery Interlude - Notes|Mystery Interlude: Notes]]
+
 ## Hall of Fame
 
 | Session | Biggest Success                                                                                                   | Tactical Masterstroke                                                                             | Biggest Mistake                                                                             |
