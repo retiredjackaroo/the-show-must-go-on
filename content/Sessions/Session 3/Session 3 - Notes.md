@@ -116,6 +116,7 @@ Lucian sang to memorialise Sebastian. People who knew him and heard the song rem
 - Secure the hammer after its examination and find a means of destruction.
 - Follow up Sebastian's body, his widow and the promised payment.
 - Resolve the barge repairs and the interruption to Greyfen's supplies, described at close as two days.
+- [[Songs/Lucian Wins the Battle]] was performed at the Hunt and later used to memorialise Sebastian.
 - Collect Grandmother's Grasp when ready and reconcile the remaining Fen Mother materials and sale proceeds.
 
 ## Advancement

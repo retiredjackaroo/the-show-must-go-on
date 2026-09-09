@@ -96,6 +96,7 @@ The private source transcript is preserved in this folder with publishing disabl
 
 _The final combat ended with the slain Fen Mother sprawled across the ferry deck as the party's prize._
 
+- [[Songs/Lucian Wins the Battle]] preserves Lucian’s later account of the Fen Mother victory.
 - Thud and Ordrin harvested crocodile leather, teeth and skull, meat, alchemical organs and the Fen Mother's head as a trophy. The transcript describes each of them receiving goods valued at 125 gp leather, 25 gp teeth/skull, 10 gp meat and 50 gp organs; confirm allocation and encumbrance on character sheets.
 
 ## Character Contributions
