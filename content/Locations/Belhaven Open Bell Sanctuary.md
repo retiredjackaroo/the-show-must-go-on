@@ -12,3 +12,7 @@ The local [[Church of the Open Bell]] sanctuary above [[Belhaven]]'s harbour. An
 ![[Assets/Belhaven Open Bell Sanctuary.jpg|The Open Bell sanctuary and its broad bell tower above Belhaven.]]
 
 [[Karad Ren]] sheltered Tavia and Marr here. In [[Session 3 - Narrative]], the party presented military records and revealed [[Vane's Warhammer]]. Lucian's song restored memories of [[Sebastian (Soldier)|Sebastian]] to those present who had known him, including his wife.
+
+In [[Session 4 - Narrative]], [[Lucan Rise]] and two army clerks met the party here. The party presented the altered records, demonstrated the hammer's memory-erasing effect on a spider and repeated its evidence under the sanctuary priest's Zone of Truth. Rise received a copy for investigation; the party retained the originals. The hammer was returned to Nova's extradimensional bag after the hearing.
+
+![[Assets/Session 4 - Sanctuary Hearing.jpg|The military hearing inside the sanctuary.]]

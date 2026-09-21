@@ -7,7 +7,7 @@ tags:
   - pc
   - party
   - campaign/the-show-must-go-on
-status: Ready for Session 0
+status: Level 5 after Session 4
 draft: false
 dg-publish: true
 publish: true
@@ -22,6 +22,10 @@ Thud was a farmer before being taken in a military conscription sweep. A simple 
 He survived several campaigns beside [[Lucian Vale]] and [[Ordrin Emberkeg]]. During the company's final mutiny, Thud knocked [[Lord-Captain Edric Vane]] unconscious rather than kill him. He does not know Lucian later returned and slit the captain's throat.
 
 Thud now carries [[Vane's Warhammer]], taken from the captain's campaign chest. Whether the weapon is merely well made or something more remains unknown.
+
+**Status:** Level 5 after Session 4
+
+**First appears:** Campaign creation
 
 ## Character Build
 
@@ -125,10 +129,24 @@ Thud is not the brightest axe—no, hammer—in the shed, but what he lacks in s
 - **[[Ordrin Emberkeg]]:** Fellow veteran whose healing repeatedly kept Thud alive.
 - **[[Lord-Captain Edric Vane]]:** Former commander whom Thud struck unconscious during the mutiny.
 
+## Open Questions
+
+- What is Thud's real name, if Thud is a nickname?
+- What happened to his farm and family while he was away?
+- Why did he keep the hammer?
+- What would make him willingly return to military service?
+
 ## Session History
 
+- **Before Session 1:** See [[The Company That Wouldn't Die]].
 - **Session 1 — [[Session 1 - Narrative|Bells in the Marsh]]:** Raged through three bell frogs, scavenged their remains, helped intimidate [[Maelin Voss]] into unloading the medicine and restrained a panicking [[Corrin Pike]] long enough for the party to escape the Fen Mother.
 
 ## Session 3 — Belhaven
 
 Tried to free the juvenile prowler and retained one scale after the fight. Killed the surviving unconscious bellfrog with [[Vane's Warhammer]], receiving one sixteenth of the power required for his own resurrection while others forgot the victim. Eventually placed the weapon into [[Nova]]'s bag under Lucian's Friends spell. Bought a +1 maul for 275 gp of party salvage and paid 100 gp plus the Fen Mother skull to commission [[Grandmother's Grasp]]. The latter is not yet delivered. Registered as Hobb Miller. Session-end XP: 6,200, level 4.
+
+## Session 4 — Belhaven and the Northern Quarry
+
+Demonstrated [[Vane's Warhammer]] to [[Lucan Rise]] by killing a spider after the clerks recorded seeing it; their immediate forgetting confirmed the effect. Returned the weapon to Nova's extradimensional bag after the hearing.
+
+Proposed burning the barge, disguised himself as a drunk, planted moonshine, oil and explosives, and outran the resulting trail of fire through the fleeing crowd. At the quarry he tracked the ironbark charger, prepared the crane trap, opened combat with an improvised fire bottle, destroyed one [[Bucket Scrabs]] swarm with his +1 maul and toppled the crane onto the other. [[What the Fuck Is Going On]] disclosed his Star Power as 57 with a +11 modifier. Session-end XP: 7,100; level 5 was granted immediately.

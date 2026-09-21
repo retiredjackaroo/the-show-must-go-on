@@ -23,4 +23,4 @@ The market displayed several creatures whose names were not established in play,
 
 The party was offered membership after stopping the escaped prowlers and used the hall's lodging and crafting contacts. Guests can stay through a member, though merchant access is more complicated. Exact individual enrolment was not recorded.
 
-The Hunt is crafting [[Grandmother's Grasp]]. Three contracts remain available and unaccepted: The Quarry Breaker, Teeth in the Orchard and The Eastern Cry. See [[Session 3 - Notes]] for the reports and terms supplied.
+The Hunt is crafting [[Grandmother's Grasp]]. In Session 4, the party took the sheets for all three posted contracts: The Quarry Breaker, Teeth in the Orchard and The Eastern Cry. They attempted The Quarry Breaker first and reached the [[Northern Quarry]], but left Belhaven without a field extraction or capture expert. See [[Session 3 - Notes]] for the original reports and [[Session 4 - Notes]] for the active expedition.

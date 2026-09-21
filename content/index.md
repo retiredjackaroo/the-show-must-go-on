@@ -1,7 +1,7 @@
 ---
 type: index
 title: The Show Must Go On
-description: A Dungeons & Dragons campaign archive following Lucian Vale, Thud Firebelly and Ordrin Emberkeg after their company's mutiny.
+description: A Dungeons & Dragons campaign archive following Lucian Vale, Thud Firebelly, Ordrin Emberkeg and Nova beyond their company's mutiny.
 aliases:
   - The Show Must Go On Campaign Homepage
 tags:
@@ -18,13 +18,13 @@ banner: /assets/party-banner.webp
 
 ## Where We Are Now
 
-The party is in [[Belhaven]] with new ally [[Nova]]. [[Karad Ren]] has sheltered [[Tavia Rel]] and [[Arlen Marr]] and pledged support after examining the military evidence and seeing [[Vane's Warhammer]]. A representative of Vane has offered a meeting; its location and outcome remain unresolved.
+The party is at a mid-bench ledge in the [[Northern Quarry]]. Two swarms of [[Bucket Scrabs]] are dead, the old crane lies in the spoil ditch and a [[Surveyor's Compass]] has just been recovered. The ironbark charger that halted the quarry remains farther upslope. All four player characters have reached level 5 with 7,100 XP.
 
-The hammer consumes souls and erases memories. It was carried in Nova's bag and then revealed at the sanctuary. Lucian's song restored remembrance of [[Sebastian (Soldier)|Sebastian]], including to his widow. His body has been found aboard the damaged barge.
+In [[Belhaven]], [[Lucan Rise]] has a copy of the military evidence and has begun comparing it with official records. The party retains the originals. Rise offered eventual honorable discharge and benefits, but [[Lord-Captain Edric Vane]] was reported due within three days and the party destroyed the barge he intended to use. Guards were searching for their registered cover identities when they fled.
 
-Thud has a +1 maul while the [[Belhaven Hunt]] crafts [[Grandmother's Grasp]]. The barge remains under repair, disrupting Greyfen's supplies. See [[Session 3 - Notes]] for custody, purchases and open threads.
+[[Vane's Warhammer]] and [[What the Fuck Is Going On]] are stored in Nova's extradimensional bag. The book disclosed Star Power and Narrative Accommodation, and Nova stated that she had previously been the toad encountered before the Fen Mother attack. Its production claims remain only as reliable as the effects demonstrated in play.
 
-![[Assets/Session 3 - Belhaven Arrival.jpg|The party's damaged barge arriving at Belhaven with the Fen Mother's skull.]]
+![[Assets/Session 4 - Quarry Crane.jpg|Thud toppling the quarry crane onto the Bucket Scrabs.]]
 
 ## The Story So Far
 
@@ -44,7 +44,10 @@ Thud knocked the captain unconscious, the company fractured in mutiny and the th
 
 ## People and Powers
 
+- [[Lucan Rise]] — army administrator investigating the party's evidence
+- [[Foreman Brack]] — foreman of the monster-struck Northern Quarry
 - [[Lord-Captain Edric Vane]] — the commander whose final order triggered the mutiny
+- [[Royal Army of Aldren]] — the force now reviewing the disputed records
 - [[The Company That Wouldn't Die]] — the comrades forged by several brutal campaigns
 - [[Tavia Rel]] — former military clerk travelling with the party and her evidence
 - [[Arlen Marr]] — inspection commander who abandoned Vane's recovery mission
@@ -59,6 +62,9 @@ Thud knocked the captain unconscious, the company fractured in mutiny and the th
 
 ## Current Locations
 
+- [[Northern Quarry]] — active Hunt contract and the party's current position
+- [[Belhaven]] — lakeside town the party fled after destroying its barge
+- [[Belhaven Open Bell Sanctuary]] — site of the military evidence hearing
 - [[Greyfen]] — former fort where Tavia's evidence broke the military inspection
 - [[Old Standard Inn]] — lodging and Voss's temporary headquarters
 - [[Greyfen Clinic]] — overcrowded fever ward
@@ -68,6 +74,8 @@ Thud knocked the captain unconscious, the company fractured in mutiny and the th
 
 ## Notable Items
 
+- [[What the Fuck Is Going On]] — a production guide that appeared on the road
+- [[Surveyor's Compass]] — recovered beneath the fallen quarry crane
 - [[Vane's Warhammer]] — a beautifully made hammer with an uncertain history
 - [[Badge of Authority]] — temporary authority granted by Voss
 - [[Altered Dispatch Ledger]] — proof of falsified casualties and diverted supplies
@@ -75,26 +83,30 @@ Thud knocked the captain unconscious, the company fractured in mutiny and the th
 
 ## Sessions
 
+- [[Session 4 - Narrative|Session 4: The Barge, the Book and the Broken Crane]]
+- [[Session 4 - Notes|Session 4: Notes]]
 - [[Session 3 - Narrative|Session 3: The Names We Keep]]
 - [[Session 3 - Notes|Session 3: Notes]]
-
-- [[Session 1 - Narrative|Session 1: Bells in the Marsh]]
-- [[Session 1 - Notes|Session 1: Notes]]
 - [[Session 2 - Narrative|Session 2: The Greyfen Reckoning]]
 - [[Session 2 - Notes|Session 2: Notes]]
+- [[Session 1 - Narrative|Session 1: Bells in the Marsh]]
+- [[Session 1 - Notes|Session 1: Notes]]
 
 ## Mystery Interlude
 
-- [[Mystery Interlude - Narrative|Mystery Interlude]]
-- [[Mystery Interlude - Notes|Mystery Interlude: Notes]]
+- [[Sessions/Session 4/Mystery Interlude/Mystery Interlude - Narrative|Session 4 Mystery Interlude: The Unheard Questions]]
+- [[Sessions/Session 4/Mystery Interlude/Mystery Interlude - Notes|Session 4 Mystery Interlude: Notes]]
+- [[Sessions/Session 2/Mystery Interlude/Mystery Interlude - Narrative|Session 2 Mystery Interlude]]
+- [[Sessions/Session 2/Mystery Interlude/Mystery Interlude - Notes|Session 2 Mystery Interlude: Notes]]
 
 ## Hall of Fame
 
-| Session | Biggest Success                                                                                                   | Tactical Masterstroke                                                                             | Biggest Mistake                                                                                                                  |
-| ------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| 1       | Forcing Voss to unload the medicine before more townsfolk died                                                    | Lucian revealed the Fen Mother and redirected the corpse-light into attacking it                  | Ordrin tried to free Lucian from a frog and critically struck him in the foot instead                                            |
-| 2       | Lucian dismantled the inspection, exposed the ledger and carried the party through Greyfen without a major battle | Lucian turned Marr into an ally; Marr then delivered the killing blow against the CR 5 Fen Mother | Thud's failed watchtower ambush shattered Lucian's deception and started an avoidable fight                                      |
-| 3       | Restoring Sebastian to the memories of those who knew him                                                         | Lucian used Friends to persuade Thud to seal Vane's hammer inside Nova's extradimensional bag     | Thud tested the necromantic hammer on an unconscious bellfrog, erasing the victim from memory and feeding its soul to the weapon |
+| Session | Biggest Success                                                                                                   | Tactical Masterstroke                                                                             | Biggest Mistake                                                                                                                                |
+| ------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1       | Forcing Voss to unload the medicine before more townsfolk died                                                    | Lucian revealed the Fen Mother and redirected the corpse-light into attacking it                  | Ordrin tried to free Lucian from a frog and critically struck him in the foot instead                                                          |
+| 2       | Lucian dismantled the inspection, exposed the ledger and carried the party through Greyfen without a major battle | Lucian turned Marr into an ally; Marr then delivered the killing blow against the CR 5 Fen Mother | Thud's failed watchtower ambush shattered Lucian's deception and started an avoidable fight                                                    |
+| 3       | Restoring Sebastian to the memories of those who knew him                                                         | Lucian used Friends to persuade Thud to seal Vane's hammer inside Nova's extradimensional bag     | Thud tested the necromantic hammer on an unconscious bellfrog, erasing the victim from memory and feeding its soul to the weapon               |
+| 4       | Securing a military investigation without surrendering the original evidence                                      | Thud prepared and then toppled the failing quarry crane onto the last Bucket Scrab swarm          | The party destroyed Belhaven's barge in front of civilians, Rise and the town guard immediately after negotiating for discharge and protection |
 
 ## Full Archive
 

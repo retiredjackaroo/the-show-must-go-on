@@ -8,19 +8,17 @@ tags:
   - antagonist
   - backstory
   - campaign/the-show-must-go-on
-status: Reported alive; contradiction unresolved
+status: Reported travelling to Belhaven; contradiction unresolved
 draft: false
 dg-publish: true
 publish: true
 ---
 
-![[Assets/Lord-Captain Edric Vane.png|Lord-Captain Edric Vane in military command dress.]]
-
 Lord-Captain Edric Vane commanded [[The Company That Wouldn't Die]]. After several campaigns, he ordered the battered company to assault a ruined fortress reportedly occupied by a dragon, without reinforcements or the possibility of retreat.
 
 The company refused. [[Thud]] knocked Vane unconscious during the resulting mutiny. [[Lucian Vale]] later returned in secret, slit the captain's throat and stole the company payroll.
 
-**Status:** Reported alive; contradiction unresolved
+**Status:** Reported travelling to Belhaven; contradiction unresolved
 **First appears:** Pre-campaign backstory
 
 In Session 2, [[Tavia Rel]]'s evidence implicated senior military leadership in falsified casualties, diverted supplies and efforts to evade civil review. [[Arlen Marr]] and two forward scouts reported receiving current orders through Vane and described seeing him alive after Lucian believed he had killed him. Whether this is truly Edric Vane remains unresolved.
@@ -37,3 +35,9 @@ In Session 2, [[Tavia Rel]]'s evidence implicated senior military leadership in 
 ## Session 3 — Belhaven
 
 Nova reports that Vane died, but acknowledges hazy memories. His representative in Belhaven offered a clerical-error explanation for the altered records and requested a meeting, ultimately under a roof the party chooses. The hammer's self-resurrection power offers a possible explanation for Vane's apparent survival, not proof that he used it. The meeting has not occurred.
+
+## Session 4 — Reported approach
+
+[[Lucan Rise]] said Vane was travelling to Belhaven and expected within three days to deliver news about operations in the far western marches. Rise treated him as alive, mobile and in command. This is another current report, not proof resolving Lucian's account of killing him or Nova's report of his death.
+
+Vane intended to use the Belhaven ferry. The party's destruction of the barge disrupted that route, leaving the timing and method of his arrival uncertain.

@@ -1,9 +1,14 @@
 ---
 type: npc
 title: Arlen Marr
-aliases: [Lieutenant Marr]
-tags: [npc, military, companion, campaign/the-show-must-go-on]
-status: Travelling with the party
+aliases:
+  - Lieutenant Marr
+tags:
+  - npc
+  - military
+  - companion
+  - campaign/the-show-must-go-on
+status: In Belhaven; whereabouts after the Session 4 hearing not confirmed
 draft: false
 dg-publish: true
 publish: true
@@ -18,3 +23,7 @@ At Greyfen's public hearing, Lucian dismantled Marr's mission and persuaded him 
 ## Session 3 — Belhaven
 
 Registered as Darren Holt, wagon driver, after initially preferring his real name. Accompanied and protected Tavia while seeking shelter at the [[Belhaven Open Bell Sanctuary]]. Presented as a military witness when the party met [[Karad Ren]]. Pell recognised the decisive crossbow wound on the Fen Mother as his work.
+
+## Session 4 — Military offer
+
+Marr remained part of the sanctuary party during [[Lucan Rise]]'s hearing, positioned outside with the overwatch group at the meeting's start. Rise offered him a return to military service with six months' leave. Marr's answer was not recorded. His location after the four player characters fled Belhaven was not established.

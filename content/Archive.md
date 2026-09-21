@@ -14,18 +14,21 @@ The permanent cumulative record for the campaign. Unlike [[index|the campaign ho
 
 ## All Sessions
 
+- [[Session 4 - Narrative|Session 4: The Barge, the Book and the Broken Crane]]
+- [[Session 4 - Notes|Session 4: Notes]]
 - [[Session 3 - Narrative|Session 3: The Names We Keep]]
 - [[Session 3 - Notes|Session 3: Notes]]
-
-- [[Session 1 - Narrative|Session 1: Bells in the Marsh]]
-- [[Session 1 - Notes|Session 1: Notes]]
 - [[Session 2 - Narrative|Session 2: The Greyfen Reckoning]]
 - [[Session 2 - Notes|Session 2: Notes]]
+- [[Session 1 - Narrative|Session 1: Bells in the Marsh]]
+- [[Session 1 - Notes|Session 1: Notes]]
 
 ## Mystery Interludes
 
-- [[Mystery Interlude - Narrative|Mystery Interlude]]
-- [[Mystery Interlude - Notes|Mystery Interlude: Notes]]
+- [[Sessions/Session 4/Mystery Interlude/Mystery Interlude - Narrative|Session 4 Mystery Interlude: The Unheard Questions]]
+- [[Sessions/Session 4/Mystery Interlude/Mystery Interlude - Notes|Session 4 Mystery Interlude: Notes]]
+- [[Sessions/Session 2/Mystery Interlude/Mystery Interlude - Narrative|Session 2 Mystery Interlude]]
+- [[Sessions/Session 2/Mystery Interlude/Mystery Interlude - Notes|Session 2 Mystery Interlude: Notes]]
 
 ## Player Characters
 
@@ -37,6 +40,8 @@ The permanent cumulative record for the campaign. Unlike [[index|the campaign ho
 
 ## All NPCs
 
+- [[Lucan Rise]]
+- [[Foreman Brack]]
 - [[Mara (Harbourmaster)]]
 - [[Pell]]
 - [[Karad Ren]]
@@ -56,6 +61,7 @@ The permanent cumulative record for the campaign. Unlike [[index|the campaign ho
 
 ## All Locations
 
+- [[Northern Quarry]]
 - [[Belhaven]]
 - [[Belhaven Open Bell Sanctuary]]
 
@@ -68,6 +74,7 @@ The permanent cumulative record for the campaign. Unlike [[index|the campaign ho
 
 ## All Factions
 
+- [[Royal Army of Aldren]]
 - [[Belhaven Hunt]]
 - [[Copperpot and Company]]
 
@@ -75,12 +82,18 @@ The permanent cumulative record for the campaign. Unlike [[index|the campaign ho
 
 ## All Items
 
+- [[What the Fuck Is Going On]]
+- [[Surveyor's Compass]]
 - [[Grandmother's Grasp]]
 
 - [[Vane's Warhammer]]
 - [[Badge of Authority]]
 - [[Altered Dispatch Ledger]]
 - [[Field Recovery Order]]
+
+## Creatures and Lore
+
+- [[Bucket Scrabs]]
 
 ## Campaign Background
 

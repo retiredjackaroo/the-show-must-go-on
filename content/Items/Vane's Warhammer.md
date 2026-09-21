@@ -10,7 +10,7 @@ tags:
   - mystery
   - necromancy
   - campaign/the-show-must-go-on
-status: Revealed at the Belhaven sanctuary
+status: Stored in Nova's extradimensional bag
 draft: false
 dg-publish: true
 publish: true
@@ -20,7 +20,9 @@ A beautifully made adamantine light hammer taken from [[Lord-Captain Edric Vane|
 
 The original inventory described it as a light hammer; see the Session 3 discrepancy below. Its adamantine head is exceptionally hard: a hit against an object is a critical hit.
 
-**Latest custody:** Revealed at the Belhaven sanctuary after transport in Nova's bag
+**Latest custody:** Stored in Nova's extradimensional bag with [[What the Fuck Is Going On]]
+
+**First appears:** Pre-campaign backstory
 
 ## Necromantic origin
 
@@ -36,7 +38,15 @@ Thud killed an unconscious bellfrog to test it. The merchants, Lucian and Nova f
 
 Ordrin's deity condemned the effect. Retelling Sebastian's life restored Thud's memory; Lucian's later song restored memories among listeners who had known Sebastian. The limits of these protections remain unknown. Sebastian died to the Fen Mother, so his erasure is not explained by a confirmed hammer kill.
 
-**Latest custody:** Nova contained it overnight in an extradimensional bag. Thud removed it at the Belhaven sanctuary and placed it on the floor for Karad Ren. Repacking was not narrated. Karad wants it destroyed, but no method has been established.
+**Session 3 end custody:** Nova contained it overnight in an extradimensional bag. Thud removed it at the Belhaven sanctuary and placed it on the floor for Karad Ren. Repacking was not narrated during that session. Karad wants it destroyed, but no method has been established.
+
+## Session 4 demonstration and custody
+
+[[Lucan Rise]] recognised the weapon as Vane's but said no theft had been reported. Thud demonstrated its effect by killing a spider after two clerks recorded seeing the creature. The witnesses immediately forgot it despite the written notes and remains. This directly confirmed that a hammer kill can erase memory of the victim.
+
+The party also told Rise that Thud had forgotten Sebastian despite Sebastian not being killed by the hammer. Rise recorded this as evidence of a broader proximity or possession effect, but the party has not established that interpretation as fact.
+
+Lucian lifted the weapon into Nova's extradimensional bag after the hearing. It remained there at session end beside [[What the Fuck Is Going On]]. No additional soul-power gain from the spider demonstration was stated.
 
 ## Weapon-profile discrepancy
 
@@ -58,7 +68,7 @@ The older record below identifies an adamantine light hammer; Session 3 repeated
 
 The `+3` damage modifier reflects Thud's current Strength; the weapon's base damage die is `1d4`.
 
-## Unanswered Questions
+## Open Questions
 
 - Who fashioned the hammer from the Beast of Forgotten Souls, and for whom?
 - How and when did Vane acquire it?

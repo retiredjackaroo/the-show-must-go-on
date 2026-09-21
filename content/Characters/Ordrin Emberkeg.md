@@ -8,7 +8,7 @@ tags:
   - pc
   - party
   - campaign/the-show-must-go-on
-status: Ready for Session 0
+status: Level 5 after Session 4
 draft: false
 dg-publish: true
 publish: true
@@ -20,7 +20,11 @@ The party's war cleric served as quartermaster for [[The Company That Wouldn't D
 
 During an early battle, officers abandoned the field and left the company surrounded by the dying. In the midst of the slaughter, Ordrin experienced a revelation from a god of war and emerged able to heal wounds, rally broken fighters and deliver divine judgment.
 
-After several campaigns beside [[Thud]] and [[Lucian Vale]], the cleric's loyalty rested more with those comrades than with the crown. The cleric joined their mutiny against [[Lord-Captain Edric Vane]] and fled rather than participate in a suicidal assault on a dragon-held fortress.
+After several campaigns beside [[Thud]] and [[Lucian Vale]], the cleric's loyalty rested more with those comrades than with the crown. The cleric joined their mutiny against [[Lord-Captain Edric Vane]] and fled with them rather than participate in a suicidal assault on a dragon-held fortress.
+
+**Status:** Level 5 after Session 4
+
+**First appears:** Campaign creation
 
 ## Character Build
 
@@ -101,10 +105,23 @@ Other skill bonuses: Acrobatics +1, Animal Handling +4, Arcana +0, Athletics +2,
 - **[[Lucian Vale]]:** Entertainer and useful rogue whose deeper secrets remain hidden.
 - **[[Lord-Captain Edric Vane]]:** Former commander whose final order may have violated the cleric's faith.
 
+## Open Questions
+
+- Which god granted the battlefield revelation?
+- Did the god command the mutiny?
+- How will the cleric respond upon learning Lucian murdered Vane?
+
 ## Session History
 
+- **Before Session 1:** See [[The Company That Wouldn't Die]].
 - **Session 1 — [[Session 1 - Narrative|Bells in the Marsh]]:** Kept Thud alive in the bell-frog fight, diagnosed and aided [[Little Sarah]], forced the release of Greyfen's medicine, treated patients at the [[Greyfen Clinic]] and carried medicine through the marsh to [[Tavia Rel]].
 
 ## Session 3 — Belhaven
 
 Mended the barge brace, helped fight the prowlers and tried to spare captured creatures. His deity condemned Sebastian's erasure; his remembrance restored Sebastian to Thud's memory. Demanded the hammer's destruction and helped explain it to [[Karad Ren]]. Comforted Sebastian's widow. Registered as Bram Copperpot, later spoken as Brom. Session-end XP: 6,200, level 4; no unconfirmed sheet statistics have been recalculated.
+
+## Session 4 — Belhaven and the Northern Quarry
+
+Gave testimony under Zone of Truth during [[Lucan Rise]]'s hearing and secured an investigation without surrendering the original military evidence. Agreed not to air the army's allegations publicly while preserving recourse to higher civilian authority. Bought the contact powder used in the barge plan, drove the wagon out of Belhaven and continued handling the party's logistics.
+
+[[What the Fuck Is Going On]] disclosed Ordrin's Star Power as 64 with a +12 modifier. He rejected the book as disturbing and placed it in Nova's keeping with the hammer. At the quarry he recovered rope and lamp oil, used Sacred Flame against the [[Bucket Scrabs]] and helped work the crane trap. Session-end XP: 7,100; level 5 was granted immediately.
