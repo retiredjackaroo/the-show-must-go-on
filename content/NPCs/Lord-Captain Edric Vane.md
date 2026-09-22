@@ -38,6 +38,6 @@ Nova reports that Vane died, but acknowledges hazy memories. His representative 
 
 ## Session 4 — Reported approach
 
-[[Lucan Rise]] said Vane was travelling to Belhaven and expected within three days to deliver news about operations in the far western marches. Rise treated him as alive, mobile and in command. This is another current report, not proof resolving Lucian's account of killing him or Nova's report of his death.
+[[Lucan Rhyse]] said Vane was travelling to Belhaven and expected within three days to deliver news about operations in the far western marches. Rhyse treated him as alive, mobile and in command. This is another current report, not proof resolving Lucian's account of killing him or Nova's report of his death.
 
 Vane intended to use the Belhaven ferry. The party's destruction of the barge disrupted that route, leaving the timing and method of his arrival uncertain.

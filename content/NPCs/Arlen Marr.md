@@ -26,4 +26,4 @@ Registered as Darren Holt, wagon driver, after initially preferring his real nam
 
 ## Session 4 — Military offer
 
-Marr remained part of the sanctuary party during [[Lucan Rise]]'s hearing, positioned outside with the overwatch group at the meeting's start. Rise offered him a return to military service with six months' leave. Marr's answer was not recorded. His location after the four player characters fled Belhaven was not established.
+Marr remained part of the sanctuary party during [[Lucan Rhyse]]'s hearing, positioned outside with the overwatch group at the meeting's start. Rhyse offered him a return to military service with six months' leave. Marr's answer was not recorded. His location after the four player characters fled Belhaven was not established.

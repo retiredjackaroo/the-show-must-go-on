@@ -11,6 +11,6 @@ A plain-robed lay brother of the [[Church of the Open Bell]] at the [[Belhaven O
 
 ![[Assets/Karad Ren.jpg|Karad Ren, lay brother of the Open Bell.]]
 
-He sheltered [[Tavia Rel]] and [[Arlen Marr]], heard the party under Zone of Truth and examined their evidence. A representative of [[Lord-Captain Edric Vane]] had already asked him to pass on an invitation and an explanation that the disputed records were clerical errors.
+He sheltered [[Tavia Rel]] and [[Arlen Marr]], heard the party under Zone of Truth and examined their evidence. [[Lucan Rhyse's Invitation]] addressed Karad directly and asked him to convey a meeting proposal to the party; it promised a witnessed conference and safe passage. The letter identifies Rhyse as [[Lord-Captain Edric Vane]]'s appointed representative. The later hearing occurred at the sanctuary rather than the letter's proposed liaison house.
 
 After the party described and revealed [[Vane's Warhammer]], Karad committed his support to investigating the army and finding a way to destroy the weapon. His support does not establish a church-wide ruling or authority to arrest Vane.

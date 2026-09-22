@@ -122,6 +122,6 @@ Mended the barge brace, helped fight the prowlers and tried to spare captured cr
 
 ## Session 4 — Belhaven and the Northern Quarry
 
-Gave testimony under Zone of Truth during [[Lucan Rise]]'s hearing and secured an investigation without surrendering the original military evidence. Agreed not to air the army's allegations publicly while preserving recourse to higher civilian authority. Bought the contact powder used in the barge plan, drove the wagon out of Belhaven and continued handling the party's logistics.
+Gave testimony under Zone of Truth during [[Lucan Rhyse]]'s hearing and secured an investigation without surrendering the original military evidence. Agreed not to air the army's allegations publicly while preserving recourse to higher civilian authority. Bought the contact powder used in the barge plan, drove the wagon out of Belhaven and continued handling the party's logistics.
 
 [[What the Fuck Is Going On]] disclosed Ordrin's Star Power as 64 with a +12 modifier. He rejected the book as disturbing and placed it in Nova's keeping with the hammer. At the quarry he recovered rope and lamp oil, used Sacred Flame against the [[Bucket Scrabs]] and helped work the crane trap. Session-end XP: 7,100; level 5 was granted immediately.

@@ -19,6 +19,6 @@ At the end of [[Session 3 - Notes]], the barge was under repair and its Greyfen 
 
 ## Session 4 — Hearing, concert and flight
 
-[[Lucan Rise]] met the party at the Open Bell sanctuary and began an investigation into its evidence against Vane. That evening the party used a Lucian Vale concert to disguise an attack on the repaired barge. The vessel exploded and burned. No one was killed; several fleeing civilians briefly caught fire but suffered only superficial injury.
+[[Lucan Rhyse]] met the party at the Open Bell sanctuary and began an investigation into its evidence against Vane. That evening the party used a Lucian Vale concert to disguise an attack on the repaired barge. The vessel exploded and burned. No one was killed; several fleeing civilians briefly caught fire but suffered only superficial injury.
 
 The party escaped in a wagon with two mules. Guards searched for the names registered at the Hunt, placing the town under heightened security. The final condition of the barge, Greyfen's replacement supply arrangements and any criminal charges remain unresolved. Vane's reported plan to reach Belhaven within three days by ferry was disrupted.

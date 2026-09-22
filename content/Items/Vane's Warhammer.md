@@ -42,9 +42,9 @@ Ordrin's deity condemned the effect. Retelling Sebastian's life restored Thud's 
 
 ## Session 4 demonstration and custody
 
-[[Lucan Rise]] recognised the weapon as Vane's but said no theft had been reported. Thud demonstrated its effect by killing a spider after two clerks recorded seeing the creature. The witnesses immediately forgot it despite the written notes and remains. This directly confirmed that a hammer kill can erase memory of the victim.
+[[Lucan Rhyse]] recognised the weapon as Vane's but said no theft had been reported. Thud demonstrated its effect by killing a spider after two clerks recorded seeing the creature. The witnesses immediately forgot it despite the written notes and remains. This directly confirmed that a hammer kill can erase memory of the victim.
 
-The party also told Rise that Thud had forgotten Sebastian despite Sebastian not being killed by the hammer. Rise recorded this as evidence of a broader proximity or possession effect, but the party has not established that interpretation as fact.
+The party also told Rhyse that Thud had forgotten Sebastian despite Sebastian not being killed by the hammer. Rhyse recorded this as evidence of a broader proximity or possession effect, but the party has not established that interpretation as fact.
 
 Lucian lifted the weapon into Nova's extradimensional bag after the hearing. It remained there at session end beside [[What the Fuck Is Going On]]. No additional soul-power gain from the spider demonstration was stated.
 

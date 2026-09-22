@@ -20,7 +20,7 @@ banner: /assets/party-banner.webp
 
 The party is at a mid-bench ledge in the [[Northern Quarry]]. Two swarms of [[Bucket Scrabs]] are dead, the old crane lies in the spoil ditch and a [[Surveyor's Compass]] has just been recovered. The ironbark charger that halted the quarry remains farther upslope. All four player characters have reached level 5 with 7,100 XP.
 
-In [[Belhaven]], [[Lucan Rise]] has a copy of the military evidence and has begun comparing it with official records. The party retains the originals. Rise offered eventual honorable discharge and benefits, but [[Lord-Captain Edric Vane]] was reported due within three days and the party destroyed the barge he intended to use. Guards were searching for their registered cover identities when they fled.
+In [[Belhaven]], [[Lucan Rhyse]] has a copy of the military evidence and has begun comparing it with official records. The party retains the originals. Rhyse offered eventual honorable discharge and benefits, but [[Lord-Captain Edric Vane]] was reported due within three days and the party destroyed the barge he intended to use. Guards were searching for their registered cover identities when they fled.
 
 [[Vane's Warhammer]] and [[What the Fuck Is Going On]] are stored in Nova's extradimensional bag. The book disclosed Star Power and Narrative Accommodation, and Nova stated that she had previously been the toad encountered before the Fen Mother attack. Its production claims remain only as reliable as the effects demonstrated in play.
 
@@ -44,7 +44,8 @@ Thud knocked the captain unconscious, the company fractured in mutiny and the th
 
 ## People and Powers
 
-- [[Lucan Rise]] — army administrator investigating the party's evidence
+- [[Lucan Rhyse]] — army administrator investigating the party's evidence
+- [[Lucan Rhyse's Invitation]] — his written proposal for a witnessed meeting
 - [[Foreman Brack]] — foreman of the monster-struck Northern Quarry
 - [[Lord-Captain Edric Vane]] — the commander whose final order triggered the mutiny
 - [[Royal Army of Aldren]] — the force now reviewing the disputed records
@@ -101,12 +102,12 @@ Thud knocked the captain unconscious, the company fractured in mutiny and the th
 
 ## Hall of Fame
 
-| Session | Biggest Success                                                                                                   | Tactical Masterstroke                                                                             | Biggest Mistake                                                                                                                                |
-| ------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1       | Forcing Voss to unload the medicine before more townsfolk died                                                    | Lucian revealed the Fen Mother and redirected the corpse-light into attacking it                  | Ordrin tried to free Lucian from a frog and critically struck him in the foot instead                                                          |
-| 2       | Lucian dismantled the inspection, exposed the ledger and carried the party through Greyfen without a major battle | Lucian turned Marr into an ally; Marr then delivered the killing blow against the CR 5 Fen Mother | Thud's failed watchtower ambush shattered Lucian's deception and started an avoidable fight                                                    |
-| 3       | Restoring Sebastian to the memories of those who knew him                                                         | Lucian used Friends to persuade Thud to seal Vane's hammer inside Nova's extradimensional bag     | Thud tested the necromantic hammer on an unconscious bellfrog, erasing the victim from memory and feeding its soul to the weapon               |
-| 4       | Securing a military investigation without surrendering the original evidence                                      | Thud prepared and then toppled the failing quarry crane onto the last Bucket Scrab swarm          | The party destroyed Belhaven's barge in front of civilians, Rise and the town guard immediately after negotiating for discharge and protection |
+| Session | Biggest Success                                                                                                   | Tactical Masterstroke                                                                             | Biggest Mistake                                                                                                                                 |
+| ------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1       | Forcing Voss to unload the medicine before more townsfolk died                                                    | Lucian revealed the Fen Mother and redirected the corpse-light into attacking it                  | Ordrin tried to free Lucian from a frog and critically struck him in the foot instead                                                           |
+| 2       | Lucian dismantled the inspection, exposed the ledger and carried the party through Greyfen without a major battle | Lucian turned Marr into an ally; Marr then delivered the killing blow against the CR 5 Fen Mother | Thud's failed watchtower ambush shattered Lucian's deception and started an avoidable fight                                                     |
+| 3       | Restoring Sebastian to the memories of those who knew him                                                         | Lucian used Friends to persuade Thud to seal Vane's hammer inside Nova's extradimensional bag     | Thud tested the necromantic hammer on an unconscious bellfrog, erasing the victim from memory and feeding its soul to the weapon                |
+| 4       | Securing a military investigation without surrendering the original evidence                                      | Thud prepared and then toppled the failing quarry crane onto the last Bucket Scrab swarm          | The party destroyed Belhaven's barge in front of civilians, Rhyse and the town guard immediately after negotiating for discharge and protection |
 
 ## Full Archive
 

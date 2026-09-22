@@ -11,13 +11,13 @@ publish: true
 
 The army came to the sanctuary with a briefcase and two clerks.
 
-[[Lucan Rise]] carried no weapon. He needed none. His office already had a version of the story: three soldiers absent without leave, a clerk gone with unreconciled papers, and an officer who had failed to bring her back. The party had crossed into [[Belhaven]] carrying allegations against a celebrated commander. Rise had come to compare claims with records.
+[[Lucan Rhyse]] carried no weapon. He needed none. His office already had a version of the story: three soldiers absent without leave, a clerk gone with unreconciled papers, and an officer who had failed to bring her back. The party had crossed into [[Belhaven]] carrying allegations against a celebrated commander. Rhyse had come to compare claims with records.
 
 Lucian answered with retirement papers bearing Vane's signature. Tavia answered with the [[Altered Dispatch Ledger]]. Ordrin and Thud answered with the names of people whose deaths had been written smaller or written away.
 
-![[Assets/Session 4 - Sanctuary Hearing.jpg|The party presenting its case before Lucan Rise and the Open Bell sanctuary witnesses.]]
+![[Assets/Session 4 - Sanctuary Hearing.jpg|The party presenting its case before Lucan Rhyse and the Open Bell sanctuary witnesses.]]
 
-Rise read the figures aloud: forty-three soldiers and nineteen civilians reduced to twelve soldiers and no civilians. A diverted convoy. A duplicated movement slip marked for disposal. He saw drafts and authorised corrections where the party saw a cover-up.
+Rhyse read the figures aloud: forty-three soldiers and nineteen civilians reduced to twelve soldiers and no civilians. A diverted convoy. A duplicated movement slip marked for disposal. He saw drafts and authorised corrections where the party saw a cover-up.
 
 Then Nova came down from the bell tower.
 
@@ -25,25 +25,25 @@ She had been loyal to Vane when the others refused his command. Even she confirm
 
 The hammer made the argument physical.
 
-Rise recognised it as Vane's weapon. Thud found a spider, made the clerks record that it existed, and brought the hammer down. A moment later the witnesses had notes they did not remember writing and remains they could not explain. The priest objected to the damage to the flagstones. Nobody could object to the demonstration.
+Rhyse recognised it as Vane's weapon. Thud found a spider, made the clerks record that it existed, and brought the hammer down. A moment later the witnesses had notes they did not remember writing and remains they could not explain. The priest objected to the damage to the flagstones. Nobody could object to the demonstration.
 
-Truth magic followed. Lucian, Ordrin and Thud submitted to it. Nova did not fall under its effect, a fact the priest stated for the record. The party repeated the mutiny, the dragon order, the altered numbers and the weapon's erasures. Rise did not call the testimony proof, but he stopped treating it as something easily dismissed.
+Truth magic followed. Lucian, Ordrin and Thud submitted to it. Nova did not fall under its effect, a fact the priest stated for the record. The party repeated the mutiny, the dragon order, the altered numbers and the weapon's erasures. Rhyse did not call the testimony proof, but he stopped treating it as something easily dismissed.
 
 He offered a settlement. Turn over every copy and original, send Tavia and Marr back, and the three deserters could have discharge papers immediately. The party refused. They would give him a copy to investigate. The originals would remain insurance until Vane faced justice and they were safe.
 
-Rise made a different promise: an investigation, honorable discharge and benefits even if the records did not prove wrongdoing, provided the party did not turn untested allegations into public scandal. Ordrin agreed not to air the army's dirty laundry. Lucian's promise had conditions. If the investigation ceased to be fair, or if Vane moved against them, he reserved every audience available.
+Rhyse made a different promise: an investigation, honorable discharge and benefits even if the records did not prove wrongdoing, provided the party did not turn untested allegations into public scandal. Ordrin agreed not to air the army's dirty laundry. Lucian's promise had conditions. If the investigation ceased to be fair, or if Vane moved against them, he reserved every audience available.
 
-Vane, Rise said, was already coming. Within three days he intended to reach Belhaven and deliver news from the far western marches.
+Vane, Rhyse said, was already coming. Within three days he intended to reach Belhaven and deliver news from the far western marches.
 
 The meeting ended without arrests.
 
-Thud waited until Rise had left before asking whether they were still burning the barge.
+Thud waited until Rhyse had left before asking whether they were still burning the barge.
 
 ## An evening performance
 
 The plan grew through the afternoon. Word spread of a new Lucian Vale performance at the docks. Ordrin bought contact powder from an alchemist. Nova found a rooftop. Thud removed his armour, drenched himself in moonshine and became the sort of drunk nobody watches closely enough.
 
-The crowd included Rise and his clerks, the harbourmaster, guards and civilians. Lucian mounted an improvised stage. Thud wandered toward the barge with a backpack full of oil, moonshine and fireworks.
+The crowd included Rhyse and his clerks, the harbourmaster, guards and civilians. Lucian mounted an improvised stage. Thud wandered toward the barge with a backpack full of oil, moonshine and fireworks.
 
 He planted everything without exploding himself. Getting away was harder. A dropped object drew a guard's attention. Ordrin thundered abuse about stolen valour and failed to turn the man's head. Nova solved the problem with a contact-powder arrow against a safe patch of wall.
 

@@ -165,6 +165,6 @@ Registered the group under [[Copperpot and Company]], helped defeat the market c
 
 ## Session 4 — Belhaven and the Northern Quarry
 
-Led the negotiation with [[Lucan Rise]], gave the investigator a copy of the military evidence while retaining the originals, and made any promise of silence conditional on a fair investigation and protection from Vane. Performed the dockside distraction for the barge attack, although the song ended before the planned ignition and the vessel exploded into an awkward silence. Returned through heightened security as Sebastian to recover the forgotten quarry map.
+Led the negotiation with [[Lucan Rhyse]], gave the investigator a copy of the military evidence while retaining the originals, and made any promise of silence conditional on a fair investigation and protection from Vane. Performed the dockside distraction for the barge attack, although the song ended before the planned ignition and the vessel exploded into an awkward silence. Returned through heightened security as Sebastian to recover the forgotten quarry map.
 
 On the road, [[What the Fuck Is Going On]] disclosed Lucian's Star Power as 66 with a +13 modifier. Nova identified herself as the toad Lucian had compelled to face the Fen Mother, making his treatment of that creature part of their newly revealed shared history. At the quarry Lucian used Faerie Fire against the [[Bucket Scrabs]] and helped pull the crane rope. Session-end XP: 7,100; level 5 was granted immediately.

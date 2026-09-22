@@ -147,6 +147,6 @@ Tried to free the juvenile prowler and retained one scale after the fight. Kille
 
 ## Session 4 — Belhaven and the Northern Quarry
 
-Demonstrated [[Vane's Warhammer]] to [[Lucan Rise]] by killing a spider after the clerks recorded seeing it; their immediate forgetting confirmed the effect. Returned the weapon to Nova's extradimensional bag after the hearing.
+Demonstrated [[Vane's Warhammer]] to [[Lucan Rhyse]] by killing a spider after the clerks recorded seeing it; their immediate forgetting confirmed the effect. Returned the weapon to Nova's extradimensional bag after the hearing.
 
 Proposed burning the barge, disguised himself as a drunk, planted moonshine, oil and explosives, and outran the resulting trail of fire through the fleeing crowd. At the quarry he tracked the ironbark charger, prepared the crane trap, opened combat with an improvised fire bottle, destroyed one [[Bucket Scrabs]] swarm with his +1 maul and toppled the crane onto the other. [[What the Fuck Is Going On]] disclosed his Star Power as 57 with a +11 modifier. Session-end XP: 7,100; level 5 was granted immediately.

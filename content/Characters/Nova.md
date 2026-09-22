@@ -23,7 +23,7 @@ Nova's extradimensional bag contained the hammer overnight. At the church it was
 
 ## Session 4 — Belhaven and the Northern Quarry
 
-Corroborated the order to attack the Elder Dragon during [[Lucan Rise]]'s hearing, while the sanctuary priest recorded that Zone of Truth did not affect her. Helped ignite the barge from a rooftop and used a contact-powder arrow to divert a guard without injuring him.
+Corroborated the order to attack the Elder Dragon during [[Lucan Rhyse]]'s hearing, while the sanctuary priest recorded that Zone of Truth did not affect her. Helped ignite the barge from a rooftop and used a contact-powder arrow to divert a guard without injuring him.
 
 On the road, [[What the Fuck Is Going On]] appeared and Nova disclosed that she had previously been principal cast, failed, was recast as the toad Lucian compelled to face the Fen Mother, and later became a Star again through that sacrifice. She said she carries Nova's memories and the toad's memories. Her Star Power was disclosed as 60 with a +12 modifier.
 

@@ -15,8 +15,8 @@ The Royal Army of Aldren defends the Kingdom of Aldren's northern and western ap
 
 ## Session 4 — Belhaven review
 
-[[Lucan Rise]], an army administrator acting for the wider military and the Crown, met the party at the [[Belhaven Open Bell Sanctuary]]. He received a copy of the disputed records, agreed to compare it against official files and offered honorable discharge and benefits after investigation even if wrongdoing was not proven. The offer was conditioned on the party not publicly spreading unproven allegations; the originals remained with the party.
+[[Lucan Rhyse]], an army administrator acting for the wider military and the Crown, met the party at the [[Belhaven Open Bell Sanctuary]]. He received a copy of the disputed records, agreed to compare it against official files and offered honorable discharge and benefits after investigation even if wrongdoing was not proven. The offer was conditioned on the party not publicly spreading unproven allegations; the originals remained with the party.
 
-Rise reported Vane travelling to Belhaven with news from operations in the far western marches. The planned arrival and its timing became uncertain after the party destroyed the barge Vane intended to use.
+Rhyse reported Vane travelling to Belhaven with news from operations in the far western marches. The planned arrival and its timing became uncertain after the party destroyed the barge Vane intended to use.
 
 Session developments: [[Session 4 - Notes]].

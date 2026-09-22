@@ -1,1 +1,2 @@
 * text=auto eol=lf
+content/Assets/*.pdf -text -diff

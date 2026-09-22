@@ -40,7 +40,7 @@ The permanent cumulative record for the campaign. Unlike [[index|the campaign ho
 
 ## All NPCs
 
-- [[Lucan Rise]]
+- [[Lucan Rhyse]]
 - [[Foreman Brack]]
 - [[Mara (Harbourmaster)]]
 - [[Pell]]
@@ -82,6 +82,7 @@ The permanent cumulative record for the campaign. Unlike [[index|the campaign ho
 
 ## All Items
 
+- [[Lucan Rhyse's Invitation]]
 - [[What the Fuck Is Going On]]
 - [[Surveyor's Compass]]
 - [[Grandmother's Grasp]]

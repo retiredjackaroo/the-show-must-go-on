@@ -13,6 +13,8 @@ publish: true
 
 An in-world book subtitled _A Practical Guide for Principal Cast_ and marked **Production Edition 1.0**. During the Session 4 wagon journey, Nova found that the book was no longer in her bag while Ordrin found it in his hands. The four principal cast members knew it had not been there before; the DM stated that non-principal observers would remember it as always having existed.
 
+[Download the complete Production Edition as a PDF](../assets/what-the-fuck-is-going-on-production-edition.pdf).
+
 The book's claims are part of ordinary play because the physical object appeared and was read there. They remain claims made by the book and are demonstrated only where play has shown an effect.
 
 ## Stars and Star Power

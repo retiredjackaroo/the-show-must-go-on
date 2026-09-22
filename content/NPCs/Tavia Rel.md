@@ -29,4 +29,4 @@ Registered as Nessa Finch after initially objecting that false names could under
 
 ## Session 4 — Testimony and offer
 
-Tavia described taking the [[Altered Dispatch Ledger]] after observing casualty and movement records altered during the mutiny. [[Lucan Rise]] offered her the same honorable-discharge option as the player characters regardless of whether the investigation proved wrongdoing. Her answer was not recorded. Her location after the four player characters fled Belhaven was not established.
+Tavia described taking the [[Altered Dispatch Ledger]] after observing casualty and movement records altered during the mutiny. [[Lucan Rhyse]] offered her the same honorable-discharge option as the player characters regardless of whether the investigation proved wrongdoing. Her answer was not recorded. Her location after the four player characters fled Belhaven was not established.

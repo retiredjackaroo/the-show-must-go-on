@@ -20,8 +20,8 @@ A water-stained ledger stolen by [[Tavia Rel]]. Original entries and visible cle
 
 Presented to [[Karad Ren]] in Belhaven with supporting testimony and papers. The military response calls the discrepancies clerical errors and offers corrected figures and witnesses. Karad supports investigation after the hammer revelation; the competing explanation has not been adjudicated.
 
-## Session 4 — Lucan Rise
+## Session 4 — Lucan Rhyse
 
-[[Lucan Rise]] examined the original during the sanctuary hearing. He read entries showing 43 soldiers and 19 civilians missing corrected to 12 soldiers and no civilians, a southern relief convoy diverted under command seal, and a duplicated movement slip marked for disposal. Rise initially treated these as potentially authorised draft changes.
+[[Lucan Rhyse]] examined the original during the sanctuary hearing. He read entries showing 43 soldiers and 19 civilians missing corrected to 12 soldiers and no civilians, a southern relief convoy diverted under command seal, and a duplicated movement slip marked for disposal. Rhyse initially treated these as potentially authorised draft changes.
 
-The party gave Rise a copy for comparison with official records and retained the original as protection until Vane could be brought to justice and their safety secured. The accompanying papers and copies are sometimes discussed collectively; it remains unclear whether every disputed document is physically bound into this ledger.
+The party gave Rhyse a copy for comparison with official records and retained the original as protection until Vane could be brought to justice and their safety secured. The accompanying papers and copies are sometimes discussed collectively; it remains unclear whether every disputed document is physically bound into this ledger.
