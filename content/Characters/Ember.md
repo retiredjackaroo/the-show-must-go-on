@@ -10,7 +10,10 @@ status: Level 6 after Session 5
 draft: false
 dg-publish: true
 publish: true
+banner: /assets/ember-portrait.jpg
 ---
+
+![[Assets/Ember Portrait.jpg|Ember, a human sorcerer with Draconic Sorcery.]]
 
 Ember is a human sorcerer whose subclass is Draconic Sorcery. She joined Lucian Vale, [[Thud]] and [[Nova]] at the [[Northern Quarry]] in Session 5.
 

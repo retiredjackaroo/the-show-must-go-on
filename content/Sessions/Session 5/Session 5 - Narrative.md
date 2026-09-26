@@ -7,7 +7,7 @@ tags: [campaign/the-show-must-go-on, session-5]
 draft: false
 dg-publish: true
 publish: true
-banner: /assets/session-5---ironbark-rammer.jpg
+banner: /assets/session-5---killing-the-ironbark-rammer.jpg
 ---
 
 The first thing Lucian and Thud did when Ember appeared above the broken crane was shoot her.
@@ -66,7 +66,7 @@ When everything was ready, Thud struck a quarry cart like a gong.
 
 The [[Ironbark Rammer]] came out of the cave hard enough to shake the ground.
 
-![[Assets/Session 5 - Ironbark Rammer.jpg|The Ironbark Rammer charges from its cave.]]
+![[Assets/Session 5 - Killing the Ironbark Rammer.jpg|The party brings down the Ironbark Rammer in its trapped quarry battlefield.]]
 
 Nova's first arrow glanced from the frontal armour, but her force ballista struck. Lucian's false Thud held the centre of the trap line. The Rammer charged the illusion and stepped into the first trap. Steel jaws closed and stopped it short.
 
@@ -94,7 +94,7 @@ Ember's light found the creature coiled in the timber. Nova's force ballista tor
 
 The collapsed tunnel beyond was less cooperative. Two [[Seam Lurker|Seam Lurkers]] moved under the rubble and surfaced where the stone was weakest. Lucian engaged one when it emerged. Nova waited for a clear point-blank shot, and Ember's draconic fear drove at least one creature back. At first Thud sat above the fighting with a drink and negotiated with Lucian over how many verses his victories deserved.
 
-![[Assets/Session 5 - Seam Lurker.jpg|A Seam Lurker erupts from the rubble.]]
+![[Assets/Session 5 - Killing the Seam Lurkers.jpg|The party battles two Seam Lurkers in the collapsed eastern workings.]]
 
 Then the creatures disappeared underground.
 

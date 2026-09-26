@@ -7,11 +7,28 @@ aliases:
 tags:
   - pc
   - party
+  - memorial
   - campaign/the-show-must-go-on
-status: Level 5 after Session 4
+  - session-5
+status: Memorial — died during the Session 5 Mystery Interlude
 draft: false
 dg-publish: true
 publish: true
+banner: /assets/session-5---death-of-ordrin.jpg
+---
+
+![[Assets/Session 5 - Death of Ordrin.jpg|Ordrin Emberkeg's final moments at the Northern Quarry.]]
+
+# In Memory of Ordrin Emberkeg
+
+Ordrin Emberkeg was the quartermaster, war cleric, smith, brewer and stubborn conscience of [[The Company That Wouldn't Die]]. He kept the company armed, kept its wounded alive and made certain there was something worth drinking when the fighting stopped.
+
+In the Session 5 Mystery Interlude, Ordrin refused to submit when the host told him he had no choice. He answered with two Fireballs and destroyed the host. The showrunner retaliated by cancelling him. When the party returned to the [[Northern Quarry]], a pillar of light struck Ordrin and erased him before his friends could intervene. Lucian, Thud and Nova witnessed his death; only scorch marks and a jingling loot bag remained.
+
+He died as he had lived: loyal to his companions, contemptuous of unearned authority and entirely willing to answer an intolerable command with overwhelming force.
+
+> “The show must go on. But not for you.”
+
 ---
 
 ![[Assets/Ordrin Emberkeg.webp|Ordrin Emberkeg, the party's dwarf war cleric.]]
@@ -22,7 +39,7 @@ During an early battle, officers abandoned the field and left the company surrou
 
 After several campaigns beside [[Thud]] and [[Lucian Vale]], the cleric's loyalty rested more with those comrades than with the crown. The cleric joined their mutiny against [[Lord-Captain Edric Vane]] and fled with them rather than participate in a suicidal assault on a dragon-held fortress.
 
-**Status:** Level 5 after Session 4
+**Status:** Memorial — died during the Session 5 Mystery Interlude
 
 **First appears:** Campaign creation
 
@@ -125,3 +142,7 @@ Mended the barge brace, helped fight the prowlers and tried to spare captured cr
 Gave testimony under Zone of Truth during [[Lucan Rhyse]]'s hearing and secured an investigation without surrendering the original military evidence. Agreed not to air the army's allegations publicly while preserving recourse to higher civilian authority. Bought the contact powder used in the barge plan, drove the wagon out of Belhaven and continued handling the party's logistics.
 
 [[What the Fuck Is Going On]] disclosed Ordrin's Star Power as 64 with a +12 modifier. He rejected the book as disturbing and placed it in Nova's keeping with the hammer. At the quarry he recovered rope and lamp oil, used Sacred Flame against the [[Bucket Scrabs]] and helped work the crane trap. Session-end XP: 7,100; level 5 was granted immediately.
+
+## Session 5 Mystery Interlude — Cancellation
+
+Ordrin challenged the studio host's authority and cast Fireball twice after being told he had no choice but to participate. The attacks destroyed the host. A figure identified as the showrunner froze the party, declared Ordrin cancelled and returned them to the quarry. There, a pillar of light killed Ordrin in front of Lucian, Thud and Nova. Ember was not present for the interlude or his death.
