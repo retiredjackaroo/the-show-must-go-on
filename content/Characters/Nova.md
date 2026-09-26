@@ -28,3 +28,11 @@ Corroborated the order to attack the Elder Dragon during [[Lucan Rhyse]]'s heari
 On the road, [[What the Fuck Is Going On]] appeared and Nova disclosed that she had previously been principal cast, failed, was recast as the toad Lucian compelled to face the Fen Mother, and later became a Star again through that sacrifice. She said she carries Nova's memories and the toad's memories. Her Star Power was disclosed as 60 with a +12 modifier.
 
 At the quarry, Nova took a payroll script and 30 gp intended for the workers. Her Thunderwave struck both [[Bucket Scrabs]] swarms and pushed them down the ledge. She ended the session with the production guide and [[Vane's Warhammer]] stored in her extradimensional bag. Session-end XP: 7,100; level 5 was granted immediately.
+
+## Session 5 — Northern Quarry
+
+Nova cautiously accepted [[Ember]] while Lucian and Thud remained hostile. Against the [[Rust Gnawer|Rust Gnawers]], Nova used radiant True Strike arrows but one failed shot struck Thud for 6 damage. She used Jump to reach new firing positions while the constructs were trapped below the retaining edge.
+
+During the party's long rest, Nova added arcane runes and an Arcane Firearm effect to her bow as described at the table. In the [[Ironbark Rammer]] fight she combined radiant arrows with her force ballista and delivered the killing attacks from the unarmoured rear. Her force ballista then critically struck the enormous gallery snake before Thud killed it. Against the [[Seam Lurker|Seam Lurkers]], Nova repeatedly held a True Strike shot for their emergence and killed the last creature at point-blank range.
+
+Session-end XP: 14,100; level 6 was granted. [[Vane's Warhammer]] remained in her extradimensional bag; no change of custody was recorded.

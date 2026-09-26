@@ -14,6 +14,8 @@ The permanent cumulative record for the campaign. Unlike [[index|the campaign ho
 
 ## All Sessions
 
+- [[Session 5 - Narrative|Session 5: Hammer, Stone and Fire]]
+- [[Session 5 - Notes|Session 5: Notes]]
 - [[Session 4 - Narrative|Session 4: The Barge, the Book and the Broken Crane]]
 - [[Session 4 - Notes|Session 4: Notes]]
 - [[Session 3 - Narrative|Session 3: The Names We Keep]]
@@ -25,13 +27,14 @@ The permanent cumulative record for the campaign. Unlike [[index|the campaign ho
 
 ## Mystery Interludes
 
-- [[Sessions/Session 4/Mystery Interlude/Mystery Interlude - Narrative|Session 4 Mystery Interlude: The Unheard Questions]]
-- [[Sessions/Session 4/Mystery Interlude/Mystery Interlude - Notes|Session 4 Mystery Interlude: Notes]]
 - [[Sessions/Session 2/Mystery Interlude/Mystery Interlude - Narrative|Session 2 Mystery Interlude]]
 - [[Sessions/Session 2/Mystery Interlude/Mystery Interlude - Notes|Session 2 Mystery Interlude: Notes]]
+- [[Sessions/Session 4/Mystery Interlude/Mystery Interlude - Narrative|Session 4 Mystery Interlude: The Unheard Questions]]
+- [[Sessions/Session 4/Mystery Interlude/Mystery Interlude - Notes|Session 4 Mystery Interlude: Notes]]
 
 ## Player Characters
 
+- [[Ember]]
 - [[Nova]]
 
 - [[Lucian Vale]]
@@ -74,7 +77,6 @@ The permanent cumulative record for the campaign. Unlike [[index|the campaign ho
 
 ## All Factions
 
-- [[Royal Army of Aldren]]
 - [[Belhaven Hunt]]
 - [[Copperpot and Company]]
 
@@ -94,6 +96,9 @@ The permanent cumulative record for the campaign. Unlike [[index|the campaign ho
 
 ## Creatures and Lore
 
+- [[Ironbark Rammer]]
+- [[Rust Gnawer]]
+- [[Seam Lurker]]
 - [[Bucket Scrabs]]
 
 ## Campaign Background

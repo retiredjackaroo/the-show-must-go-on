@@ -23,4 +23,6 @@ The market displayed several creatures whose names were not established in play,
 
 The party was offered membership after stopping the escaped prowlers and used the hall's lodging and crafting contacts. Guests can stay through a member, though merchant access is more complicated. Exact individual enrolment was not recorded.
 
-The Hunt is crafting [[Grandmother's Grasp]]. In Session 4, the party took the sheets for all three posted contracts: The Quarry Breaker, Teeth in the Orchard and The Eastern Cry. They attempted The Quarry Breaker first and reached the [[Northern Quarry]], but left Belhaven without a field extraction or capture expert. See [[Session 3 - Notes]] for the original reports and [[Session 4 - Notes]] for the active expedition.
+The Hunt crafted [[Grandmother's Grasp]] and sent it to Thud by courier at the [[Northern Quarry]] after Session 5.
+
+In Session 4, the party took the sheets for all three posted contracts: The Quarry Breaker, Teeth in the Orchard and The Eastern Cry. They attempted The Quarry Breaker first and reached the Northern Quarry without a field extraction or capture expert. In Session 5 they killed the [[Ironbark Rammer]], recovered 22 ironbark plates and completed the contract. The Hunt's 320 gp payment remained unclaimed at session end. Teeth in the Orchard and The Eastern Cry remain outstanding.

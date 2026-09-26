@@ -7,7 +7,7 @@ tags:
   - pc
   - party
   - campaign/the-show-must-go-on
-status: Level 5 after Session 4
+status: Level 6 after Session 5
 draft: false
 dg-publish: true
 publish: true
@@ -23,8 +23,7 @@ He survived several campaigns beside [[Lucian Vale]] and [[Ordrin Emberkeg]]. Du
 
 Thud now carries [[Vane's Warhammer]], taken from the captain's campaign chest. Whether the weapon is merely well made or something more remains unknown.
 
-**Status:** Level 5 after Session 4
-
+**Status:** Level 6 after Session 5
 **First appears:** Campaign creation
 
 ## Character Build
@@ -127,6 +126,7 @@ Thud is not the brightest axe—no, hammer—in the shed, but what he lacks in s
 
 - **[[Lucian Vale]]:** Entertainer, scoundrel and trusted former comrade. Thud does not know the full truth of Vane's death.
 - **[[Ordrin Emberkeg]]:** Fellow veteran whose healing repeatedly kept Thud alive.
+- **[[Ember]]:** A human sorcerer Thud shot at on sight and initially distrusted. He later accepted her healing and relied on her light while clearing the quarry.
 - **[[Lord-Captain Edric Vane]]:** Former commander whom Thud struck unconscious during the mutiny.
 
 ## Open Questions
@@ -150,3 +150,13 @@ Tried to free the juvenile prowler and retained one scale after the fight. Kille
 Demonstrated [[Vane's Warhammer]] to [[Lucan Rhyse]] by killing a spider after the clerks recorded seeing it; their immediate forgetting confirmed the effect. Returned the weapon to Nova's extradimensional bag after the hearing.
 
 Proposed burning the barge, disguised himself as a drunk, planted moonshine, oil and explosives, and outran the resulting trail of fire through the fleeing crowd. At the quarry he tracked the ironbark charger, prepared the crane trap, opened combat with an improvised fire bottle, destroyed one [[Bucket Scrabs]] swarm with his +1 maul and toppled the crane onto the other. [[What the Fuck Is Going On]] disclosed his Star Power as 57 with a +11 modifier. Session-end XP: 7,100; level 5 was granted immediately.
+
+## Session 5 — Northern Quarry
+
+Thud drove the quarry expedition's tactics and front-line fighting. At the retaining breach he recovered a half-full tin of blasting powder from an old blast hole, caught it when it slipped and then drew two [[Rust Gnawer|Rust Gnawers]] by loudly announcing his prize. He fought them without initially raging, endured their poison and magnetic attacks, and was accidentally struck by Nova's arrow. Using a warhammer's pushing technique, he knocked both constructs over a 20-foot ledge. He then dropped a roughly 500-pound rock for 39 damage, threw a second rock, jumped down after the burning survivor and killed it with a 24-damage maul strike.
+
+After speaking with the stranded quarry workers, Thud designed the [[Ironbark Rammer]] ambush. He selected a choke point, laid and camouflaged two lines of hunting traps, placed the blasting powder, rigged access ropes and used a quarry cart as a gong to lure the beast out. During the fight he ignited the powder with a Molotov after spending Heroic Inspiration, struck the Rammer's vulnerable rear-left knee, absorbed two gore attacks while raging and abandoned an attempted lasso in favour of another heavy blow. Nova delivered the final attacks while Thud held the front.
+
+Thud then killed the gallery's enormous snake in one turn with two Reckless, raging maul blows and kept its tongue. Against the [[Seam Lurker|Seam Lurkers]], he initially watched from a rock with a drink, then moved in front of Lucian, struck one as it emerged and killed it on his next turn. He bottled an iron-seep sample and carried the two plates found in the Rammer's lair, adding them to the 20 recovered from the carcass.
+
+At the hoist camp a courier delivered [[Grandmother's Grasp]], a normal-damage magical maul whose once-per-long-rest Death Roll can clamp onto a Large or smaller target, knock it prone and let Thud drag it. Session-end XP: 14,100; level 6 was granted.

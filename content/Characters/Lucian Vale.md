@@ -7,7 +7,7 @@ tags:
   - pc
   - party
   - campaign/the-show-must-go-on
-status: Level 5 after Session 4
+status: Level 6 after Session 5
 draft: false
 dg-publish: true
 publish: true
@@ -17,8 +17,7 @@ publish: true
 
 Lucian Vale is a charming, respectable-seeming con artist whose introduced name may or may not be his legal one. He is built to serve as the party's face and perform much of a Rogue's work while remaining a full Bard: persuasion, deception, infiltration, stealth, sleight of hand and thieves' tools, backed by battlefield control and competent melee fighting.
 
-**Status:** Level 5 after Session 4
-
+**Status:** Level 6 after Session 5
 **First appears:** Campaign creation
 
 ## Character Build
@@ -168,3 +167,9 @@ Registered the group under [[Copperpot and Company]], helped defeat the market c
 Led the negotiation with [[Lucan Rhyse]], gave the investigator a copy of the military evidence while retaining the originals, and made any promise of silence conditional on a fair investigation and protection from Vane. Performed the dockside distraction for the barge attack, although the song ended before the planned ignition and the vessel exploded into an awkward silence. Returned through heightened security as Sebastian to recover the forgotten quarry map.
 
 On the road, [[What the Fuck Is Going On]] disclosed Lucian's Star Power as 66 with a +13 modifier. Nova identified herself as the toad Lucian had compelled to face the Fen Mother, making his treatment of that creature part of their newly revealed shared history. At the quarry Lucian used Faerie Fire against the [[Bucket Scrabs]] and helped pull the crane rope. Session-end XP: 7,100; level 5 was granted immediately.
+
+## Session 5 — Northern Quarry
+
+Fired on [[Ember]] when she appeared above the broken crane, then continued the quarry expedition with her. Against the [[Rust Gnawer|Rust Gnawers]], Lucian used an illusion to draw one construct toward the retaining edge, turned invisible, healed Thud and supplied Bardic Inspiration. He later attacked from the cliff with fire and sound while the constructs were trapped below.
+
+Lucian helped design the [[Ironbark Rammer]] ambush, placed an illusory Thud over the hunting traps and marked the beast with Faerie Fire so the party could strike its weak rear joints. In the eastern workings he used control magic against the snake and [[Seam Lurker|Seam Lurkers]], investigated the drill gallery and recovered a drill-bit set valued at 35 gp. Session-end XP: 14,100; level 6 was granted.

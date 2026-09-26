@@ -21,7 +21,6 @@ A beautifully made adamantine light hammer taken from [[Lord-Captain Edric Vane|
 The original inventory described it as a light hammer; see the Session 3 discrepancy below. Its adamantine head is exceptionally hard: a hit against an object is a critical hit.
 
 **Latest custody:** Stored in Nova's extradimensional bag with [[What the Fuck Is Going On]]
-
 **First appears:** Pre-campaign backstory
 
 ## Necromantic origin
@@ -47,6 +46,14 @@ Ordrin's deity condemned the effect. Retelling Sebastian's life restored Thud's 
 The party also told Rhyse that Thud had forgotten Sebastian despite Sebastian not being killed by the hammer. Rhyse recorded this as evidence of a broader proximity or possession effect, but the party has not established that interpretation as fact.
 
 Lucian lifted the weapon into Nova's extradimensional bag after the hearing. It remained there at session end beside [[What the Fuck Is Going On]]. No additional soul-power gain from the spider demonstration was stated.
+
+## Session 5 report from Ember
+
+[[Ember]] said that exiled dragons had scryed the hammer, watched Vane absorb power through it and sent her to learn how it worked. She described its source as the essence of an elder beast she called “the Unmade,” apparently an entity that no longer exists.
+
+This is Ember's report, not an independent confirmation. The established DM-confirmed origin remains the [[Beast of Forgotten Souls]]. “The Unmade” could be another title, a conflicting tradition or a different entity; do not merge or replace the names until later play resolves the discrepancy.
+
+The hammer remained stored in Nova's extradimensional bag throughout the ordinary Session 5 quarry expedition. No use or custody change was recorded.
 
 ## Weapon-profile discrepancy
 
