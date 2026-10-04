@@ -14,6 +14,8 @@ The permanent cumulative record for the campaign. Unlike [[index|the campaign ho
 
 ## All Sessions
 
+- [[Session 6 - Narrative|Session 6: Ordrin Did It]]
+- [[Session 6 - Notes|Session 6: Notes]]
 - [[Session 5 - Narrative|Session 5: Hammer, Stone and Fire]]
 - [[Session 5 - Notes|Session 5: Notes]]
 - [[Session 4 - Narrative|Session 4: The Barge, the Book and the Broken Crane]]
@@ -64,6 +66,7 @@ The permanent cumulative record for the campaign. Unlike [[index|the campaign ho
 
 ## All Locations
 
+- [[Meridian Hill]]
 - [[Northern Quarry]]
 - [[Belhaven]]
 - [[Belhaven Open Bell Sanctuary]]
@@ -84,6 +87,9 @@ The permanent cumulative record for the campaign. Unlike [[index|the campaign ho
 
 ## All Items
 
+- [[Caretaker's Storm Lantern]]
+- [[Horn of Ramming Speed]]
+- [[Ear-Notch Echo Catcher]]
 - [[Lucan Rhyse's Invitation]]
 - [[What the Fuck Is Going On]]
 - [[Surveyor's Compass]]
@@ -96,6 +102,9 @@ The permanent cumulative record for the campaign. Unlike [[index|the campaign ho
 
 ## Creatures and Lore
 
+- [[Chart Rider]]
+- [[Rime Stalker]]
+- [[Gap Siphon]]
 - [[Ironbark Rammer]]
 - [[Rust Gnawer]]
 - [[Seam Lurker]]
@@ -104,3 +113,8 @@ The permanent cumulative record for the campaign. Unlike [[index|the campaign ho
 ## Campaign Background
 
 - [[The Company That Wouldn't Die#Shared History|The party's shared military history and mutiny]]
+
+## Songs
+
+- [[Ordrin Did It]]
+- [[Lucian Wins the Battle]]

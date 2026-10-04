@@ -7,7 +7,7 @@ tags:
   - pc
   - party
   - campaign/the-show-must-go-on
-status: Level 6 after Session 5
+status: Level 6 after Session 6
 draft: false
 dg-publish: true
 publish: true
@@ -23,7 +23,7 @@ He survived several campaigns beside [[Lucian Vale]] and [[Ordrin Emberkeg]]. Du
 
 Thud now carries [[Vane's Warhammer]], taken from the captain's campaign chest. Whether the weapon is merely well made or something more remains unknown.
 
-**Status:** Level 6 after Session 5
+**Status:** Level 6 after Session 6
 **First appears:** Campaign creation
 
 ## Character Build
@@ -160,3 +160,13 @@ After speaking with the stranded quarry workers, Thud designed the [[Ironbark Ra
 Thud then killed the gallery's enormous snake in one turn with two Reckless, raging maul blows and kept its tongue. Against the [[Seam Lurker|Seam Lurkers]], he initially watched from a rock with a drink, then moved in front of Lucian, struck one as it emerged and killed it on his next turn. He bottled an iron-seep sample and carried the two plates found in the Rammer's lair, adding them to the 20 recovered from the carcass.
 
 At the hoist camp a courier delivered [[Grandmother's Grasp]], a normal-damage magical maul whose once-per-long-rest Death Roll can clamp onto a Large or smaller target, knock it prone and let Thud drag it. Session-end XP: 14,100; level 6 was granted.
+
+## Session 6 — Meridian Hill
+
+Thud gave Ordrin's shield to the hired field dresser and spent the road east trying to teach him how to use it. At the [[Meridian Hill]] trail camp, Thud screened Ember and Nova from the [[Chart Rider|Chart Riders]], invoked [[Grandmother's Grasp]] for the first time and beat one bird with the carcass caught in the maul's jaws.
+
+On Windcut Ridge he charged 35 feet into a [[Rime Stalker]], used Death Roll and awakened his Ironbark trophy as the [[Horn of Ramming Speed]]. The combined attack dealt 34 damage and drove the wolf 15 feet through the snow. Thud killed the other fleeing Rime Stalker with an opportunity attack, then chased the survivor to Echo Gap.
+
+Thud crossed the icy brass bridge with a natural 20, sliding its length and vaulting Lucian before readying his hammer. He crushed the surviving [[Gap Siphon|Gap Siphons]] as they reached him. When one buried its proboscis in his chest, he tore off its wings and body. Thud later persuaded the missing sheep to follow him and returned it to Kelm.
+
+Session-end XP award: 2,638. Arithmetic total from the prior 14,100 is 16,738; the 16,788 total spoken at the table remains unresolved.

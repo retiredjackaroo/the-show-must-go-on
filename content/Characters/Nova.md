@@ -36,3 +36,11 @@ Nova cautiously accepted [[Ember]] while Lucian and Thud remained hostile. Again
 During the party's long rest, Nova added arcane runes and an Arcane Firearm effect to her bow as described at the table. In the [[Ironbark Rammer]] fight she combined radiant arrows with her force ballista and delivered the killing attacks from the unarmoured rear. Her force ballista then critically struck the enormous gallery snake before Thud killed it. Against the [[Seam Lurker|Seam Lurkers]], Nova repeatedly held a True Strike shot for their emergence and killed the last creature at point-blank range.
 
 Session-end XP: 14,100; level 6 was granted. [[Vane's Warhammer]] remained in her extradimensional bag; no change of custody was recorded.
+
+## Session 6 — Meridian Hill
+
+Nova fought the [[Chart Rider|Chart Riders]] with radiant True Strike arrows, then helped record and carry the camp rewards. On Windcut Ridge, a [[Rime Stalker]] knocked her prone, bit her and dropped her unconscious with its cold breath. Lucian revived her with a third-level Healing Word. She stood, used Dodge to hold the wolf in place and was then caught in Ember's Fear before recovering down-trail.
+
+Nova struck the fleeing Rime Stalker from extreme longbow range. At Echo Gap she crossed the brass bridge badly but later killed two [[Gap Siphon|Gap Siphons]] with Scorching Ray and heard the lost sheep beyond the fighting. She held the sheep in her extradimensional bag briefly for the return crossing. At the Glacier Tongue, Nova used Identify to reveal the [[Ear-Notch Echo Catcher]] and later used Shatter to break its ice slab, but the current carried the item away.
+
+Session-end XP award: 2,638. Arithmetic total from the prior 14,100 is 16,738; the 16,788 total spoken at the table remains unresolved.

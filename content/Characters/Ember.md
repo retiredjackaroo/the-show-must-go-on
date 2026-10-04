@@ -6,7 +6,7 @@ tags:
   - party
   - campaign/the-show-must-go-on
   - session-5
-status: Level 6 after Session 5
+status: Level 6 after Session 6
 draft: false
 dg-publish: true
 publish: true
@@ -17,7 +17,7 @@ banner: /assets/ember-portrait.jpg
 
 Ember is a human sorcerer whose subclass is Draconic Sorcery. She joined Lucian Vale, [[Thud]] and [[Nova]] at the [[Northern Quarry]] in Session 5.
 
-**Status:** Level 6 after Session 5
+**Status:** Level 6 after Session 6
 
 **First appears:** [[Session 5 - Narrative|Session 5]]
 
@@ -67,6 +67,14 @@ After surviving Lucian and Thud's reflexive arrow fire, Ember introduced herself
 Against the [[Rust Gnawer|Rust Gnawers]], she attacked with Fire Bolt and used Feather Fall to protect Nova. She later gave Thud a healing potion. During the Rammer ambush she activated Innate Sorcery, attacked with fire and frightened the beast. Afterward, she revealed the enormous snake in the eastern gallery, lit the tunnels, helped fight the Seam Lurkers and found both an adamantine chisel tip and a failed-hunter cache containing two ironbark plates.
 
 Session-end XP: 14,100; level 6 was granted.
+
+## Session 6 — Meridian Hill
+
+Gathered herbs and crafted a Potion of Healing during the road east. At the [[Meridian Hill]] trail camp, Ember killed the first two [[Chart Rider|Chart Riders]] with Fireball and used further fire, rays and close-range lightning against later waves. On Windcut Ridge, her Fear spell broke both [[Rime Stalker|Rime Stalkers]] but also frightened Nova. The spell drove the surviving wolf into Echo Gap. Ember then attacked the incapacitated [[Gap Siphon|Gap Siphons]] with Fireball, killing four and waking the survivors.
+
+At the Glacier Tongue, Ember used Fly and Fire Bolt to tunnel toward the [[Ear-Notch Echo Catcher]]. Anchoring into the weakened ice released a 25-ton slab. She twice tried to pull the item free, dislodged it underwater and abandoned a plan to pursue it with Alter Self after the current's lethal force was established.
+
+Session-end XP award: 2,638. Arithmetic total from the prior 14,100 is 16,738; the 16,788 total spoken at the table remains unresolved.
 
 ## Relationships
 

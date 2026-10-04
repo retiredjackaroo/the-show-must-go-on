@@ -2,7 +2,7 @@
 type: item
 title: "Grandmother's Grasp"
 tags: [campaign/the-show-must-go-on, session-3, session-5]
-status: Delivered to Thud at the Northern Quarry after Session 5
+status: Carried and used by Thud after Session 6
 draft: false
 dg-publish: true
 publish: true
@@ -10,7 +10,7 @@ publish: true
 
 A magical maul commissioned for [[Thud]] through the [[Belhaven Hunt]], using the entire Fen Mother skull and 100 gp of additional materials paid by Thud. It uses the normal maul damage profile: 2d6 bludgeoning damage, with no inherent bonus to attack or damage rolls.
 
-**Status:** Delivered to [[Thud]] by courier at the [[Northern Quarry]] hoist camp after the Session 5 expedition. No attack or other use was recorded before the session ended.
+**Status:** Carried by [[Thud]]. He first invoked Death Roll against a [[Chart Rider]] during Session 6, trapping the dead bird in the maul's jaws. After completing a long rest, he invoked it again during a charge against a [[Rime Stalker]].
 
 ## Death Roll
 

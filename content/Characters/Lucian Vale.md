@@ -7,7 +7,7 @@ tags:
   - pc
   - party
   - campaign/the-show-must-go-on
-status: Level 6 after Session 5
+status: Level 6 after Session 6
 draft: false
 dg-publish: true
 publish: true
@@ -17,7 +17,7 @@ publish: true
 
 Lucian Vale is a charming, respectable-seeming con artist whose introduced name may or may not be his legal one. He is built to serve as the party's face and perform much of a Rogue's work while remaining a full Bard: persuasion, deception, infiltration, stealth, sleight of hand and thieves' tools, backed by battlefield control and competent melee fighting.
 
-**Status:** Level 6 after Session 5
+**Status:** Level 6 after Session 6
 **First appears:** Campaign creation
 
 ## Character Build
@@ -173,3 +173,11 @@ On the road, [[What the Fuck Is Going On]] disclosed Lucian's Star Power as 66 w
 Fired on [[Ember]] when she appeared above the broken crane, then continued the quarry expedition with her. Against the [[Rust Gnawer|Rust Gnawers]], Lucian used an illusion to draw one construct toward the retaining edge, turned invisible, healed Thud and supplied Bardic Inspiration. He later attacked from the cliff with fire and sound while the constructs were trapped below.
 
 Lucian helped design the [[Ironbark Rammer]] ambush, placed an illusory Thud over the hunting traps and marked the beast with Faerie Fire so the party could strike its weak rear joints. In the eastern workings he used control magic against the snake and [[Seam Lurker|Seam Lurkers]], investigated the drill gallery and recovered a drill-bit set valued at 35 gp. Session-end XP: 14,100; level 6 was granted.
+
+## Session 6 — Belhaven and Meridian Hill
+
+Re-entered locked-down [[Belhaven]] as Sebastian, sold Ordrin's chainmail, hired the party's field dresser and purchased expedition supplies. At the Hunt he successfully revived the Catastrophe song, then performed [[Ordrin Did It]] as a memorial and a deliberate attempt to blame Ordrin for the barge explosion. The new song became a crowd favourite. Lucian publicly announced Ordrin's death before leaving town.
+
+At the [[Meridian Hill]] camp, Lucian smothered the real fire and used Minor Illusion to draw the [[Chart Rider|Chart Riders]] through the party toward a false flame. He also used Hypnotic Pattern and Dissonant Whispers against the flock. On Windcut Ridge he survived a [[Rime Stalker]]'s cold breath and bite with 2 HP remaining, struck the other wolf and revived Nova with a third-level Healing Word. At Echo Gap his Hypnotic Pattern incapacitated nine of ten [[Gap Siphon|Gap Siphons]] before Ember's Fireball woke the survivors; his Faerie Fire then exposed them to the party's attacks.
+
+Session-end XP award: 2,638. Arithmetic total from the prior 14,100 is 16,738; Lucian said his new total was 16,788, leaving the character-sheet total unresolved.

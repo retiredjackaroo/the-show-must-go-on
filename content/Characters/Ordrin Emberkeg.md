@@ -29,6 +29,10 @@ He died as he had lived: loyal to his companions, contemptuous of unearned autho
 
 > “The show must go on. But not for you.”
 
+## Memorial song
+
+In Session 6, Lucian performed [[Ordrin Did It]] at the [[Belhaven Hunt]]. The song remembered Ordrin as quartermaster, healer, brewer and friend, while falsely assigning him responsibility for the barge explosion. Lucian followed the performance by announcing that Ordrin had “died as he lived, on fire and slightly annoying.” The crowd mourned and carried the news into Belhaven.
+
 ---
 
 ![[Assets/Ordrin Emberkeg.webp|Ordrin Emberkeg, the party's dwarf war cleric.]]

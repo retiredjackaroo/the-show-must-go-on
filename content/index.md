@@ -1,7 +1,7 @@
 ---
 type: index
 title: The Show Must Go On
-description: A Dungeons & Dragons campaign archive following Lucian Vale, Thud Firebelly, Nova and Ember through the Northern Quarry and beyond.
+description: A Dungeons & Dragons campaign archive following Lucian Vale, Thud Firebelly, Nova and Ember from Belhaven to Meridian Hill.
 aliases:
   - The Show Must Go On Campaign Homepage
 tags:
@@ -16,18 +16,18 @@ banner: /assets/party-banner.webp
 
 ## Where We Are Now
 
-The party has returned to the hoist camp at the [[Northern Quarry]] after completing the Quarry Breaker contract. The [[Ironbark Rammer]], two [[Rust Gnawer|Rust Gnawers]], two [[Seam Lurker|Seam Lurkers]] and an enormous gallery snake are dead. The quarry's workers can resume operations, although the party must still return to the [[Belhaven Hunt]] to claim the 320 gp contract payment and sell its salvage.
+The party is on [[Meridian Hill]], two days east of [[Belhaven]], pursuing the [[Belhaven Hunt]] contract called the Eastern Cry. They defended the trail camp from twelve [[Chart Rider|Chart Riders]], killed two [[Rime Stalker|Rime Stalkers]], cleared ten [[Gap Siphon|Gap Siphons]] from the Echo Gap and returned a missing sheep. Rusk, the sheepdog, is still missing, and the ruined observatory on the summit remains unreached.
 
-Lucian Vale, Thud Firebelly, Nova and [[Ember]] have reached level 6 with 14,100 XP. Ember is a human sorcerer with Draconic Sorcery who joined the group during the quarry expedition. She is investigating [[Vane's Warhammer]] on behalf of exiled dragons and has supplied new but unverified claims about Vane, the hammer's elder-beast origin and a dragon whose provisional transcript spelling is Vexilfrax.
+Lucian Vale, Thud Firebelly, Nova and [[Ember]] remain level 6. Session 6 awarded 2,638 XP each; the arithmetic total from Session 5 is 16,738, while Lucian said 16,788 aloud. The discrepancy is unresolved.
 
-In [[Belhaven]], [[Lucan Rhyse]] has a copy of the military evidence and has begun comparing it with official records. The party retains the originals. Rhyse offered eventual honorable discharge and benefits, but [[Lord-Captain Edric Vane]] was reported due within three days and the party destroyed the barge he intended to use. Guards were searching for their registered cover identities when they fled.
+In [[Belhaven]], the destroyed ferry has been replaced by small boats and skiffs. Guards are looking for Lucian, Nova, Thud and Ordrin under their registered identities. Lucian re-entered as Sebastian, hired a field dresser and publicly performed [[Ordrin Did It]], announcing Ordrin's death while blaming him for the barge explosion.
 
-[[Vane's Warhammer]] and [[What the Fuck Is Going On]] remain stored in Nova's extradimensional bag. [[Grandmother's Grasp]] has been delivered to Thud but has not yet been used.
+Thud has now used [[Grandmother's Grasp]] in combat, and his Ironbark trophy awakened as the [[Horn of Ramming Speed]]. The party carries the [[Caretaker's Storm Lantern]]. The rare [[Ear-Notch Echo Catcher]] was identified but lost beneath the Glacier Tongue.
 
 ## Latest Session
 
-- [[Session 5 - Narrative|Session 5: Hammer, Stone and Fire]]
-- [[Session 5 - Notes|Session 5: Notes]]
+- [[Session 6 - Narrative|Session 6: Ordrin Did It]]
+- [[Session 6 - Notes|Session 6: Notes]]
 
 ## Hall of Fame
 
@@ -38,6 +38,7 @@ In [[Belhaven]], [[Lucan Rhyse]] has a copy of the military evidence and has beg
 | 3       | Restoring Sebastian to the memories of those who knew him                                                         | Lucian used Friends to persuade Thud to seal Vane's hammer inside Nova's extradimensional bag                       | Thud tested the necromantic hammer on an unconscious bellfrog, erasing the victim from memory and feeding its soul to the weapon                |
 | 4       | Securing a military investigation without surrendering the original evidence                                      | Thud prepared and then toppled the failing quarry crane onto the last Bucket Scrab swarm                            | The party destroyed Belhaven's barge in front of civilians, Rhyse and the town guard immediately after negotiating for discharge and protection |
 | 5       | Completing the Quarry Breaker contract and clearing the quarry                                                    | Thud built a two-trap, blasting-powder ambush for the Ironbark Rammer after knocking both Rust Gnawers over a ledge | Lucian and Thud opened fire on Ember before asking who she was                                                                                  |
+| 6       | Defending the trail camp, clearing Echo Gap and returning Kelm's missing sheep                                    | Lucian extinguished the real campfire and replaced it with an illusion that drew the Chart Riders through the party | The party weakened a 25-ton ice slab without first stabilising it, losing the rare Echo Catcher beneath the glacier                             |
 
 ## Player Characters
 
@@ -65,6 +66,7 @@ In [[Belhaven]], [[Lucan Rhyse]] has a copy of the military evidence and has beg
 ## Locations
 
 - [[Northern Quarry]]
+- [[Meridian Hill]]
 - [[Greyfen]]
 - [[Old Standard Inn]]
 - [[Greyfen Clinic]]
@@ -79,6 +81,9 @@ In [[Belhaven]], [[Lucan Rhyse]] has a copy of the military evidence and has beg
 ## Items
 
 - [[Grandmother's Grasp]]
+- [[Caretaker's Storm Lantern]]
+- [[Horn of Ramming Speed]]
+- [[Ear-Notch Echo Catcher]]
 - [[What the Fuck Is Going On]]
 - [[Surveyor's Compass]]
 - [[Vane's Warhammer]]
@@ -92,6 +97,9 @@ In [[Belhaven]], [[Lucan Rhyse]] has a copy of the military evidence and has beg
 - [[Rust Gnawer]]
 - [[Seam Lurker]]
 - [[Bucket Scrabs]]
+- [[Chart Rider]]
+- [[Rime Stalker]]
+- [[Gap Siphon]]
 
 ## Full Archive
 

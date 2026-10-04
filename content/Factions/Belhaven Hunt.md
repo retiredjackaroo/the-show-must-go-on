@@ -25,4 +25,6 @@ The party was offered membership after stopping the escaped prowlers and used th
 
 The Hunt crafted [[Grandmother's Grasp]] and sent it to Thud by courier at the [[Northern Quarry]] after Session 5.
 
-In Session 4, the party took the sheets for all three posted contracts: The Quarry Breaker, Teeth in the Orchard and The Eastern Cry. They attempted The Quarry Breaker first and reached the Northern Quarry without a field extraction or capture expert. In Session 5 they killed the [[Ironbark Rammer]], recovered 22 ironbark plates and completed the contract. The Hunt's 320 gp payment remained unclaimed at session end. Teeth in the Orchard and The Eastern Cry remain outstanding.
+In Session 4, the party took the sheets for all three posted contracts: The Quarry Breaker, Teeth in the Orchard and The Eastern Cry. They attempted The Quarry Breaker first and reached the Northern Quarry without a field extraction or capture expert. In Session 5 they killed the [[Ironbark Rammer]], recovered 22 ironbark plates and completed the contract. The Hunt's 320 gp payment remained unclaimed at session end.
+
+In Session 6, Lucian returned under his Sebastian identity and hired a field-dressing specialist for the Eastern Cry: 45 gp down and 15 gp per day for an eight-day contract. The specialist was introduced as Jason, a non-combatant with 16 maximum HP. A later joking rename to “Philip Leap” did not persist in play. The party then travelled to [[Meridian Hill]] and began the Eastern Cry contract. Teeth in the Orchard remains outstanding.
