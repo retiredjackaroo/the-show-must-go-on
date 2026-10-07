@@ -11,4 +11,6 @@ Lucian's song for the Belhaven dockside performance in Session 4. The planned sp
 
 **Popularity:** 1
 
+**Royalties:** 5 gp per session
+
 ![[Assets/Lucian and the Catastrophe.mp3|Lucian and the Catastrophe]]
