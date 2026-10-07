@@ -9,6 +9,8 @@ publish: true
 
 Lucian's memorial song for [[Ordrin Emberkeg]], performed at the [[Belhaven Hunt]] in Session 6. It remembers Ordrin as the company's quartermaster, healer, brewer and stubborn conscience, while opportunistically blaming him for the Belhaven barge explosion.
 
+**Popularity:** 2 — Crowd Favourite (Performance 18)
+
 ![[Assets/Ordrin Did It.mp3|Ordrin Did It]]
 
 ## Lyrics

@@ -117,4 +117,5 @@ The permanent cumulative record for the campaign. Unlike [[index|the campaign ho
 ## Songs
 
 - [[Ordrin Did It]]
+- [[Lucian and the Catastrophe]]
 - [[Lucian Wins the Battle]]
