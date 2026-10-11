@@ -32,7 +32,7 @@ He lay pinned beneath one dark talon in a nest of pale ribs and red cord. Above 
 
 Lucian walked forward alone.
 
-The [[Lament Widow]] called the dog hers. Lucian offered rations instead. He smiled, bargained and promised that his friends could fetch even more food from the shepherd below. At last she lifted her claw.
+The [[Lament Widow]] called the dog hers. Lucian stepped close enough to cast Friends, and her suspicion softened into fascination. She called him pretty, invited him to share a meal and suggested there might be “something more.” Lucian smiled and flirted back, offering rations instead of Rusk and promising that his companions could fetch even more food from the shepherd below. At last she lifted her claw.
 
 Lucian clipped the lead to Rusk and passed it to Thud.
 
@@ -40,9 +40,9 @@ Lucian clipped the lead to Rusk and passed it to Thud.
 
 Thud went down the mountain. Lucian stayed for dinner.
 
-It almost worked.
+For one charmed minute, it worked.
 
-When the Widow decided Lucian's friends were pets of his own, the meal became an argument and the argument became claws. Lucian vanished. Nova vanished with him. Footprints split across the snow while the Widow hunted the wrong trail and tore at illusions of the bard.
+Then Friends ended. The Widow understood that the pretty boy had enchanted her. Lucian tried to hold the moment together with an ordinary appeal—“We are friends, aren't we?”—but failed. The flirtation became fury and the promised meal became claws. Lucian vanished. Nova vanished with him. Footprints split across the snow while the Widow hunted the wrong trail and tore at illusions of the bard.
 
 By the time Ember rose over the cliff and Thud came running back, Lucian had driven his rapier through the Widow's heart.
 

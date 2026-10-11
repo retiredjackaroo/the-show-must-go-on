@@ -39,9 +39,9 @@ The [[Surveyor's Compass]] still pointed toward Rusk. The party packed the porta
 
 ![[Assets/Session 7 - Rusk and the Lament Widow.jpg|Lucian bargains with the Lament Widow for Rusk.]]
 
-On a cliff shelf above the ridge, the party found Rusk pinned beneath a taloned, woman-shaped harpy called a [[Lament Widow]]. Lucian approached peacefully and traded rations for the dog. He gave Rusk to Thud, who started down toward Kelm, while Lucian remained to share the promised meal.
+On a cliff shelf above the ridge, the party found Rusk pinned beneath a taloned, woman-shaped harpy called a [[Lament Widow]]. Lucian approached peacefully and cast Friends, charming her. The Widow flirted openly—calling him pretty, proposing a meal and “something more,” and inviting him to become her pet—and Lucian flirted back while bargaining. He traded twenty days of rations for Rusk, gave the dog to Thud and remained to share the promised meal.
 
-The Widow treated Lucian's companions as his pets, then became hostile when he objected. Lucian evaded her with invisibility and repeated illusions while Nova fired from cover. Ember arrived by air and Thud returned too late to strike before Lucian killed the Widow with his rapier. The nest and body yielded 155 gp of miscellaneous valuables. Ember recovered one missing Hunt tag below the cliff.
+The Widow treated Lucian's companions as his pets while the charm held. When Friends expired, she realised that Lucian had tricked her; his attempt to preserve the rapport through ordinary persuasion failed, forcing combat. Lucian evaded her with invisibility and repeated illusions while Nova fired from cover. Ember arrived by air and Thud returned too late to strike before Lucian killed the Widow with his rapier. The nest and body yielded 155 gp of miscellaneous valuables. Ember recovered one missing Hunt tag below the cliff.
 
 Thud returned Rusk to Kelm. The reward was three Potions of Healing, a climber's kit, 350 gp and the [[Widow-Safe Collar Clip]]. Nova identified the clip; Thud retained ownership but fastened it to Lucian.
 

@@ -184,6 +184,6 @@ Session-end XP award: 2,638. Arithmetic total from the prior 14,100 is 16,738; L
 
 ## Session 7 — Meridian Hill crown
 
-Bargained Rusk free from a [[Lament Widow]] with rations, remained for the promised meal and killed the Widow after using invisibility and illusions to misdirect her. Lucian later made himself and Thud invisible for the explosives ambush on the frost giant and the [[Cry Wildheart]], then used Faerie Fire and Dissonant Whispers during the ring battle.
+Charmed a [[Lament Widow]] with Friends and flirted back as she proposed a meal and “something more,” using the rapport to bargain Rusk free for rations. When the charm expired, the Widow realised that Lucian had tricked her and attacked after his ordinary persuasion failed. Lucian remained for the promised meal, then killed her after using invisibility and illusions to misdirect her. He later made himself and Thud invisible for the explosives ambush on the frost giant and the [[Cry Wildheart]], then used Faerie Fire and Dissonant Whispers during the ring battle.
 
 On the observatory roof he fought the Wildheart at close range and revived Thud with Healing Word after the second full cry knocked him unconscious. Session-end XP: 19,863; level 6.
