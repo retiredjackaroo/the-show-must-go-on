@@ -44,3 +44,9 @@ Nova fought the [[Chart Rider|Chart Riders]] with radiant True Strike arrows, th
 Nova struck the fleeing Rime Stalker from extreme longbow range. At Echo Gap she crossed the brass bridge badly but later killed two [[Gap Siphon|Gap Siphons]] with Scorching Ray and heard the lost sheep beyond the fighting. She held the sheep in her extradimensional bag briefly for the return crossing. At the Glacier Tongue, Nova used Identify to reveal the [[Ear-Notch Echo Catcher]] and later used Shatter to break its ice slab, but the current carried the item away.
 
 Session-end XP award: 2,638. Arithmetic total from the prior 14,100 is 16,738; the 16,788 total spoken at the table remains unresolved.
+
+## Session 7 — Meridian Hill crown
+
+Nova's player was absent, so the DM ran her on limited autopilot. She kept the camp watch, identified the [[Widow-Safe Collar Clip]] and used radiant arrows and her force ballista against the [[Lament Widow]], Thurnvold and the [[Cry Wildheart]]. The Wildheart's opening roof cry destroyed her ballista and deafened her, but Nova later delivered the killing shot with a radiant arrow.
+
+Session-end XP: 19,863; level 6.

@@ -170,3 +170,9 @@ On Windcut Ridge he charged 35 feet into a [[Rime Stalker]], used Death Roll and
 Thud crossed the icy brass bridge with a natural 20, sliding its length and vaulting Lucian before readying his hammer. He crushed the surviving [[Gap Siphon|Gap Siphons]] as they reached him. When one buried its proboscis in his chest, he tore off its wings and body. Thud later persuaded the missing sheep to follow him and returned it to Kelm.
 
 Session-end XP award: 2,638. Arithmetic total from the prior 14,100 is 16,738; the 16,788 total spoken at the table remains unresolved.
+
+## Session 7 — Meridian Hill crown
+
+Returned Rusk safely to Kelm and received the rescue reward, including the [[Widow-Safe Collar Clip]]. On the meridian ring, Thud carried quarry explosives into the fight under Lucian's invisibility, then charged the [[Cry Wildheart]] with [[Grandmother's Grasp]] and the [[Horn of Ramming Speed]]. Thurnvold grappled him and hurled him sixty feet, but Thud later killed the giant by breaking his knee and causing a fatal fall.
+
+Thud took a giant molar as a trophy. Its magic allows him, once per long rest while attuned, to become Huge for the duration of a rage, gain ten-foot reach and wield otherwise oversized weapons. In the roof battle the Wildheart knocked him unconscious; Lucian revived him before Nova made the killing shot. Thud took one of the creature's ribs as a second, still-unrevealed trophy. Session-end XP: 19,863; level 6.

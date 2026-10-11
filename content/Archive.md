@@ -14,6 +14,8 @@ The permanent cumulative record for the campaign. Unlike [[index|the campaign ho
 
 ## All Sessions
 
+- [[Session 7 - Narrative|Session 7: The Cry at the Crown]]
+- [[Session 7 - Notes|Session 7: Notes]]
 - [[Session 6 - Narrative|Session 6: Ordrin Did It]]
 - [[Session 6 - Notes|Session 6: Notes]]
 - [[Session 5 - Narrative|Session 5: Hammer, Stone and Fire]]

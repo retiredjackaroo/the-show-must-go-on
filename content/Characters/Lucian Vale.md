@@ -181,3 +181,9 @@ Re-entered locked-down [[Belhaven]] as Sebastian, sold Ordrin's chainmail, hired
 At the [[Meridian Hill]] camp, Lucian smothered the real fire and used Minor Illusion to draw the [[Chart Rider|Chart Riders]] through the party toward a false flame. He also used Hypnotic Pattern and Dissonant Whispers against the flock. On Windcut Ridge he survived a [[Rime Stalker]]'s cold breath and bite with 2 HP remaining, struck the other wolf and revived Nova with a third-level Healing Word. At Echo Gap his Hypnotic Pattern incapacitated nine of ten [[Gap Siphon|Gap Siphons]] before Ember's Fireball woke the survivors; his Faerie Fire then exposed them to the party's attacks.
 
 Session-end XP award: 2,638. Arithmetic total from the prior 14,100 is 16,738; Lucian said his new total was 16,788, leaving the character-sheet total unresolved.
+
+## Session 7 — Meridian Hill crown
+
+Bargained Rusk free from a [[Lament Widow]] with rations, remained for the promised meal and killed the Widow after using invisibility and illusions to misdirect her. Lucian later made himself and Thud invisible for the explosives ambush on Thurnvold and the [[Cry Wildheart]], then used Faerie Fire and Dissonant Whispers during the ring battle.
+
+On the observatory roof he fought the Wildheart at close range and revived Thud with Healing Word after the second full cry knocked him unconscious. Session-end XP: 19,863; level 6.
