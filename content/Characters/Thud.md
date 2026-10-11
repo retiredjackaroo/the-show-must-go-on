@@ -7,7 +7,7 @@ tags:
   - pc
   - party
   - campaign/the-show-must-go-on
-status: Level 6 after Session 6
+status: Level 6 after Session 7
 draft: false
 dg-publish: true
 publish: true
@@ -23,7 +23,7 @@ He survived several campaigns beside [[Lucian Vale]] and [[Ordrin Emberkeg]]. Du
 
 Thud now carries [[Vane's Warhammer]], taken from the captain's campaign chest. Whether the weapon is merely well made or something more remains unknown.
 
-**Status:** Level 6 after Session 6
+**Status:** Level 6 after Session 7
 **First appears:** Campaign creation
 
 ## Character Build
@@ -173,6 +173,6 @@ Session-end XP award: 2,638. Arithmetic total from the prior 14,100 is 16,738; t
 
 ## Session 7 — Meridian Hill crown
 
-Returned Rusk safely to Kelm and received the rescue reward, including the [[Widow-Safe Collar Clip]]. On the meridian ring, Thud carried quarry explosives into the fight under Lucian's invisibility, then charged the [[Cry Wildheart]] with [[Grandmother's Grasp]] and the [[Horn of Ramming Speed]]. Thurnvold grappled him and hurled him sixty feet, but Thud later killed the giant by breaking his knee and causing a fatal fall.
+Returned Rusk safely to Kelm and received the rescue reward, including the [[Widow-Safe Collar Clip]]. On the meridian ring, Thud carried quarry explosives into the fight under Lucian's invisibility, then charged the [[Cry Wildheart]] with [[Grandmother's Grasp]] and the [[Horn of Ramming Speed]]. The frost giant grappled him and hurled him sixty feet, but Thud later killed it by breaking its knee and causing a fatal fall.
 
 Thud took a giant molar as a trophy. Its magic allows him, once per long rest while attuned, to become Huge for the duration of a rage, gain ten-foot reach and wield otherwise oversized weapons. In the roof battle the Wildheart knocked him unconscious; Lucian revived him before Nova made the killing shot. Thud took one of the creature's ribs as a second, still-unrevealed trophy. Session-end XP: 19,863; level 6.

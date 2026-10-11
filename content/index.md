@@ -16,13 +16,15 @@ banner: /assets/party-banner.webp
 
 ## Where We Are Now
 
-The party is camped on the roof of the reactivated observatory at [[Meridian Hill]]. Rusk has been rescued, the frost giant Thurnvold and the [[Cry Wildheart]] are dead, and the unnatural blizzard has ended. The Eastern Cry proof has not yet been handed to the [[Belhaven Hunt]]. Two of the previous expedition's three Hunt tags have been recovered.
+The party is camped on the roof of the reactivated observatory at [[Meridian Hill]]. Rusk has been rescued, the frost giant provisionally recorded as Thurnvold and the [[Cry Wildheart]] are dead, and the unnatural blizzard has ended. The Eastern Cry proof has not yet been handed to the [[Belhaven Hunt]]. Two of the previous expedition's three Hunt tags have been recovered.
 
 Lucian Vale, Thud Firebelly, Nova and [[Ember]] remain level 6 with a table-confirmed total of 19,863 XP each after Session 7.
 
 In [[Belhaven]], the destroyed ferry has been replaced by small boats and skiffs. Guards are looking for Lucian, Nova, Thud and Ordrin under their registered identities. Lucian re-entered as Sebastian, hired a field dresser and publicly performed [[Ordrin Did It]], announcing Ordrin's death while blaming him for the barge explosion.
 
-The observatory has not been cleared. Meridian Wards, small wretches, at least one further boss and two puzzles remain. During the party's long rest its dormant machinery and magic began to wake. The group intends to explore it before deciding whether to return to Belhaven.
+The observatory has not been cleared. Meridian Wards, small human-shaped wretches, at least one further boss and two puzzles remain. During the party's long rest its dormant machinery and magic began to wake. The group intends to explore it before deciding whether to return to [[Belhaven]], where [[Lord-Captain Edric Vane]] was expected to arrive.
+
+[[Vane's Warhammer]] and [[What the Fuck Is Going On]] remain stored in Nova's extradimensional bag. Thud carries [[Grandmother's Grasp]], the [[Horn of Ramming Speed]], a frost-giant molar trophy and an unrevealed Cry Wildheart rib trophy.
 
 ## Latest Session
 

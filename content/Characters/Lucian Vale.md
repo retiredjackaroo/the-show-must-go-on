@@ -7,7 +7,7 @@ tags:
   - pc
   - party
   - campaign/the-show-must-go-on
-status: Level 6 after Session 6
+status: Level 6 after Session 7
 draft: false
 dg-publish: true
 publish: true
@@ -17,7 +17,7 @@ publish: true
 
 Lucian Vale is a charming, respectable-seeming con artist whose introduced name may or may not be his legal one. He is built to serve as the party's face and perform much of a Rogue's work while remaining a full Bard: persuasion, deception, infiltration, stealth, sleight of hand and thieves' tools, backed by battlefield control and competent melee fighting.
 
-**Status:** Level 6 after Session 6
+**Status:** Level 6 after Session 7
 **First appears:** Campaign creation
 
 ## Character Build
@@ -184,6 +184,6 @@ Session-end XP award: 2,638. Arithmetic total from the prior 14,100 is 16,738; L
 
 ## Session 7 — Meridian Hill crown
 
-Bargained Rusk free from a [[Lament Widow]] with rations, remained for the promised meal and killed the Widow after using invisibility and illusions to misdirect her. Lucian later made himself and Thud invisible for the explosives ambush on Thurnvold and the [[Cry Wildheart]], then used Faerie Fire and Dissonant Whispers during the ring battle.
+Bargained Rusk free from a [[Lament Widow]] with rations, remained for the promised meal and killed the Widow after using invisibility and illusions to misdirect her. Lucian later made himself and Thud invisible for the explosives ambush on the frost giant and the [[Cry Wildheart]], then used Faerie Fire and Dissonant Whispers during the ring battle.
 
 On the observatory roof he fought the Wildheart at close range and revived Thud with Healing Word after the second full cry knocked him unconscious. Session-end XP: 19,863; level 6.

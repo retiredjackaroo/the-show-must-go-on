@@ -6,7 +6,7 @@ tags:
   - party
   - campaign/the-show-must-go-on
   - session-5
-status: Level 6 after Session 6
+status: Level 6 after Session 7
 draft: false
 dg-publish: true
 publish: true
@@ -17,7 +17,7 @@ banner: /assets/ember-portrait.jpg
 
 Ember is a human sorcerer whose subclass is Draconic Sorcery. She joined Lucian Vale, [[Thud]] and [[Nova]] at the [[Northern Quarry]] in Session 5.
 
-**Status:** Level 6 after Session 6
+**Status:** Level 6 after Session 7
 
 **First appears:** [[Session 5 - Narrative|Session 5]]
 
@@ -78,7 +78,7 @@ Session-end XP award: 2,638. Arithmetic total from the prior 14,100 is 16,738; t
 
 ## Session 7 — Meridian Hill crown
 
-Scouted the observatory approaches by air and discovered the [[Cry Wildheart]] fighting the frost giant Thurnvold. Ember ignited Thud's planted quarry explosives with Fireball, attacked both bosses with fire and inflicted doubt on the giant. In the roof battle she used fire and fear to restrict the Wildheart's movement despite ending one cry with only 4 HP.
+Scouted the observatory approaches by air and discovered the [[Cry Wildheart]] fighting a frost giant whose name is provisionally recorded as Thurnvold. Ember ignited Thud's planted quarry explosives with Fireball, attacked both bosses with fire and inflicted doubt on the giant. In the roof battle she used fire and fear to restrict the Wildheart's movement despite ending one cry with only 4 HP.
 
 During the long rest she found an astronomical diagram that contradicted _A Primer on the Axioms of Magic and the Known Planes_. Session-end XP: 19,863; level 6.
 
