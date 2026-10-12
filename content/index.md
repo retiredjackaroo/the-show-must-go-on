@@ -20,6 +20,8 @@ The party is camped on the roof of the reactivated observatory at [[Meridian Hil
 
 Lucian Vale, Thud Firebelly, Nova and [[Ember]] remain level 6 with a table-confirmed total of 19,863 XP each after Session 7.
 
+Ember is travelling with the group as a probationary member while they work through questions of trust and battlefield coordination. Her knowledge of Vane and destructive magic are valuable, but Lucian expects her to preserve allied control effects and Nova remains wary of impulsive area spells. Ember has agreed to work on coordinating her magic with the established party.
+
 In [[Belhaven]], the destroyed ferry has been replaced by small boats and skiffs. Guards are looking for Lucian, Nova, Thud and Ordrin under their registered identities. Lucian re-entered as Sebastian, hired a field dresser and publicly performed [[Ordrin Did It]], announcing Ordrin's death while blaming him for the barge explosion.
 
 The observatory has not been cleared. Meridian Wards, small human-shaped wretches, at least one further boss and two puzzles remain. During the party's long rest its dormant machinery and magic began to wake. The group intends to explore it before deciding whether to return to [[Belhaven]], where [[Lord-Captain Edric Vane]] was expected to arrive.
@@ -45,7 +47,7 @@ The observatory has not been cleared. Meridian Wards, small human-shaped wretche
 
 ## Player Characters
 
-- [[Ember]] — human sorcerer with Draconic Sorcery, investigating Vane's hammer for exiled dragons
+- [[Ember]] — probationary human sorcerer with Draconic Sorcery, investigating Vane's hammer while learning to coordinate with the established party
 - [[Nova]] — former company artillerist, now seeking answers alongside the party
 - [[Lucian Vale]]
 - [[Thud]]
