@@ -14,6 +14,8 @@ The permanent cumulative record for the campaign. Unlike [[index|the campaign ho
 
 ## All Sessions
 
+- [[Session 8 - Narrative|Session 8: The Crown Reclaimed]]
+- [[Session 8 - Notes|Session 8: Notes]]
 - [[Session 7 - Narrative|Session 7: The Cry at the Crown]]
 - [[Session 7 - Notes|Session 7: Notes]]
 - [[Session 6 - Narrative|Session 6: Ordrin Did It]]
@@ -31,6 +33,8 @@ The permanent cumulative record for the campaign. Unlike [[index|the campaign ho
 
 ## Mystery Interludes
 
+- [[Sessions/Session 8/Mystery Interlude/Mystery Interlude - Narrative|Session 8 Mystery Interlude: The After-Show]]
+- [[Sessions/Session 8/Mystery Interlude/Mystery Interlude - Notes|Session 8 Mystery Interlude: Notes]]
 - [[Sessions/Session 2/Mystery Interlude/Mystery Interlude - Narrative|Session 2 Mystery Interlude]]
 - [[Sessions/Session 2/Mystery Interlude/Mystery Interlude - Notes|Session 2 Mystery Interlude: Notes]]
 - [[Sessions/Session 4/Mystery Interlude/Mystery Interlude - Narrative|Session 4 Mystery Interlude: The Unheard Questions]]
@@ -96,6 +100,9 @@ The permanent cumulative record for the campaign. Unlike [[index|the campaign ho
 - [[What the Fuck Is Going On]]
 - [[Surveyor's Compass]]
 - [[Grandmother's Grasp]]
+- [[Wish You Were Here Postcard]]
+- [[Meridian Log Case]]
+- [[Meridian Star Charts]]
 
 - [[Vane's Warhammer]]
 - [[Badge of Authority]]
@@ -111,6 +118,8 @@ The permanent cumulative record for the campaign. Unlike [[index|the campaign ho
 - [[Rust Gnawer]]
 - [[Seam Lurker]]
 - [[Bucket Scrabs]]
+- [[Crynord]]
+- [[Braced Melt]]
 
 ## Campaign Background
 

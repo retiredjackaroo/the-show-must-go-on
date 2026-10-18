@@ -1,7 +1,7 @@
 ---
 type: location
 title: "Meridian Hill"
-tags: [campaign/the-show-must-go-on, session-6, session-7, location]
+tags: [campaign/the-show-must-go-on, session-6, session-7, session-8, location]
 draft: false
 dg-publish: true
 publish: true
@@ -20,7 +20,17 @@ Roughly six weeks before Session 6, an unnatural blizzard settled over the hill 
 - **Glacier Tongue:** Four-foot-thick clear ice over fast meltwater. The party lost the [[Ear-Notch Echo Catcher]] beneath it.
 - **Cliff shelf:** A [[Lament Widow]] nested here and held Rusk. The party rescued the dog and recovered one missing Hunt tag below the ledge.
 - **Broken wall and instrument yard:** The approach to the crown contains old brass instruments, bird nests, a stair to the cistern and dormant Meridian Wards.
-- **Meridian ring:** The [[Cry Wildheart]] fought a frost giant for almost a day. The party killed the giant after joining the battle. Its name is provisionally recorded as Thurnvold.
-- **Observatory:** A multi-level complex containing Meridian Wards, small human-shaped wretches, lower service spaces, old charts and machinery. The party passed directly through it to kill the Cry Wildheart on the roof. During their long rest, the observatory reactivated. It remains uncleared.
+- **Meridian ring:** The [[Cry Wildheart]] fought a frost giant for almost a day. The party killed the giant after joining the battle.
+- **Crown Observatory:** A multi-level complex containing Meridian Wards, [[Crynord]], chart vaults, lower service spaces and ancient machinery. The party cleared and claimed it as a bastion in Session 8. Its remaining wards are friendly, but the telescope and teleportation circle remain disabled.
 
-Juno requested a meridian-arm blueprint, journals and charts, the fate of an earlier Hunt group and one deactivated construct guard. Two of three Hunt tags have been recovered.
+## Crown Observatory bastion
+
+![[Assets/Session 8 - Meridian Hill Observatory.jpg|The Crown Observatory and meridian ring at the summit of Meridian Hill.]]
+
+The observatory's fixed magical weather vane can shift the surrounding climate over five days between arctic, moderate, rainy and volcanic settings. The party changed it from arctic to moderate.
+
+The complex includes an upper meridian ring, ground-floor hall and dormitories, a chart vault, boiler cellar, underbreach and cistern. Its staff became the cursed [[Crynord]] after an astronomical experiment roughly forty years ago. The party stabilised the boiler, killed the [[Braced Melt]] and claimed the site through its central console.
+
+The telescope requires reconstruction before it can be used. The large external meridian ring is a disabled teleportation circle whose repair requires solving the seven-chart [[Meridian Star Charts]] puzzle.
+
+Juno requested a meridian-arm blueprint, journals and charts, the fate of an earlier Hunt group and one deactivated construct guard. The party now holds all three missing Hunt tags, the requested star plates and an intact deactivated Meridian Ward. Delivery and final accounting remain outstanding.

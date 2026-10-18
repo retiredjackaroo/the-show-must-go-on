@@ -16,22 +16,20 @@ banner: /assets/party-banner.webp
 
 ## Where We Are Now
 
-The party is camped on the roof of the reactivated observatory at [[Meridian Hill]]. Rusk has been rescued, the frost giant provisionally recorded as Thurnvold and the [[Cry Wildheart]] are dead, and the unnatural blizzard has ended. The Eastern Cry proof has not yet been handed to the [[Belhaven Hunt]]. Two of the previous expedition's three Hunt tags have been recovered.
+The party has cleared and claimed the Crown Observatory at [[Meridian Hill]] as its bastion. The weather vane has been changed from arctic to moderate, beginning a five-day climate transition. The Eastern Cry proof and the completed [[Belhaven Hunt]] objectives have not yet been handed in.
 
 Lucian Vale, Thud Firebelly, Nova and [[Ember]] remain level 6 with a table-confirmed total of 19,863 XP each after Session 7.
 
 Ember is travelling with the group as a probationary member while they work through questions of trust and battlefield coordination. Her knowledge of Vane and destructive magic are valuable, but Lucian expects her to preserve allied control effects and Nova remains wary of impulsive area spells. Ember has agreed to work on coordinating her magic with the established party.
 
-In [[Belhaven]], the destroyed ferry has been replaced by small boats and skiffs. Guards are looking for Lucian, Nova, Thud and Ordrin under their registered identities. Lucian re-entered as Sebastian, hired a field dresser and publicly performed [[Ordrin Did It]], announcing Ordrin's death while blaming him for the barge explosion.
-
-The observatory has not been cleared. Meridian Wards, small human-shaped wretches, at least one further boss and two puzzles remain. During the party's long rest its dormant machinery and magic began to wake. The group intends to explore it before deciding whether to return to [[Belhaven]], where [[Lord-Captain Edric Vane]] was expected to arrive.
+The surviving [[Crynord]] remain cursed and confused. The observatory's telescope needs rebuilding, and its teleportation circle cannot be restored until the party solves the seven [[Meridian Star Charts]]. The group plans to finish routine looting, rest, investigate the frost giant's cave and then return to [[Belhaven]], where [[Lord-Captain Edric Vane]] was expected to arrive.
 
 [[Vane's Warhammer]] and [[What the Fuck Is Going On]] remain stored in Nova's extradimensional bag. Thud carries [[Grandmother's Grasp]], the [[Horn of Ramming Speed]], a frost-giant molar trophy and an unrevealed Cry Wildheart rib trophy.
 
 ## Latest Session
 
-- [[Session 7 - Narrative|Session 7: The Cry at the Crown]]
-- [[Session 7 - Notes|Session 7: Notes]]
+- [[Session 8 - Narrative|Session 8: The Crown Reclaimed]]
+- [[Session 8 - Notes|Session 8: Notes]]
 
 ## Hall of Fame
 
@@ -44,6 +42,7 @@ The observatory has not been cleared. Meridian Wards, small human-shaped wretche
 | 5       | Completing the Quarry Breaker contract and clearing the quarry                                                    | Thud built a two-trap, blasting-powder ambush for the Ironbark Rammer after knocking both Rust Gnawers over a ledge  | Lucian and Thud opened fire on Ember before asking who she was                                                                                  |
 | 6       | Defending the trail camp, clearing Echo Gap and returning Kelm's missing sheep                                    | Lucian extinguished the real campfire and replaced it with an illusion that drew the Chart Riders through the party  | The party weakened a 25-ton ice slab without first stabilising it, losing the rare Echo Catcher beneath the glacier                             |
 | 7       | Rescuing Rusk and completing the Eastern Cry hunt                                                                 | The party used invisibility, quarry explosives and Ember's Fireball to ambush two bosses already fighting each other | Remaining clustered on the observatory roof let the Cry Wildheart's opening cry hit the party and destroy Nova's force ballista                 |
+| 8       | Clearing the Crown Observatory and claiming it as a bastion                                                       | Nova and Ember destroyed the Braced Melt's magical braces before the party focused on the elemental itself           | Thud and Lucian each turned an aligned boiler valve the wrong way and were burned                                                               |
 
 ## Player Characters
 
@@ -96,6 +95,9 @@ The observatory has not been cleared. Meridian Wards, small human-shaped wretche
 - [[Badge of Authority]]
 - [[Altered Dispatch Ledger]]
 - [[Field Recovery Order]]
+- [[Wish You Were Here Postcard]]
+- [[Meridian Log Case]]
+- [[Meridian Star Charts]]
 
 ## Creatures
 
@@ -109,6 +111,8 @@ The observatory has not been cleared. Meridian Wards, small human-shaped wretche
 - [[Lament Widow]]
 - [[Cry Wildheart]]
 - [[Frost Giant]]
+- [[Crynord]]
+- [[Braced Melt]]
 
 ## Full Archive
 

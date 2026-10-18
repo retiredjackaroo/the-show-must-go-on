@@ -1,6 +1,6 @@
 ---
 type: faction
-title: The Company That Wouldn't Die
+title: "The Company That Wouldn't Die"
 aliases:
   - The Old Company
 tags:

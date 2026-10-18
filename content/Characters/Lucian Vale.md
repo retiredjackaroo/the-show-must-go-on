@@ -7,7 +7,7 @@ tags:
   - pc
   - party
   - campaign/the-show-must-go-on
-status: Level 6 after Session 7
+status: Level 6 after Session 8
 draft: false
 dg-publish: true
 publish: true
@@ -17,7 +17,7 @@ publish: true
 
 Lucian Vale is a charming, respectable-seeming con artist whose introduced name may or may not be his legal one. He is built to serve as the party's face and perform much of a Rogue's work while remaining a full Bard: persuasion, deception, infiltration, stealth, sleight of hand and thieves' tools, backed by battlefield control and competent melee fighting.
 
-**Status:** Level 6 after Session 7
+**Status:** Level 6 after Session 8
 **First appears:** Campaign creation
 
 ## Character Build
@@ -187,3 +187,9 @@ Session-end XP award: 2,638. Arithmetic total from the prior 14,100 is 16,738; L
 Charmed a [[Lament Widow]] with Friends and flirted back as she proposed a meal and “something more,” using the rapport to bargain Rusk free for rations. When the charm expired, the Widow realised that Lucian had tricked her and attacked after his ordinary persuasion failed. Lucian remained for the promised meal, then killed her after using invisibility and illusions to misdirect her. He later made himself and Thud invisible for the explosives ambush on the frost giant and the [[Cry Wildheart]], then used Faerie Fire and Dissonant Whispers during the ring battle.
 
 On the observatory roof he fought the Wildheart at close range and revived Thud with Healing Word after the second full cry knocked him unconscious. Session-end XP: 19,863; level 6.
+
+## Session 8 — Crown Observatory
+
+Lucian helped clear the observatory, opened its protected chart vault and fought its Meridian Wards and Echoes. He identified the animal-wheel puzzle as separate from the planetary charts and helped recover the [[Wish You Were Here Postcard]], [[Meridian Log Case]] and seven [[Meridian Star Charts]]. His attempt to dispel the [[Crynord]] curse failed with an administrative-privilege warning.
+
+During the [[Braced Melt]] battle, Lucian supported the group from the cistern doorway and delivered the killing blow with Dissonant Whispers. He ended the session by performing a song about Nova for the observatory residents, rolling 19. Session 8 XP and performance income remain uncalculated; the last confirmed total is 19,863 XP.

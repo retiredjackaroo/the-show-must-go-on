@@ -50,3 +50,9 @@ Session-end XP award: 2,638. Arithmetic total from the prior 14,100 is 16,738; t
 Nova's player was absent, so the DM ran her on limited autopilot. She kept the camp watch, identified the [[Widow-Safe Collar Clip]] and used radiant arrows and her force ballista against the [[Lament Widow]], Thurnvold and the [[Cry Wildheart]]. The Wildheart's opening roof cry destroyed her ballista and deafened her, but Nova later delivered the killing shot with a radiant arrow.
 
 Session-end XP: 19,863; level 6.
+
+## Session 8 — Crown Observatory
+
+Nova identified the observatory's magical weather vane and changed its setting from arctic to moderate. She learned to operate Meridian Ward remotes, identified the [[Wish You Were Here Postcard]] and [[Meridian Log Case]], and confirmed the nature of the [[Crynord]] curse with Detect Magic.
+
+Nova's first valve adjustment correctly relieved pressure in the failing boiler, and she later completed the alignment after Thud and Lucian made incorrect turns. In the cistern, she destroyed one of the [[Braced Melt]]'s magical braces with radiant and force attacks before being dragged into the freezing water. Session 8 XP remains uncalculated; the last confirmed total is 19,863 XP.
