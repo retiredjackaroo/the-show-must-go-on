@@ -98,6 +98,9 @@ The surviving [[Crynord]] remain cursed and confused. The observatory's telescop
 - [[Wish You Were Here Postcard]]
 - [[Meridian Log Case]]
 - [[Meridian Star Charts]]
+- [[Echo Ward Schematic]]
+- [[Meridian Ward Remote]]
+- [[Deactivated Meridian Ward]]
 
 ## Creatures
 

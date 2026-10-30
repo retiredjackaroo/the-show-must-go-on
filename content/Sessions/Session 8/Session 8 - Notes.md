@@ -28,7 +28,7 @@ Lucian Vale, Thud Firebelly, Nova and Ember cleared the Crown Observatory at [[M
 | Residents       | The surviving [[Crynord]] remain cursed and confused but less aggravated after the [[Cry Wildheart]]'s death                                  |
 | Hunt objectives | All three missing Hunt tags, the required star plates and one deactivated Meridian Ward recovered; the Eastern Cry proof still needs delivery |
 | Research        | Telescope requires rebuilding; teleportation circle requires solving the seven-chart planetary puzzle                                         |
-| Immediate plans | Finish routine looting, rest, investigate the frost giant's cave and return to [[Belhaven]]                                                   |
+| Immediate plans | Rest, investigate the frost giant's cave and return to [[Belhaven]]                                                                           |
 
 ## The upper works and weather vane
 
@@ -46,8 +46,8 @@ After Lucian opened a protected hatch, the party fought two Meridian Wards in a 
 
 The vault contained:
 
-- An Echo Ward schematic that visibly calls for material from the [[Cry Wildheart]]. Its function remains unknown.
-- Two additional Meridian Ward remotes.
+- An [[Echo Ward Schematic]] that visibly calls for material from the [[Cry Wildheart]].
+- Two additional [[Meridian Ward Remote|Meridian Ward remotes]].
 - The rare [[Wish You Were Here Postcard]].
 - Star charts numbered 3 and 23.
 - Books, rolled charts, an orrery and stacks of circular brass plates.
@@ -86,6 +86,26 @@ The water gathered in the cistern as the [[Braced Melt]], an enormous elemental 
 
 The party recovered 120 gp of alchemical material. Thud kept a valueless fragment of the destroyed bracing as a trophy.
 
+## Final loot and rewards
+
+The post-session accounting valued the party's recoveries and guild rewards at **4,350 gp**, excluding the intact [[Deactivated Meridian Ward]], for which no sale value was recorded.
+
+| Recovery                        | Quantity and value | Notes                                                                    |
+| ------------------------------- | -----------------: | ------------------------------------------------------------------------ |
+| Guild IOU                       |           1,900 gp | Owed rather than held as coin                                            |
+| [[Meridian Ward Remote]]s       |     3; 75 gp total | Brass play/pause controls worth 25 gp each                               |
+| [[Deactivated Meridian Ward]]   |        1; unpriced | Intact 150 lb construct required for the [[Belhaven Hunt]]               |
+| [[Echo Ward Schematic]]         |           1; 70 gp | Reduces labour costs by 50 gp; hearing mode once per long rest           |
+| [[Wish You Were Here Postcard]] |          1; 500 gp | Sending once per long rest and an unspent one-use party teleport         |
+| Observer spare keys             |      2; 5 gp total | Keys for observatory locks                                               |
+| [[Caretaker's Storm Lantern]]   |          1; 200 gp | Windproof lantern with storm-sight benefits and Light once per long rest |
+| [[Widow-Safe Collar Clip]]      |          1; 200 gp | Animal Friendship once per long rest and protection or handling benefits |
+| Huge greataxe                   |           1; 50 gp | Frost giant's oversized 200 lb weapon                                    |
+| Potions of Greater Healing      |    3; 600 gp total | Guild quest rewards                                                      |
+| Cold-iron scrap bundle          |      20 lb; 400 gp | Guild quest reward                                                       |
+| Brass core bundle               |      10 lb; 250 gp | Guild quest reward                                                       |
+| Antitoxin                       |    2; 100 gp total | Guild quest rewards                                                      |
+
 ## A claimed bastion
 
 With all three major threats defeated, the party activated the observatory console and claimed the complex as its main base. The remaining Meridian Wards changed allegiance. The Crynord stayed and may eventually help maintain the site if their curse can be cured.
@@ -101,6 +121,6 @@ Lucian ended the session by performing a song about Nova for the observatory's r
 - How can the telescope be rebuilt?
 - What is the solution to the seven-chart teleportation puzzle, and where can the circle travel?
 - Who is Sally, and what has happened at the beach hotel during the observatory's forty-year abandonment?
-- What does the Echo Ward do?
+- What can be built from the [[Echo Ward Schematic]], and how does its hearing mode work in practice?
 - What remains in the frost giant's cave and in the observatory's unsearched stores?
-- What XP, performance income and between-session loot are still owed?
+- What XP and performance income are still owed?
