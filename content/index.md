@@ -31,6 +31,17 @@ The surviving [[Crynord]] remain cursed and confused. The observatory's telescop
 - [[Session 8 - Narrative|Session 8: The Crown Reclaimed]]
 - [[Session 8 - Notes|Session 8: Notes]]
 
+## Current Star Power
+
+Current standings, with each character's [[What the Fuck Is Going On|Narrative Accommodation]] modifier calculated as `floor(Star Power / 5)`:
+
+| Character       | Star Power | Modifier |
+| --------------- | ---------: | -------: |
+| [[Thud]]        |         78 |      +15 |
+| [[Lucian Vale]] |         74 |      +14 |
+| [[Nova]]        |         72 |      +14 |
+| [[Ember]]       |         69 |      +13 |
+
 ## Hall of Fame
 
 | Session | Biggest Success                                                                                                   | Tactical Masterstroke                                                                                                | Biggest Mistake                                                                                                                                 |
