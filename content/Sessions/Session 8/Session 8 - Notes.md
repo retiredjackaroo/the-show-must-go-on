@@ -38,6 +38,8 @@ The party descended from the damaged telescope roof into the upper works. The Me
 
 Across a broken exterior bridge, three Chart Riders and several Gap Siphons attacked. When Thud raged while attuned to the frost giant's molar, he became Huge, gained a ten-foot reach and wedged himself between the bridge rails. The party destroyed the attackers without anyone falling.
 
+![[Assets/Session 8 - Bridge Battle at Meridian Hill.jpg|Thud holds the observatory bridge while Lucian, Nova and Ember fight the airborne attackers.]]
+
 The cart-sized weather vane at the far pinnacle was a fixed magical climate device. Its settings were arctic, moderate, rainy and volcanic, with a five-day transition between climates. The party changed it from arctic to moderate. Nearby they recovered the third missing Hunt tag, 40 gp of abandoned Hunt equipment and a play/pause remote able to control particular Meridian Wards.
 
 ## The chart vault
@@ -70,6 +72,8 @@ In the main hall, the party found numerous human-shaped survivors calling themse
 
 Nova's Detect Magic confirmed an extraordinarily powerful external curse that stopped the Crynord ageing, scattered their minds and left them prone to aggression. The Cry Wildheart had worsened their condition, but that additional influence was fading after its death. Lucian's Dispel Magic failed with a warning that he lacked the required administrative privileges. A cure will require unusually powerful magic.
 
+![[Assets/Session 8 - Jeremy and the Crynord Curse.jpg|Lucian, Nova and Ember examine Jeremy and the strange curse afflicting the Crynord.]]
+
 Jeremy recognised the postcard as his. Its Sending reached an older woman named Sally at the beach hotel, who was still waiting for him.
 
 ## Boiler cellar
@@ -83,6 +87,8 @@ The strongbox beneath the boiler contained 425 gp, two Potions of Healing, three
 ## The Braced Melt
 
 The water gathered in the cistern as the [[Braced Melt]], an enormous elemental of water, ice and rubble wearing two magical bronze braces. Nova and Ember destroyed the braces first, stripping away the creature's unusual resistances. The elemental flooded chambers, dragged Nova and Thud into the freezing cistern and battered them at close range. Lucian remained near the doorway, used illusions and support magic, then killed the weakened elemental with Dissonant Whispers.
+
+![[Assets/Session 8 - Battle with the Braced Melt.jpg|The party battles the Braced Melt in the flooded observatory undercroft.]]
 
 The party recovered 120 gp of alchemical material. Thud kept a valueless fragment of the destroyed bracing as a trophy.
 
@@ -113,6 +119,8 @@ With all three major threats defeated, the party activated the observatory conso
 The bastion includes facilities beyond what the party could normally build at its current level. Its observatory still needs reconstruction. The large ring outside is a disabled teleportation circle; restoring it requires solving the [[Meridian Star Charts]] puzzle.
 
 Lucian ended the session by performing a song about Nova for the observatory's residents and rolled 19 for Performance. The reward and Session 8 XP remain to be calculated.
+
+![[Assets/Session 8 - Lucian Performs at the Crown Observatory.jpg|Lucian performs for the party and the observatory's residents after the Crown is claimed.]]
 
 ## Open Questions
 

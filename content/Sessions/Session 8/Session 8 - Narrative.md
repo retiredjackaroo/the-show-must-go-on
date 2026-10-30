@@ -20,6 +20,8 @@ Beyond the upper ring, a narrow bridge reached toward a weather vane large enoug
 
 Chart Riders dived from above while Gap Siphons swept in beneath them. Thud roared, and the frost giant's molar answered. He expanded until his body filled the bridge and his hands reached ten feet from either side. The railing groaned under him. The party fought across open air until feathers and glittering bodies vanished into the cloud sea.
 
+![[Assets/Session 8 - Bridge Battle at Meridian Hill.jpg|Thud holds the observatory bridge while Lucian, Nova and Ember fight the airborne attackers.]]
+
 At the pinnacle, the weather vane proved to be more than brass. It governed the climate around Meridian Hill: arctic, rainy, volcanic or moderate. The party turned it toward moderate weather. Five days would be needed for the mountain to follow.
 
 They also found what the earlier hunters had left behind: equipment, a Meridian Ward remote and the third missing Hunt tag.
@@ -52,6 +54,8 @@ Lucian tried to break the curse. A voice answered from nowhere.
 
 He did not have administrative privileges.
 
+![[Assets/Session 8 - Jeremy and the Crynord Curse.jpg|Lucian, Nova and Ember examine Jeremy and the strange curse afflicting the Crynord.]]
+
 When they used the postcard, an old woman answered.
 
 “Jeremy, is that you?”
@@ -70,6 +74,8 @@ Nova broke the first brace. Ember destroyed the second. The elemental lost its u
 
 The water fell still.
 
+![[Assets/Session 8 - Battle with the Braced Melt.jpg|The party battles the Braced Melt in the flooded observatory undercroft.]]
+
 Three threats had been eliminated.
 
 The console accepted them.
@@ -79,6 +85,8 @@ The Crown Observatory became their bastion. Its surviving guardians turned to th
 There would be work for months.
 
 For that night, Lucian gave the broken observatory a song.
+
+![[Assets/Session 8 - Lucian Performs at the Crown Observatory.jpg|Lucian performs for the party and the observatory's residents after the Crown is claimed.]]
 
 ---
 
