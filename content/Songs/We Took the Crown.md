@@ -15,4 +15,10 @@ Lucian's victory song for the party's expedition from Belhaven to the Crown Obse
 | ------- | ----------------- | ----------: |
 | 9       | [[Belhaven Hunt]] |      **24** |
 
-The Session 9 performance was a new song for a new audience and received a very strong response. Popularity and royalties were deferred for later calculation.
+The Session 9 performance was a new song for a new audience and received a very strong response.
+
+**Popularity:** 3 — Local Song (Performance 24, +3)
+
+**Royalties at Lucian level 7:** 10 gp per session
+
+**Listen:** [The Crown Is Ours on Suno](https://suno.com/s/dmFdRd6clC3mSJoo)

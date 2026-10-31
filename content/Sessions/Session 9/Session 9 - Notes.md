@@ -61,16 +61,18 @@ Rhyse later recognised that the ledger copy entrusted to him was gone. The party
 
 ## Lucian's performance record
 
-These are raw Performance checks, preserved with song and audience. Popularity, royalties and broader geographic spread were not calculated during the session.
+These are the recorded Performance checks, resolved under the [[Hat of the Headliner]] using the supplied popularity and royalty rules.
 
-| Song / performance          | Audience      | Result | Established effect                                              |
-| --------------------------- | ------------- | -----: | --------------------------------------------------------------- |
-| [[We Took the Crown]]       | Belhaven Hunt | **24** | New song for a new audience; very strong reception              |
-| _Thud Drinks for Free_      | Belhaven Hunt | **21** | Existing song introduced to this audience as the opening number |
-| _Let Vain Count Glory_      | Belhaven Hunt | **22** | New anti-Vane song; helped turn the Hunt against recruitment    |
-| Nova song, title not stated | Belhaven Hunt | **20** | Existing Session 8 song introduced to the local audience        |
+| Song / performance       | Audience      | Result | Established effect                                                     |
+| ------------------------ | ------------- | -----: | ---------------------------------------------------------------------- |
+| [[We Took the Crown]]    | Belhaven Hunt | **24** | Hit; +3 Popularity; Local Song at 3                                    |
+| [[Thud Drinks for Free]] | Belhaven Hunt | **21** | Hit; +3 Popularity; Local Song at 3                                    |
+| [[Let Vane Count Glory]] | Belhaven Hunt | **22** | Hit; +3 Popularity; Local Song at 3; helped turn the Hunt against Vane |
+| [[Nova Finds the Angle]] | Belhaven Hunt | **20** | Hit; +3 Popularity, added to the earlier +2; Local Song at 5           |
 
-The Session 8 Nova song had previously received **19** at the Crown Observatory. Its result of **20** at the Hunt therefore records a second distinct audience. The Session 9 transcript verbally labels the 21-point venue “Belhaven Church,” but the surrounding scene and later confirmation place the performance at the Hunt; the discrepancy is retained here rather than treated as a second venue.
+The Session 8 Nova song had previously received **19** at the Crown Observatory, adding +2 Popularity. Its result of **20** at the Hunt records a second distinct audience and adds +3, for 5 total. The Session 9 transcript verbally labels the 21-point venue “Belhaven Church,” but the surrounding scene and later confirmation place the performance at the Hunt; the discrepancy is retained here rather than treated as a second venue.
+
+All four songs are Local Songs. Lucian is level 7, so each pays 10 gp at the end of a session: **40 gp per session total** from these four established Back Catalogue entries.
 
 After _Let Vain Count Glory_, Lucian made a 22 Persuasion check and convinced the Hunt that Vane's recruits were in danger. About half the crowd initially wanted immediate action. Lucian's later 23 tied Thud's opposing 23 and kept them from marching that night. The agreed plan was to discourage enlistment and bring existing recruits home.
 
@@ -86,5 +88,4 @@ Ember bought Boots of Elvenkind for 400 gp. Ember and Thud each bought a Cloak o
 - What caused Rhyse's and Nova's related memory loss?
 - Is the Hollow Host threat genuine, manufactured or being exploited by Vane?
 - What will Vane do before morning now that the rescue and Hunt performance exposed the party?
-- How do the four recorded performance results convert into popularity, royalties and song spread?
 - What are the updated Star Power values and Session 9 XP?

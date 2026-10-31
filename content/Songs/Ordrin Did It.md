@@ -11,7 +11,7 @@ Lucian's memorial song for [[Ordrin Emberkeg]], performed at the [[Belhaven Hunt
 
 **Popularity:** 2 — Crowd Favourite (Performance 18)
 
-**Royalties:** 10 gp per session
+**Royalties:** None until the song reaches 3 Popularity and enters the [[Hat of the Headliner]] Back Catalogue
 
 ![[Assets/Ordrin Did It.mp3|Ordrin Did It]]
 

@@ -17,6 +17,8 @@ publish: true
 
 Lucian Vale is a charming, respectable-seeming con artist whose introduced name may or may not be his legal one. He is built to serve as the party's face and perform much of a Rogue's work while remaining a full Bard: persuasion, deception, infiltration, stealth, sleight of hand and thieves' tools, backed by battlefield control and competent melee fighting.
 
+Lucian is attuned to the [[Hat of the Headliner]], which tracks the Popularity, circulation and sessional royalties of his original songs.
+
 **Status:** Level 6 after Session 8
 **First appears:** Campaign creation
 
@@ -200,4 +202,4 @@ Lucian returned to Belhaven at level 7. During the road ambush he used Faerie Fi
 
 He infiltrated Vane's military ward under invisibility, saw the unscarred captain alive, found [[Lucan Rhyse]] imprisoned below the compound and restored enough of Rhyse's memory with a quiet song to organise an escape. When concealment failed, Lucian revealed himself, met Vane's stare and walked out after Rhyse and Ember.
 
-At the Hunt he recorded 21 for _Thud Drinks for Free_, 22 for the new anti-Vane song _Let Vain Count Glory_ and 20 for the previously performed Nova song. His appeal turned the Hunt against Vane's recruitment campaign. These are raw audience-specific performance results; popularity, royalties, wider spread, updated Star Power and Session 9 XP remain uncalculated.
+At the Hunt he recorded 21 for [[Thud Drinks for Free]], 22 for the new anti-Vane song [[Let Vane Count Glory]] and 20 for [[Nova Finds the Angle]]. His appeal turned the Hunt against Vane's recruitment campaign. Under the [[Hat of the Headliner]], each Session 9 result added +3 Popularity. Together with Nova's earlier +2, the four established Back Catalogue songs currently pay 40 gp per session at Lucian's level.

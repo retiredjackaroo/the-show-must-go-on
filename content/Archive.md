@@ -95,6 +95,7 @@ The permanent cumulative record for the campaign. Unlike [[index|the campaign ho
 
 ## All Items
 
+- [[Hat of the Headliner]]
 - [[Caretaker's Storm Lantern]]
 - [[Horn of Ramming Speed]]
 - [[Ear-Notch Echo Catcher]]
@@ -129,6 +130,10 @@ The permanent cumulative record for the campaign. Unlike [[index|the campaign ho
 
 ## Songs
 
+- [[We Took the Crown]]
+- [[Let Vane Count Glory]]
+- [[Thud Drinks for Free]]
+- [[Nova Finds the Angle]]
 - [[Ordrin Did It]]
 - [[Lucian and the Catastrophe]]
 - [[Lucian Wins the Battle]]

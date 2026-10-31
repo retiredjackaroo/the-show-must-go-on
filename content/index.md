@@ -113,6 +113,7 @@ Current standings, with each character's [[What the Fuck Is Going On|Narrative A
 - [[Echo Ward Schematic]]
 - [[Meridian Ward Remote]]
 - [[Deactivated Meridian Ward]]
+- [[Hat of the Headliner]]
 
 ## Creatures
 
