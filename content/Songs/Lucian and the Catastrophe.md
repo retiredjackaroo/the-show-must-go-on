@@ -9,10 +9,10 @@ publish: true
 
 Lucian's song for the Belhaven dockside performance in Session 4. The planned spectacle ended in an awkward silence when the song and the barge explosion fell out of sync, but a later performance at the [[Belhaven Hunt]] finally won a good reception.
 
-| Session | Audience | Reception | Popularity gained |
-| ------: | -------- | --------- | ----------------: |
-| 4 | Belhaven docks | Flop | +0 |
-| 6 | Belhaven Hunt | Good Reception | +1 |
+| Session | Audience       | Reception      | Popularity gained |
+| ------: | -------------- | -------------- | ----------------: |
+|       4 | Belhaven docks | Flop           |                +0 |
+|       6 | Belhaven Hunt  | Good Reception |                +1 |
 
 **Popularity:** 1
 

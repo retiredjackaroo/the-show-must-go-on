@@ -9,10 +9,10 @@ publish: true
 
 Lucian's drinking song for [[Thud]], built for a hall to stamp along with and for bartenders to remember when the bill arrives.
 
-| Session | Audience | Result | Popularity gained |
-| ------: | -------- | -----: | ----------------: |
-| 7 | Party camp and two farmers | Rehearsal explicitly excluded as an audience | +0 |
-| 9 | Belhaven Hunt | 21 | +3 |
+| Session | Audience                   |                                       Result | Popularity gained |
+| ------: | -------------------------- | -------------------------------------------: | ----------------: |
+|       7 | Party camp and two farmers | Rehearsal explicitly excluded as an audience |                +0 |
+|       9 | Belhaven Hunt              |                                           21 |                +3 |
 
 **Popularity:** 3 — Local Song
 
