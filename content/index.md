@@ -1,7 +1,7 @@
 ---
 type: index
 title: The Show Must Go On
-description: A Dungeons & Dragons campaign archive following Lucian Vale, Thud Firebelly, Nova and Ember from Belhaven to Meridian Hill.
+description: A Dungeons & Dragons campaign archive following Lucian Vale, Thud Firebelly, Nova and Ember from Meridian Hill back to a Belhaven under Vane's control.
 aliases:
   - The Show Must Go On Campaign Homepage
 tags:
@@ -16,9 +16,9 @@ banner: /assets/party-banner.webp
 
 ## Where We Are Now
 
-The party has cleared and claimed the Crown Observatory at [[Meridian Hill]] as its bastion. The weather vane has been changed from arctic to moderate, beginning a five-day climate transition. The Eastern Cry proof and the completed [[Belhaven Hunt]] objectives have not yet been handed in.
+The party has returned to [[Belhaven]], delivered its completed Hunt objectives and rescued [[Lucan Rhyse]] from [[Lord-Captain Edric Vane|Vane]]'s military ward. Lucian's anti-Vane performance turned the [[Belhaven Hunt]] against the captain's recruitment drive, but Vane saw Lucian during the escape and is expected to mobilise before morning.
 
-Lucian Vale, Thud Firebelly, Nova and [[Ember]] remain level 6 with a table-confirmed total of 19,863 XP each after Session 7.
+Lucian Vale, Thud Firebelly, Nova and [[Ember]] are level 7. Session 9 XP and updated Star Power remain unconfirmed.
 
 Ember is travelling with the group as a probationary member while they work through questions of trust and battlefield coordination. Her knowledge of Vane and destructive magic are valuable, but Lucian expects her to preserve allied control effects and Nova remains wary of impulsive area spells. Ember has agreed to work on coordinating her magic with the established party.
 
@@ -28,8 +28,8 @@ The surviving [[Crynord]] remain cursed and confused. The observatory's telescop
 
 ## Latest Session
 
-- [[Session 8 - Narrative|Session 8: The Crown Reclaimed]]
-- [[Session 8 - Notes|Session 8: Notes]]
+- [[Session 9 - Narrative|Session 9: A Song Against the Captain]]
+- [[Session 9 - Notes|Session 9: Notes]]
 
 ## Current Star Power
 
@@ -54,6 +54,7 @@ Current standings, with each character's [[What the Fuck Is Going On|Narrative A
 | 6       | Defending the trail camp, clearing Echo Gap and returning Kelm's missing sheep                                    | Lucian extinguished the real campfire and replaced it with an illusion that drew the Chart Riders through the party  | The party weakened a 25-ton ice slab without first stabilising it, losing the rare Echo Catcher beneath the glacier                             |
 | 7       | Rescuing Rusk and completing the Eastern Cry hunt                                                                 | The party used invisibility, quarry explosives and Ember's Fireball to ambush two bosses already fighting each other | Remaining clustered on the observatory roof let the Cry Wildheart's opening cry hit the party and destroy Nova's force ballista                 |
 | 8       | Clearing the Crown Observatory and claiming it as a bastion                                                       | Nova and Ember destroyed the Braced Melt's magical braces before the party focused on the elemental itself           | Thud and Lucian each turned an aligned boiler valve the wrong way and were burned                                                               |
+| 9       | Rescuing Lucan Rhyse and turning the Hunt against Vane's recruitment drive                                        | Lucian used a song to restore Rhyse's memory before the party extracted him under invisibility                       | Nova and Thud's noisy roof approach alerted Vane and forced a firebomb-assisted escape                                                          |
 
 ## Player Characters
 

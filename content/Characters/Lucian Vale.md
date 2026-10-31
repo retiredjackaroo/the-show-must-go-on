@@ -193,3 +193,11 @@ On the observatory roof he fought the Wildheart at close range and revived Thud 
 Lucian helped clear the observatory, opened its protected chart vault and fought its Meridian Wards and Echoes. He identified the animal-wheel puzzle as separate from the planetary charts and helped recover the [[Wish You Were Here Postcard]], [[Meridian Log Case]] and seven [[Meridian Star Charts]]. His attempt to dispel the [[Crynord]] curse failed with an administrative-privilege warning.
 
 During the [[Braced Melt]] battle, Lucian supported the group from the cistern doorway and delivered the killing blow with Dissonant Whispers. He ended the session by performing a song about Nova for the observatory residents, rolling 19. Session 8 XP and performance income remain uncalculated; the last confirmed total is 19,863 XP.
+
+## Session 9 — A Song Against the Captain
+
+Lucian returned to Belhaven at level 7. During the road ambush he used Faerie Fire and Bardic Inspiration, killed a captain with a critical bow shot and twice restored Thud with third-level Healing Word. At the Hunt he performed [[We Took the Crown]] for a new audience with a Performance result of 24.
+
+He infiltrated Vane's military ward under invisibility, saw the unscarred captain alive, found [[Lucan Rhyse]] imprisoned below the compound and restored enough of Rhyse's memory with a quiet song to organise an escape. When concealment failed, Lucian revealed himself, met Vane's stare and walked out after Rhyse and Ember.
+
+At the Hunt he recorded 21 for _Thud Drinks for Free_, 22 for the new anti-Vane song _Let Vain Count Glory_ and 20 for the previously performed Nova song. His appeal turned the Hunt against Vane's recruitment campaign. These are raw audience-specific performance results; popularity, royalties, wider spread, updated Star Power and Session 9 XP remain uncalculated.

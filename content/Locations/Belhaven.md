@@ -28,3 +28,7 @@ The party escaped in a wagon with two mules. Guards searched for the names regis
 Four days after the explosion, the ferry had been replaced by small boats and skiffs carrying supplies toward Greyfen. Town talk still expected Vane, and guards were looking for Lucian, Nova, Thud and Ordrin under their registered identities.
 
 Lucian entered as Sebastian, visited the [[Belhaven Hunt]] and performed [[Ordrin Did It]]. The memorial announced Ordrin's death while naming him as the barge bomber. Several listeners left during the immediate reaction, possibly to alert [[Lucan Rhyse]]. This was Lucian's public claim, not a confirmed account of responsibility.
+
+## Session 9 — Return and resistance
+
+Vane established recruitment camps outside the walls and effective martial law around the military ward, publicly blaming the Hollow Host for the barge attack and preparing recruits to depart within three days. The party returned openly, rescued Rhyse from confinement below the ward and turned the Belhaven Hunt against the recruitment drive. Vane knows the party's location and is expected to mobilise.

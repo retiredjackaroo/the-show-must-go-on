@@ -14,6 +14,8 @@ The permanent cumulative record for the campaign. Unlike [[index|the campaign ho
 
 ## All Sessions
 
+- [[Session 9 - Narrative|Session 9: A Song Against the Captain]]
+- [[Session 9 - Notes|Session 9: Notes]]
 - [[Session 8 - Narrative|Session 8: The Crown Reclaimed]]
 - [[Session 8 - Notes|Session 8: Notes]]
 - [[Session 7 - Narrative|Session 7: The Cry at the Crown]]

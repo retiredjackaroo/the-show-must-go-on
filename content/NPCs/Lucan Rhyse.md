@@ -25,6 +25,8 @@ Rhyse offered immediate discharge if the party surrendered every version of the 
 
 Rhyse reported that Vane intended to reach Belhaven within three days to deliver news from operations in the far western marches. He later attended Lucian's dockside performance. After the barge exploded, he sent guards to find the people registered at the Hunt under the party's cover names.
 
+In Session 9, the party learned that Rhyse had survived an assassination attempt and disappeared when Vane arrived in Belhaven. Lucian found him confined below the military ward, suffering nightmares and unable to remember the bard or his investigation. A song restored much of his memory. Lucian and Ember extracted him under invisibility and took him to the Hunt. Rhyse's copy of the altered ledger is missing, but the party retains the originals. He now accepts that he needs protection and opposes Vane.
+
 ## Open Questions
 
 - How independent is Rhyse from Vane in practice?

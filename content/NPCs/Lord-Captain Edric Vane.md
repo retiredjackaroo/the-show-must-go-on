@@ -41,3 +41,7 @@ Nova reports that Vane died, but acknowledges hazy memories. His representative 
 [[Lucan Rhyse]] said Vane was travelling to Belhaven and expected within three days to deliver news about operations in the far western marches. Rhyse treated him as alive, mobile and in command. This is another current report, not proof resolving Lucian's account of killing him or Nova's report of his death.
 
 Vane intended to use the Belhaven ferry. The party's destruction of the barge disrupted that route, leaving the timing and method of his arrival uncertain.
+
+## Session 9 — Belhaven
+
+Lucian saw Vane directly in Belhaven's military ward. Vane appeared alive, healthy and without a scar on his throat. Ember sensed power greater than any she had previously encountered. Vane had brought roughly 20–30 soldiers, gathered recruits for a western campaign and imposed effective martial law. He held the missing [[Lucan Rhyse]] below the compound; after the party rescued Rhyse, Vane and Lucian saw one another clearly across the yard. Vane smiled. The observation confirms his current presence but does not explain his survival or identity.
