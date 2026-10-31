@@ -9,6 +9,12 @@ publish: true
 
 Lucian's Fen Mother ballad, performed at the Belhaven Hunt in Session 3 and written as a swaggering account of the Session 2 victory. The song credits Lucian's strategy for recruiting Arlen Marr, then gives the supporting cast their deliberately exaggerated places in the tale.
 
+The Session 6 transcript explicitly records this song at **3 Popularity**, placing it in Lucian's [[Hat of the Headliner]] Back Catalogue as a Local Song. Its Session 3 sanctuary performance restored memories of Sebastian, but no separate numeric popularity increase was recorded.
+
+**Popularity:** 3 — Local Song
+
+**Royalties at Lucian level 7:** 10 gp per session
+
 ![[Assets/Lucian_Wins_the_Battle.mp3|Lucian Wins the Battle]]
 
 ## Lyrics

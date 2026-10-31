@@ -72,7 +72,7 @@ These are the recorded Performance checks, resolved under the [[Hat of the Headl
 
 The Session 8 Nova song had previously received **19** at the Crown Observatory, adding +2 Popularity. Its result of **20** at the Hunt records a second distinct audience and adds +3, for 5 total. The Session 9 transcript verbally labels the 21-point venue “Belhaven Church,” but the surrounding scene and later confirmation place the performance at the Hunt; the discrepancy is retained here rather than treated as a second venue.
 
-All four songs are Local Songs. Lucian is level 7, so each pays 10 gp at the end of a session: **40 gp per session total** from these four established Back Catalogue entries.
+These four songs are Local Songs. The prior transcripts also establish [[Lucian Wins the Battle]] at 3 Popularity, making five Local Songs in the current Back Catalogue. Lucian is level 7, so each pays 10 gp at the end of a session: **50 gp per session total**. The reconstructed card-based total through Session 9 is 100 gp; the DM's provisional 120 gp award remains a table ruling.
 
 After _Let Vain Count Glory_, Lucian made a 22 Persuasion check and convinced the Hunt that Vane's recruits were in danger. About half the crowd initially wanted immediate action. Lucian's later 23 tied Thud's opposing 23 and kept them from marching that night. The agreed plan was to discourage enlistment and bring existing recruits home.
 

@@ -61,14 +61,31 @@ Lucian is level 7, so the level 5–8 royalty row applies.
 
 | Song                     | Recorded audience results                      | Popularity | Status     | Sessional royalty |
 | ------------------------ | ---------------------------------------------- | ---------: | ---------- | ----------------: |
+| [[Lucian Wins the Battle]] | Session 6's explicit carried tally           |      **3** | Local Song |         **10 gp** |
 | [[We Took the Crown]]    | Belhaven Hunt 24: +3                           |      **3** | Local Song |         **10 gp** |
 | [[Thud Drinks for Free]] | Belhaven Hunt 21: +3                           |      **3** | Local Song |         **10 gp** |
 | [[Let Vane Count Glory]] | Belhaven Hunt 22: +3                           |      **3** | Local Song |         **10 gp** |
 | [[Nova Finds the Angle]] | Crown Observatory 19: +2; Belhaven Hunt 20: +3 |      **5** | Local Song |         **10 gp** |
 
-**Current established total from these four Back Catalogue songs: 40 gp per session.**
+**Current established total from these five Back Catalogue songs: 50 gp per session.**
 
-The supplied card makes Popular Song begin at 6, so Nova's current total of 5 remains Local. Earlier campaign pages that treated songs below 3 Popularity as royalty-bearing have been corrected. The DM's provisional 120 gp award at the start of Session 9 remains a table ruling rather than a reconstruction from incomplete earlier performance records.
+The supplied card makes Popular Song begin at 6, so Nova's current total of 5 remains Local. Earlier campaign pages that treated songs below 3 Popularity as royalty-bearing have been corrected. The DM's provisional 120 gp award at the start of Session 9 remains a table ruling rather than a reconstruction from the performance record.
+
+## Reconciled session ledger
+
+The earlier transcripts establish that [[Lucian Wins the Battle]] was already at 3 Popularity by Session 6. Lucian's remark about adding an “extra 20” is consistent with its 10 gp royalty for Sessions 4 and 5, rather than evidence for another unidentified catalogue song.
+
+| Session | End-of-session catalogue | Royalty established by the card |
+| ------: | ------------------------ | -------------------------------: |
+| 3       | Lucian Wins the Battle reached 3; Lucian was level 4 | No level-4 payout is listed |
+| 4       | 1 Local Song             | 10 gp |
+| 5       | 1 Local Song             | 10 gp |
+| 6       | 1 Local Song; Catastrophe 1, Ordrin 2 | 10 gp |
+| 7       | 1 Local Song; the Thud camp rehearsal was explicitly excluded as an audience | 10 gp |
+| 8       | 1 Local Song; Nova 2      | 10 gp |
+| 9       | 5 Local Songs             | 50 gp |
+
+**Reconstructed listed royalties through Session 9: 100 gp.** This does not override the DM's provisional 120 gp table award.
 
 ## Songs Remember
 
