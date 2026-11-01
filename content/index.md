@@ -18,7 +18,7 @@ banner: /assets/party-banner.webp
 
 The party has returned to [[Belhaven]], delivered its completed Hunt objectives and rescued [[Lucan Rhyse]] from [[Lord-Captain Edric Vane|Vane]]'s military ward. Lucian's anti-Vane performance turned the [[Belhaven Hunt]] against the captain's recruitment drive, but Vane saw Lucian during the escape and is expected to mobilise before morning.
 
-Lucian Vale, Thud Firebelly, Nova and [[Ember]] are level 7. Session 9 XP and updated Star Power remain unconfirmed.
+Lucian Vale, Thud Firebelly, Nova and [[Ember]] are level 7. Session 9 XP remains unconfirmed.
 
 Ember is travelling with the group as a probationary member while they work through questions of trust and battlefield coordination. Her knowledge of Vane and destructive magic are valuable, but Lucian expects her to preserve allied control effects and Nova remains wary of impulsive area spells. Ember has agreed to work on coordinating her magic with the established party.
 
@@ -37,10 +37,10 @@ Current standings, with each character's [[What the Fuck Is Going On|Narrative A
 
 | Character       | Star Power | Modifier |
 | --------------- | ---------: | -------: |
-| [[Thud]]        |         78 |      +15 |
-| [[Lucian Vale]] |         74 |      +14 |
-| [[Nova]]        |         72 |      +14 |
-| [[Ember]]       |         69 |      +13 |
+| [[Lucian Vale]] |         75 |      +15 |
+| [[Thud]]        |         75 |      +15 |
+| [[Ember]]       |         65 |      +13 |
+| [[Nova]]        |         65 |      +13 |
 
 ## Hall of Fame
 
